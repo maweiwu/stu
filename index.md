@@ -32,7 +32,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [GAP](https://www.gap-system.org/)
 
-## Favorite Mathematician
+## Favorite mathematician
 
 [Paul Balmer's Home Page](https://www.math.ucla.edu/~balmer/)
 
