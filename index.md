@@ -24,6 +24,18 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [MSRI](https://www.msri.org/videos/dashboard)
 
+[BIRS](http://www.birs.ca/)
+
+[IHES](https://www.ihes.fr/)
+
+[HCM](https://www.hcm.uni-bonn.de/)
+
+[ICTP](https://www.ictp.it/)
+
+[MFO](https://www.mfo.de/)
+
+[XWCHEN](http://home.ustc.edu.cn/~xwchen/favorite.htm)
+
 [UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar)
 
 [Essen Seminars-2018](http://www.esaga.uni-due.de/events/)
