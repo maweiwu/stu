@@ -18,6 +18,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 ## Useful links
 [SCI-HUB](https://sci-hub.se/)
 
+[Library Genesis](http://libgen.st/)
+
 [Research Gate](https://www.researchgate.net/)
 
 [MSRI](https://www.msri.org/videos/dashboard)
