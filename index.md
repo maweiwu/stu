@@ -26,7 +26,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [A List of Conferences in Topology](https://mathmeetings.net/at-gt)
 
-[Introduction to Derived Geometry](http://bicmr.pku.edu.cn/content/show/70-2449.html)---Video password: Geometry.
+[Introduction to Derived Geometry](http://bicmr.pku.edu.cn/content/show/70-2449.html) Video password: Geometry.
 
 [arXiv.org](https://arxiv.org/)
 
