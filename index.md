@@ -2,7 +2,7 @@
 
 ## Maway Woo
 
-Email: mawaywoo@126.com
+Email: mawaywoo(at)126(dot)com
 
 
 ## Personal information
