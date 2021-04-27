@@ -36,6 +36,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Higher Homotopical Structures](https://sites.google.com/view/hhs2021-opening/videos)
 
+[Seminar on Higher Homotopical Structures](https://sites.google.com/view/hhs2021-seminar/past-talks-videos)
+
 [CRM](https://www.crm.cat/irp-higher-homotopical-structures/)
 
 [XWCHEN](http://home.ustc.edu.cn/~xwchen/favorite.htm)
