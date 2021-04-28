@@ -72,6 +72,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Mathieu ANEL's Home Page](http://mathieu.anel.free.fr/)
 
+[André Joyal](https://professeurs.uqam.ca/professeur/joyal.andre/)
+
 [Srikanth B. Iyengar's Home Page](https://www.math.utah.edu/~iyengar/)
 
 [Olivia Caramello's Home Page](https://www.oliviacaramello.com/)
