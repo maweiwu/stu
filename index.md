@@ -34,6 +34,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [MFO](https://www.mfo.de/)
 
+[Joyal's CatLab](https://ncatlab.org/joyalscatlab/published/HomePage)
+
+[nLab](https://ncatlab.org/nlab/show/HomePage)
+
 [Higher Homotopical Structures](https://sites.google.com/view/hhs2021-opening/videos)
 
 [Seminar on Higher Homotopical Structures](https://sites.google.com/view/hhs2021-seminar/past-talks-videos)
@@ -62,4 +66,26 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Peter Webb's Home Page](http://www-users.math.umn.edu/~webb/)
 
+[Emily Riehl's Home Page](https://math.jhu.edu/~eriehl/)
 
+[Michael Shulman's Home Page](https://home.sandiego.edu/~shulman/)
+
+[Mathieu ANEL's Home Page](http://mathieu.anel.free.fr/)
+
+[Srikanth B. Iyengar's Home Page](https://www.math.utah.edu/~iyengar/)
+
+[Olivia Caramello's Home Page](https://www.oliviacaramello.com/)
+
+[Laurent Lafforgue's Home Page](https://www.laurentlafforgue.org/)
+
+[Vladimir Voevodsky's Home Page](https://www.math.ias.edu/vladimir/home)
+
+[Peter Scholze's Home Page](https://www.math.uni-bonn.de/people/scholze/)
+
+[Bernhard Keller's Home Page](https://univ-paris-diderot.academia.edu/BernhardKeller)
+
+[Bob Oliver's Home Page](https://www.math.univ-paris13.fr/~bobol/)
+
+[Jon F. Carlson's Home Page](http://alpha.math.uga.edu/~jfc/)
+
+[Sarah Witherspoon's Home Page](https://www.math.tamu.edu/~sarah.witherspoon/) 
