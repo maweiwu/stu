@@ -58,6 +58,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [GAP](https://www.gap-system.org/)
 
+[Algebraic Geometry in East Asia Online Seminar](http://www.math.ntu.edu.tw/~jkchen/agea-seminar)
+
 ## Favorite mathematician
 
 [Paul Balmer's Home Page](https://www.math.ucla.edu/~balmer/)
