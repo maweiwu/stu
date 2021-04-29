@@ -42,15 +42,11 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Seminar on Higher Homotopical Structures](https://sites.google.com/view/hhs2021-seminar/past-talks-videos)
 
-[CRM](https://www.crm.cat/irp-higher-homotopical-structures/)
-
 [XWCHEN](http://home.ustc.edu.cn/~xwchen/favorite.htm)
 
 [UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar)
 
 [Essen Seminars-2018](http://www.esaga.uni-due.de/events/)
-
-[A List of Conferences in Topology](https://mathmeetings.net/at-gt)
 
 [Introduction to Derived Geometry](http://bicmr.pku.edu.cn/content/show/70-2449.html) Video password: Geometry.
 
@@ -58,7 +54,29 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [GAP](https://www.gap-system.org/)
 
+## Upcoming meeting
+
 [Algebraic Geometry in East Asia Online Seminar](http://www.math.ntu.edu.tw/~jkchen/agea-seminar)
+
+[CRM](https://www.crm.cat/irp-higher-homotopical-structures/)
+
+[Meetings Related to Representation Theory of Algebras](https://folk.ntnu.no/oyvinso/FDList/Conferences/conferencelist.php)
+
+[Homological Methods in Representation Theory](http://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/activities/hmrt/hmrt.html)
+
+[A List of Conferences in Topology](https://mathmeetings.net/at-gt)
+
+[Online seminar on representation theory of finite-dimensional algebras](https://www.fd-seminar.xyz/about/)
+
+[Group Conferences](https://people.clas.ufl.edu/turull/conferences/)
+
+[Conferences and Meetings on Group Theory](https://www.conference-service.com/conferences/group-theory.html)
+
+[Topos](http://phck.net/conferences.html)
+
+[Conferences Related to Topology, Mirror Symmetry or Symplectic Geometry](https://www.hiroleetanaka.com/index.php?pageID=conferences)
+
+[Categories List](https://www.mta.ca/~cat-dist/)
 
 ## Favorite mathematician
 
@@ -93,3 +111,35 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Jon F. Carlson's Home Page](http://alpha.math.uga.edu/~jfc/)
 
 [Sarah Witherspoon's Home Page](https://www.math.tamu.edu/~sarah.witherspoon/) 
+
+[Steffen Koenig's Home Page](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html)
+
+[Gustavo Jasso's Home Page](http://www.math.uni-bonn.de/people/gjasso/)
+
+[Osamu Iyama's Home Page](https://www.math.nagoya-u.ac.jp/~iyama/)
+
+[S. Paul Smith's Home Page](https://sites.math.washington.edu/~smith/)
+
+[Henning Krause's Home Page](https://www.math.uni-bielefeld.de/~hkrause/)
+
+[Birge Huisgen-Zimmermann's Home Page](http://web.math.ucsb.edu/~birge/)
+
+[Aslak Bakke Buan's Home Page](http://web.math.ucsb.edu/~birge/)
+
+[Silvana Bazzoni's Home Page](https://www.math.unipd.it/~bazzoni/)
+
+[Jan Stovicek's Home Page](https://sites.google.com/site/infdimreps/)
+
+[Jan Trlifaj's Home Page](https://sites.google.com/site/infdimreps/)
+
+[Rosanna Laking's Home Page](http://profs.scienze.univr.it/laking/)
+
+[Alexandre Turull's Home Page](https://people.clas.ufl.edu/turull/conferences/)
+
+[Amiya's Home Page](https://sites.google.com/view/amiya-homepage)
+
+[Eugenio Giannelli's Home Page](https://eugeniomaths.wordpress.com/schedule/)
+
+
+
+
