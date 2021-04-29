@@ -56,6 +56,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## Upcoming meeting
 
+[Summer School on Higher Topos Theory and Univalent Foundations](https://conferences.leeds.ac.uk/httuf/)
+
+[Paige Randall North](https://paigenorth.github.io/)
+
 [Algebraic Geometry in East Asia Online Seminar](http://www.math.ntu.edu.tw/~jkchen/agea-seminar)
 
 [CRM](https://www.crm.cat/irp-higher-homotopical-structures/)
@@ -160,4 +164,15 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/mathtexts.php)
 
+[Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/)
+
+[Karol Szumiło](http://www1.maths.leeds.ac.uk/~pmtks/)
+
+[Benedikt Ahrens](https://www.birmingham.ac.uk/staff/profiles/computer-science/ahrens-benedikt.aspx)
+
+[Paige Randall North](https://paigenorth.github.io/)
+
+[Gabriele Lobbia](https://eps.leeds.ac.uk/maths/pgr/5559/gabriele-lobbia)
+
+[Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com/)
 
