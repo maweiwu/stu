@@ -180,3 +180,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com/)
 
+[Frederik Marks](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Marks/index.html)
+
+[Jorge Vitória](https://sites.google.com/view/jorgevitoria/)
+
+[Jan Stovicek](https://www2.karlin.mff.cuni.cz/~stovicek/)
+
