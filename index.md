@@ -40,7 +40,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Como](https://ncatlab.org/nlab/show/Como)
 
-[Seminar on derived categories](https://www2.karlin.mff.cuni.cz/~stovicek/index.php/en/2021zs-derived-cat)
+[Seminar on Derived Categories](https://www2.karlin.mff.cuni.cz/~stovicek/index.php/en/2021zs-derived-cat)
 
 [Higher Homotopical Structures](https://sites.google.com/view/hhs2021-opening/videos)
 
