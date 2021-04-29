@@ -60,6 +60,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Summer School on Higher Topos Theory and Univalent Foundations](https://conferences.leeds.ac.uk/httuf/)
 
+[Zassenhaus Groups and Friends Conference](https://sites.google.com/a/oswego.edu/zassenhaus/archive)
+
 [Paige Randall North](https://paigenorth.github.io/)
 
 [Algebraic Geometry in East Asia Online Seminar](http://www.math.ntu.edu.tw/~jkchen/agea-seminar)
