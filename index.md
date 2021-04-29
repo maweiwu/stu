@@ -38,6 +38,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [nLab](https://ncatlab.org/nlab/show/HomePage)
 
+[Como](https://ncatlab.org/nlab/show/Como)
+
 [Higher Homotopical Structures](https://sites.google.com/view/hhs2021-opening/videos)
 
 [Seminar on Higher Homotopical Structures](https://sites.google.com/view/hhs2021-seminar/past-talks-videos)
