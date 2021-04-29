@@ -80,66 +80,84 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## Favorite mathematician
 
-[Paul Balmer's Home Page](https://www.math.ucla.edu/~balmer/)
+[Paul Balmer](https://www.math.ucla.edu/~balmer/)
 
-[Jacob Lurie's Home Page](https://www.math.ias.edu/~lurie/)
+[Jacob Lurie](https://www.math.ias.edu/~lurie/)
 
-[Peter Webb's Home Page](http://www-users.math.umn.edu/~webb/)
+[Peter Webb](http://www-users.math.umn.edu/~webb/)
 
-[Emily Riehl's Home Page](https://math.jhu.edu/~eriehl/)
+[Emily Riehl](https://math.jhu.edu/~eriehl/)
 
-[Michael Shulman's Home Page](https://home.sandiego.edu/~shulman/)
+[J. Peter May](https://www.math.uchicago.edu/~may/)
 
-[Mathieu ANEL's Home Page](http://mathieu.anel.free.fr/)
+[Michael Shulman](https://home.sandiego.edu/~shulman/)
+
+[Mathieu ANEL](http://mathieu.anel.free.fr/)
 
 [André Joyal](https://professeurs.uqam.ca/professeur/joyal.andre/)
 
-[Srikanth B. Iyengar's Home Page](https://www.math.utah.edu/~iyengar/)
+[Charles Rezk](https://faculty.math.illinois.edu/~rezk/)
 
-[Olivia Caramello's Home Page](https://www.oliviacaramello.com/)
+[Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/)
 
-[Laurent Lafforgue's Home Page](https://www.laurentlafforgue.org/)
+[Olivia Caramello](https://www.oliviacaramello.com/)
 
-[Vladimir Voevodsky's Home Page](https://www.math.ias.edu/vladimir/home)
+[Laurent Lafforgue](https://www.laurentlafforgue.org/)
 
-[Peter Scholze's Home Page](https://www.math.uni-bonn.de/people/scholze/)
+[Vladimir Voevodsky](https://www.math.ias.edu/vladimir/home)
 
-[Bernhard Keller's Home Page](https://univ-paris-diderot.academia.edu/BernhardKeller)
+[Peter Scholze](https://www.math.uni-bonn.de/people/scholze/)
 
-[Bob Oliver's Home Page](https://www.math.univ-paris13.fr/~bobol/)
+[Bernhard Keller](https://univ-paris-diderot.academia.edu/BernhardKeller)
 
-[Jon F. Carlson's Home Page](http://alpha.math.uga.edu/~jfc/)
+[Bob Oliver](https://www.math.univ-paris13.fr/~bobol/)
 
-[Sarah Witherspoon's Home Page](https://www.math.tamu.edu/~sarah.witherspoon/) 
+[Jon F. Carlson](http://alpha.math.uga.edu/~jfc/)
 
-[Steffen Koenig's Home Page](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html)
+[Sarah Witherspoon](https://www.math.tamu.edu/~sarah.witherspoon/) 
 
-[Gustavo Jasso's Home Page](http://www.math.uni-bonn.de/people/gjasso/)
+[Steffen Koenig](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html)
 
-[Osamu Iyama's Home Page](https://www.math.nagoya-u.ac.jp/~iyama/)
+[Gustavo Jasso](http://www.math.uni-bonn.de/people/gjasso/)
 
-[S. Paul Smith's Home Page](https://sites.math.washington.edu/~smith/)
+[Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/)
 
-[Henning Krause's Home Page](https://www.math.uni-bielefeld.de/~hkrause/)
+[S. Paul Smith](https://sites.math.washington.edu/~smith/)
 
-[Birge Huisgen-Zimmermann's Home Page](http://web.math.ucsb.edu/~birge/)
+[Henning Krause](https://www.math.uni-bielefeld.de/~hkrause/)
 
-[Aslak Bakke Buan's Home Page](http://web.math.ucsb.edu/~birge/)
+[Birge Huisgen-Zimmermann](http://web.math.ucsb.edu/~birge/)
 
-[Silvana Bazzoni's Home Page](https://www.math.unipd.it/~bazzoni/)
+[Aslak Bakke Buan](http://web.math.ucsb.edu/~birge/)
 
-[Jan Stovicek's Home Page](https://sites.google.com/site/infdimreps/)
+[Silvana Bazzoni](https://www.math.unipd.it/~bazzoni/)
 
-[Jan Trlifaj's Home Page](https://sites.google.com/site/infdimreps/)
+[Jan Stovicek](https://sites.google.com/site/infdimreps/)
 
-[Rosanna Laking's Home Page](http://profs.scienze.univr.it/laking/)
+[Jan Trlifaj](https://sites.google.com/site/infdimreps/)
 
-[Alexandre Turull's Home Page](https://people.clas.ufl.edu/turull/conferences/)
+[Rosanna Laking](http://profs.scienze.univr.it/laking/)
 
-[Amiya's Home Page](https://sites.google.com/view/amiya-homepage)
+[Alexandre Turull](https://people.clas.ufl.edu/turull/conferences/)
 
-[Eugenio Giannelli's Home Page](https://eugeniomaths.wordpress.com/schedule/)
+[Amiya](https://sites.google.com/view/amiya-homepage)
 
+[Eugenio Giannelli](https://eugeniomaths.wordpress.com/schedule/)
 
+[Michael Aschbacher](http://www.math.caltech.edu/people/asch.html)
+
+[Markus Linckelmann](https://www.city.ac.uk/about/people/academics/markus-linckelmann)
+
+[David J. Benson](https://homepages.abdn.ac.uk/d.j.benson/pages/index.html)
+
+[Richard Lyons](https://www.math.rutgers.edu/component/comprofiler/userprofile/lyons?Itemid=714)
+
+[James, Gordon](https://wwwf.imperial.ac.uk/~gdj/)
+
+[Robert L. Griess](http://www.math.lsa.umich.edu/~rlg/)
+
+[David M. Jackson](https://www.math.uwaterloo.ca/~dmjackso/)
+
+[Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/mathtexts.php)
 
 
