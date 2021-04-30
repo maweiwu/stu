@@ -190,3 +190,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Jan Stovicek](https://www2.karlin.mff.cuni.cz/~stovicek/)
 
+[Julia Pevtsova](https://sites.math.washington.edu/~julia/)
+
+[Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/)
+
+
+
