@@ -62,6 +62,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Summer School on Higher Topos Theory and Univalent Foundations](https://conferences.leeds.ac.uk/httuf/)
 
+[Network on Silting Theory](https://networkonsilting.wordpress.com/activities/)
+
 [Zassenhaus Groups and Friends Conference](https://sites.google.com/a/oswego.edu/zassenhaus/archive)
 
 [Paige Randall North](https://paigenorth.github.io/)
