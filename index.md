@@ -72,6 +72,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Upcoming conferences (and courses) in algebraic geometry](http://math.stanford.edu/~vakil/conferences.html)
 
+[Combinatorial Algebraic Geometry](https://icerm.brown.edu/programs/sp-s21/)
+
 [CRM](https://www.crm.cat/irp-higher-homotopical-structures/)
 
 [Meetings Related to Representation Theory of Algebras](https://folk.ntnu.no/oyvinso/FDList/Conferences/conferencelist.php)
