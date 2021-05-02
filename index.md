@@ -70,6 +70,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Algebraic Geometry in East Asia Online Seminar](http://www.math.ntu.edu.tw/~jkchen/agea-seminar)
 
+[Upcoming conferences (and courses) in algebraic geometry](http://math.stanford.edu/~vakil/conferences.html)
+
 [CRM](https://www.crm.cat/irp-higher-homotopical-structures/)
 
 [Meetings Related to Representation Theory of Algebras](https://folk.ntnu.no/oyvinso/FDList/Conferences/conferencelist.php)
@@ -177,6 +179,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Karol Szumiło](http://www1.maths.leeds.ac.uk/~pmtks/)
 
 [Benedikt Ahrens](https://www.birmingham.ac.uk/staff/profiles/computer-science/ahrens-benedikt.aspx)
+
+[Tony Yue YU](https://www.imo.universite-paris-saclay.fr/~yu/)
 
 [Paige Randall North](https://paigenorth.github.io/)
 
