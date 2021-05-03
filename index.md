@@ -60,6 +60,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## Upcoming meeting
 
+[Higher Invariants](https://www-app.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/Main_Page)
+
 [Summer School on Higher Topos Theory and Univalent Foundations](https://conferences.leeds.ac.uk/httuf/)
 
 [Network on Silting Theory](https://networkonsilting.wordpress.com/activities/)
@@ -103,6 +105,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Peter Webb](http://www-users.math.umn.edu/~webb/)
 
 [Emily Riehl](https://math.jhu.edu/~eriehl/)
+
+[Denis-Charles Cisinski](http://www.mathematik.uni-regensburg.de/cisinski/)
 
 [J. Peter May](https://www.math.uchicago.edu/~may/)
 
