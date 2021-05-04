@@ -84,7 +84,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [A List of Conferences in Topology](https://mathmeetings.net/at-gt)
 
-[Online seminar on representation theory of finite-dimensional algebras](https://www.fd-seminar.xyz/about/)
+[Online seminar on representation theory of finite-dimensional algebras](https://www.fd-seminar.xyz/talks/)
 
 [Group Conferences](https://people.clas.ufl.edu/turull/conferences/)
 
