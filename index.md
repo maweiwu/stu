@@ -59,6 +59,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [GAP](https://www.gap-system.org/)
 
 ## Upcoming meeting
+[Operads](https://www.twitch.tv/operads/videos)
 
 [Higher Invariants](https://www-app.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/Main_Page)
 
