@@ -58,6 +58,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [GAP](https://www.gap-system.org/)
 
+[A census of small connected cubic vertex-transitive graphs](http://staff.matapp.unimib.it/~spiga/census.html)
+
 ## Upcoming meeting
 [Operads](https://operads.com/)
 
@@ -207,5 +209,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/)
 
+[Robert Guralnick](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003312)
+
+[Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger)
 
 
