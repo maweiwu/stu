@@ -61,6 +61,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 ## Upcoming meeting
 [Operads](https://operads.com/)
 
+[Matrix Online Seminars](https://www.matrix-inst.org.au/events-01/online-seminars/)
+
 [Higher Invariants](https://www-app.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/Main_Page)
 
 [Summer School on Higher Topos Theory and Univalent Foundations](https://conferences.leeds.ac.uk/httuf/)
