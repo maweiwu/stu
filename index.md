@@ -62,6 +62,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Operads and Koszul duality_Vidéos](https://www.math.univ-paris13.fr/~vallette/)
 
+[Higher Algebra, Geometry, and Topology](https://anr-highagt.pages.math.cnrs.fr/index.html)
+
 ## Upcoming meeting
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html)
 
