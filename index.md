@@ -111,6 +111,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Emily Riehl](https://math.jhu.edu/~eriehl/)
 
+[Dan Christensen](https://jdc.math.uwo.ca/)
+
 [Denis-Charles Cisinski](http://www.mathematik.uni-regensburg.de/cisinski/)
 
 [J. Peter May](https://www.math.uchicago.edu/~may/)
