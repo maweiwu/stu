@@ -63,6 +63,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 ## Upcoming meeting
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html)
 
+[Workshop on Homotopy Type Theory/ Univalent Foundations](https://hott-uf.github.io/2021/)
+
+[Reading Seminar: Homotopical Algebra](https://www.math.uwo.ca/faculty/kapulkin/seminars/homotopical_algebra.html)
+
 [Operads](https://operads.com/)
 
 [Matrix Online Seminars](https://www.matrix-inst.org.au/events-01/online-seminars/)
@@ -114,6 +118,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Emily Riehl](https://math.jhu.edu/~eriehl/)
 
 [Dan Christensen](https://jdc.math.uwo.ca/)
+
+[Luis Scoccola](http://luisscoccola.github.io/)
 
 [Denis-Charles Cisinski](http://www.mathematik.uni-regensburg.de/cisinski/)
 
