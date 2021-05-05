@@ -223,4 +223,12 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger)
 
+[Richard Garner](http://web.science.mq.edu.au/~rgarner/)
+
+[Joost Nuiten](https://imag.umontpellier.fr/~nuiten/)
+
+[Dmitry Vaintrob](https://math.berkeley.edu/~vaintrob/)
+
+[Bruno Vallette](https://www.math.univ-paris13.fr/~vallette/)
+
 
