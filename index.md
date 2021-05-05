@@ -121,6 +121,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Emily Riehl](https://math.jhu.edu/~eriehl/)
 
+[Dominic Verity](https://researchers.mq.edu.au/en/persons/dominic-verity)
+
 [Dan Christensen](https://jdc.math.uwo.ca/)
 
 [Luis Scoccola](http://luisscoccola.github.io/)
