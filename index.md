@@ -64,6 +64,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Higher Algebra, Geometry, and Topology](https://anr-highagt.pages.math.cnrs.fr/index.html)
 
+[Young Topologists Meeting](https://www.math.ku.dk/english/research/conferences/ytm/)
+
+[Emily Riehl’s Minicourse](https://www.epfl.ch/labs/hessbellwald-lab/seminar/ytm2015/)
+
 ## Upcoming meeting
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html)
 
