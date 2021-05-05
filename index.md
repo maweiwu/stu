@@ -61,6 +61,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 [A census of small connected cubic vertex-transitive graphs](http://staff.matapp.unimib.it/~spiga/census.html)
 
 ## Upcoming meeting
+[Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html)
+
 [Operads](https://operads.com/)
 
 [Matrix Online Seminars](https://www.matrix-inst.org.au/events-01/online-seminars/)
