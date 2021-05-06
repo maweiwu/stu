@@ -115,6 +115,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Categories List](https://www.mta.ca/~cat-dist/)
 
+[Category Theory OctoberFest](https://ct-octoberfest.github.io/)
+
 ## Favorite mathematician
 
 [Paul Balmer](https://www.math.ucla.edu/~balmer/)
