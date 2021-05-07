@@ -36,6 +36,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Joyal's CatLab](https://ncatlab.org/joyalscatlab/published/HomePage)
 
+[John Baez’s Stuff](https://math.ucr.edu/home/baez/)
+
 [nLab](https://ncatlab.org/nlab/show/HomePage)
 
 [Como](https://ncatlab.org/nlab/show/Como)
