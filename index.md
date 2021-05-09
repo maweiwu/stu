@@ -245,4 +245,6 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Bruno Vallette](https://www.math.univ-paris13.fr/~vallette/)
 
+[Ivo Herzog](https://u.osu.edu/herzog.23/)
+
 
