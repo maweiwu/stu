@@ -70,6 +70,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Emily Riehl’s Minicourse](https://www.epfl.ch/labs/hessbellwald-lab/seminar/ytm2015/)
 
+[Thomas Nikolaus's Leture_Inifinity Categories](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/teaching.html)
+
 ## Upcoming meeting
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html)
 
@@ -246,5 +248,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Bruno Vallette](https://www.math.univ-paris13.fr/~vallette/)
 
 [Ivo Herzog](https://u.osu.edu/herzog.23/)
+
+[Thomas Nikolaus](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/index.html)
+
+[Achim Krause](https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1355)
 
 
