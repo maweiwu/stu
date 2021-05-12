@@ -20,6 +20,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Library Genesis](http://libgen.st/)
 
+[MathOverflow](https://mathoverflow.net/)
+
+[Mathematics Stack Exchange](https://math.stackexchange.com/)
+
 [Research Gate](https://www.researchgate.net/)
 
 [MSRI](https://www.msri.org/videos/dashboard)
