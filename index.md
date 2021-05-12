@@ -34,6 +34,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [HCM](https://www.hcm.uni-bonn.de/)
 
+[HIM](https://www.him.uni-bonn.de/programs/past-programs/)
+
 [ICTP](https://www.ictp.it/)
 
 [MFO](https://www.mfo.de/)
