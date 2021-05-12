@@ -171,7 +171,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Peter Scholze](https://www.math.uni-bonn.de/people/scholze/)
 
-[Bernhard Keller](https://univ-paris-diderot.academia.edu/BernhardKeller)
+[Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html)
 
 [Bob Oliver](https://www.math.univ-paris13.fr/~bobol/)
 
