@@ -78,6 +78,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Notes on Geometric Langlands](http://people.math.harvard.edu/~gaitsgde/GL/)
 
+[Winter School "Connections between representation theory and geometry"](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/)
+
+[New Trends in Representation Theory](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/description/)
+
 ## Upcoming meeting
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html)
 
