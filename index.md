@@ -76,6 +76,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Thomas Nikolaus's Leture_Inifinity Categories](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/teaching.html)
 
+[Notes on Geometric Langlands](http://people.math.harvard.edu/~gaitsgde/GL/)
+
 ## Upcoming meeting
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html)
 
@@ -256,5 +258,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Thomas Nikolaus](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/index.html)
 
 [Achim Krause](https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1355)
+
+[Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/)
 
 
