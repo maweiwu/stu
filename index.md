@@ -123,6 +123,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Group Conferences](https://people.clas.ufl.edu/turull/conferences/)
 
+[Group Theory Conferences](https://web.math.ucsb.edu/~jon.mccammond/geogrouptheory/conferences.html)
+
 [Conferences and Meetings on Group Theory](https://www.conference-service.com/conferences/group-theory.html)
 
 [Topos](http://phck.net/conferences.html)
@@ -268,5 +270,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Achim Krause](https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1355)
 
 [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/)
+
+[Jon McCammond](https://web.math.ucsb.edu/~jon.mccammond/)
 
 
