@@ -26,6 +26,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Research Gate](https://www.researchgate.net/)
 
+[International Conference Alerts - ICA](https://conferencealert.com/)
+
 [MSRI](https://www.msri.org/videos/dashboard)
 
 [BIRS](http://www.birs.ca/)
@@ -84,6 +86,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [New Trends in Representation Theory](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/description/)
 
+[Main Conference](https://www.mainconference.com/)
+
 ## Upcoming meeting
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html)
 
@@ -124,6 +128,14 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Group Conferences](https://people.clas.ufl.edu/turull/conferences/)
 
 [Group Theory Conferences](https://web.math.ucsb.edu/~jon.mccammond/geogrouptheory/conferences.html)
+
+[Group Theory News](http://www.advgrouptheory.com/GTNews.html)
+
+[The World of Groups](http://shpilrain.ccny.cuny.edu/gworld/conf.html)
+
+[Young Geometric Group Theory](https://conferences.ncl.ac.uk/yggt2021/history/)
+
+[Group Theory Conferences in 2021/2022](https://conferencealert.com/group-theory.php)
 
 [Conferences and Meetings on Group Theory](https://www.conference-service.com/conferences/group-theory.html)
 
