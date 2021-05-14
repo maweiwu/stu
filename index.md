@@ -285,4 +285,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Jon McCammond](https://web.math.ucsb.edu/~jon.mccammond/)
 
+[Pierre Schapira](https://webusers.imj-prg.fr/~pierre.schapira/)
+
+[Masaki Kashiwara](https://kuias.kyoto-u.ac.jp/e/profile/kashiwara)
 
