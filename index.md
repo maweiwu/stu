@@ -291,3 +291,5 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Masaki Kashiwara](https://kuias.kyoto-u.ac.jp/e/profile/kashiwara)
 
+[Mike Prest](https://personalpages.manchester.ac.uk/staff/mike.prest/)
+
