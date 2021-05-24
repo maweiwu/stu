@@ -88,6 +88,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Main Conference](https://www.mainconference.com/)
 
+[Math Is Simple](https://www.simplemath.top/)
+
 ## Upcoming meeting
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html)
 
