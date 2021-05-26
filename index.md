@@ -297,3 +297,6 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Mike Prest](https://personalpages.manchester.ac.uk/staff/mike.prest/)
 
+## Math-life balance
+
+[Math Life Balance](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
