@@ -171,6 +171,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [J. Peter May](https://www.math.uchicago.edu/~may/)
 
+[Inna Zakharevich](http://pi.math.cornell.edu/~zakh/)
+
+[Peter Scholze](http://www.math.uni-bonn.de/people/scholze/)
+
 [Michael Shulman](https://home.sandiego.edu/~shulman/)
 
 [Mathieu ANEL](http://mathieu.anel.free.fr/)
