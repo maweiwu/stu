@@ -301,6 +301,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Math Life Balance](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
 
+[Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 
 | App name | Description          | Requirements   |
 |:---------|:---------------------|:---------------|
