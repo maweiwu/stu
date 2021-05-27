@@ -307,3 +307,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 |:---------|:---------------------|:---------------|
 | App 1    | Description text 1.  | Requirements 1 |
 | App 2    | Description text 2.  | None           |
+
+
+
+
+
+| App 1    | Description text 1.  | Requirements 1 |
+| App 2    | Description text 2.  | None           |
