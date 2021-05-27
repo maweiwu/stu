@@ -300,3 +300,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 ## Math-life balance
 
 [Math Life Balance](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
+
+
+| App name | Description          | Requirements   |
+|:---------|:---------------------|:---------------|
+| App 1    | Description text 1.  | Requirements 1 |
+| App 2    | Description text 2.  | None           |
