@@ -2,11 +2,11 @@
 
 # Maway Woo's Home Page
 
+Email: mawaywoo(at)126(dot)com
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
-
-Email: mawaywoo(at)126(dot)com
 
 ## Research
 
