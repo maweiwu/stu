@@ -16,79 +16,33 @@ My research interests are in representation theory, (higher) topos theory, homot
 ## Publication
 
 ## Useful links
-[SCI-HUB](https://sci-hub.se/)
+| A | B | C |
+|:---------|:---------------------|:---------------|
+[SCI-HUB](https://sci-hub.se/) | [Library Genesis](http://libgen.st/) | [MathOverflow](https://mathoverflow.net/) |
 
-[Library Genesis](http://libgen.st/)
+[Mathematics Stack Exchange](https://math.stackexchange.com/) | [Research Gate](https://www.researchgate.net/) | [International Conference Alerts - ICA](https://conferencealert.com/) |
 
-[MathOverflow](https://mathoverflow.net/)
+[MSRI](https://www.msri.org/videos/dashboard) | [BIRS](http://www.birs.ca/) | [IHES](https://www.ihes.fr/) |
 
-[Mathematics Stack Exchange](https://math.stackexchange.com/)
+[HCM](https://www.hcm.uni-bonn.de/) | [HIM](https://www.him.uni-bonn.de/programs/past-programs/) | [ICTP](https://www.ictp.it/) |
 
-[Research Gate](https://www.researchgate.net/)
+[MFO](https://www.mfo.de/) | [Joyal's CatLab](https://ncatlab.org/joyalscatlab/published/HomePage) | [John Baez’s Stuff](https://math.ucr.edu/home/baez/) |
 
-[International Conference Alerts - ICA](https://conferencealert.com/)
+[nLab](https://ncatlab.org/nlab/show/HomePage) | [Como](https://ncatlab.org/nlab/show/Como) | [Seminar on Derived Categories](https://www2.karlin.mff.cuni.cz/~stovicek/index.php/en/2021zs-derived-cat) |
 
-[MSRI](https://www.msri.org/videos/dashboard)
+[Higher Homotopical Structures](https://sites.google.com/view/hhs2021-opening/videos) | [Seminar on Higher Homotopical Structures](https://sites.google.com/view/hhs2021-seminar/past-talks-videos) | [XWCHEN](http://home.ustc.edu.cn/~xwchen/favorite.htm) |
 
-[BIRS](http://www.birs.ca/)
+[UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar) | [Essen Seminars-2018](http://www.esaga.uni-due.de/events/) | [Introduction to Derived Geometry](http://bicmr.pku.edu.cn/content/show/70-2449.html) Video password: Geometry. |
 
-[IHES](https://www.ihes.fr/)
+[arXiv.org](https://arxiv.org/) | [GAP](https://www.gap-system.org/) | [A census of small connected cubic vertex-transitive graphs](http://staff.matapp.unimib.it/~spiga/census.html) |
 
-[HCM](https://www.hcm.uni-bonn.de/)
+[Operads and Koszul duality_Vidéos](https://www.math.univ-paris13.fr/~vallette/) | [Higher Algebra, Geometry, and Topology](https://anr-highagt.pages.math.cnrs.fr/index.html) | [Young Topologists Meeting](https://www.math.ku.dk/english/research/conferences/ytm/) |
 
-[HIM](https://www.him.uni-bonn.de/programs/past-programs/)
+[Emily Riehl’s Minicourse](https://www.epfl.ch/labs/hessbellwald-lab/seminar/ytm2015/) | [Thomas Nikolaus's Leture_Inifinity Categories](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/teaching.html) | [Notes on Geometric Langlands](http://people.math.harvard.edu/~gaitsgde/GL/) |
 
-[ICTP](https://www.ictp.it/)
+[Winter School "Connections between representation theory and geometry"](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/) | [New Trends in Representation Theory](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/description/) | [Main Conference](https://www.mainconference.com/) |
 
-[MFO](https://www.mfo.de/)
-
-[Joyal's CatLab](https://ncatlab.org/joyalscatlab/published/HomePage)
-
-[John Baez’s Stuff](https://math.ucr.edu/home/baez/)
-
-[nLab](https://ncatlab.org/nlab/show/HomePage)
-
-[Como](https://ncatlab.org/nlab/show/Como)
-
-[Seminar on Derived Categories](https://www2.karlin.mff.cuni.cz/~stovicek/index.php/en/2021zs-derived-cat)
-
-[Higher Homotopical Structures](https://sites.google.com/view/hhs2021-opening/videos)
-
-[Seminar on Higher Homotopical Structures](https://sites.google.com/view/hhs2021-seminar/past-talks-videos)
-
-[XWCHEN](http://home.ustc.edu.cn/~xwchen/favorite.htm)
-
-[UIUC Topology Seminar](http://torus.math.uiuc.edu/cal/math/cal?regexp=Topology+Seminar)
-
-[Essen Seminars-2018](http://www.esaga.uni-due.de/events/)
-
-[Introduction to Derived Geometry](http://bicmr.pku.edu.cn/content/show/70-2449.html) Video password: Geometry.
-
-[arXiv.org](https://arxiv.org/)
-
-[GAP](https://www.gap-system.org/)
-
-[A census of small connected cubic vertex-transitive graphs](http://staff.matapp.unimib.it/~spiga/census.html)
-
-[Operads and Koszul duality_Vidéos](https://www.math.univ-paris13.fr/~vallette/)
-
-[Higher Algebra, Geometry, and Topology](https://anr-highagt.pages.math.cnrs.fr/index.html)
-
-[Young Topologists Meeting](https://www.math.ku.dk/english/research/conferences/ytm/)
-
-[Emily Riehl’s Minicourse](https://www.epfl.ch/labs/hessbellwald-lab/seminar/ytm2015/)
-
-[Thomas Nikolaus's Leture_Inifinity Categories](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/teaching.html)
-
-[Notes on Geometric Langlands](http://people.math.harvard.edu/~gaitsgde/GL/)
-
-[Winter School "Connections between representation theory and geometry"](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/)
-
-[New Trends in Representation Theory](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/description/)
-
-[Main Conference](https://www.mainconference.com/)
-
-[Math Is Simple](https://www.simplemath.top/)
+[Math Is Simple](https://www.simplemath.top/) |
 
 ## Upcoming meeting
 | I | II | III | IV | V |
@@ -119,10 +73,6 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 
-| App name | Description          | Requirements   |
-|:---------|:---------------------|:---------------|
-| App 1    | Description text 1.  | Requirements 1 |
-| App 2    | Description text 2.  | None           |
 
 
 
