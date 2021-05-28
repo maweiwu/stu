@@ -156,17 +156,11 @@ My research interests are in representation theory, (higher) topos theory, homot
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |:---------|:---------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
 | [Paul Balmer](https://www.math.ucla.edu/~balmer/) | [Jacob Lurie](https://www.math.ias.edu/~lurie/) | [Peter Webb](http://www-users.math.umn.edu/~webb/) | [Emily Riehl](https://math.jhu.edu/~eriehl/) | [Dominic Verity](https://researchers.mq.edu.au/en/persons/dominic-verity) |
-
 [Dan Christensen](https://jdc.math.uwo.ca/) |
-
 [Luis Scoccola](http://luisscoccola.github.io/) |
-
 [Denis-Charles Cisinski](http://www.mathematik.uni-regensburg.de/cisinski/) |
-
 [J. Peter May](https://www.math.uchicago.edu/~may/) |
-
 [Inna Zakharevich](http://pi.math.cornell.edu/~zakh/) |
-
 [Peter Scholze](http://www.math.uni-bonn.de/people/scholze/) |
 
 
