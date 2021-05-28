@@ -153,8 +153,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## Favorite mathematician
 
-| 1 | 2 | 3 | 4 |
-|:---------|:---------------------|:---------------|:---------------|
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:---------|:---------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
 | [Paul Balmer](https://www.math.ucla.edu/~balmer/) | [Jacob Lurie](https://www.math.ias.edu/~lurie/) | [Peter Webb](http://www-users.math.umn.edu/~webb/) | [Emily Riehl](https://math.jhu.edu/~eriehl/) | 
 | App 2    | Description text 2.  | None           |
 
