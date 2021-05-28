@@ -154,8 +154,11 @@ My research interests are in representation theory, (higher) topos theory, homot
 ## Favorite mathematician
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+
 |:---------|:---------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
+
 | [Paul Balmer](https://www.math.ucla.edu/~balmer/) | [Jacob Lurie](https://www.math.ias.edu/~lurie/) | [Peter Webb](http://www-users.math.umn.edu/~webb/) | [Emily Riehl](https://math.jhu.edu/~eriehl/) | [Dominic Verity](https://researchers.mq.edu.au/en/persons/dominic-verity) | [Dan Christensen](https://jdc.math.uwo.ca/) | [Luis Scoccola](http://luisscoccola.github.io/) | [Denis-Charles Cisinski](http://www.mathematik.uni-regensburg.de/cisinski/) | [J. Peter May](https://www.math.uchicago.edu/~may/) | [Inna Zakharevich](http://pi.math.cornell.edu/~zakh/) | 
+
 | [Peter Scholze](http://www.math.uni-bonn.de/people/scholze/) | [Michael Shulman](https://home.sandiego.edu/~shulman/) | [Mathieu ANEL](http://mathieu.anel.free.fr/) | [André Joyal](https://professeurs.uqam.ca/professeur/joyal.andre/) | [Charles Rezk](https://faculty.math.illinois.edu/~rezk/) | [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/) | [Olivia Caramello](https://www.oliviacaramello.com/) | [Laurent Lafforgue](https://www.laurentlafforgue.org/) |
 
 
