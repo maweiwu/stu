@@ -91,7 +91,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Math Is Simple](https://www.simplemath.top/)
 
 ## Upcoming meeting
-| 1 | 2 | 3 | 4 | 5 |
+| I | II | III | IV | V |
 |:---------|:---------------------|:---------------|:---------------|:---------------|
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html) | [Workshop on Homotopy Type Theory/ Univalent Foundations](https://hott-uf.github.io/2021/) | [Reading Seminar: Homotopical Algebra](https://www.math.uwo.ca/faculty/kapulkin/seminars/homotopical_algebra.html) | [Operads](https://operads.com/) | [Matrix Online Seminars](https://www.matrix-inst.org.au/events-01/online-seminars/) | [Higher Invariants](https://www-app.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/Main_Page) | 
 [Summer School on Higher Topos Theory and Univalent Foundations](https://conferences.leeds.ac.uk/httuf/) | [Network on Silting Theory](https://networkonsilting.wordpress.com/activities/) | [Zassenhaus Groups and Friends Conference](https://sites.google.com/a/oswego.edu/zassenhaus/archive) | [Paige Randall North](https://paigenorth.github.io/) | [Algebraic Geometry in East Asia Online Seminar](http://www.math.ntu.edu.tw/~jkchen/agea-seminar) | 
