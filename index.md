@@ -57,7 +57,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## Math-life balance
 
-[Math Life Balance](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
+\bullet [Math Life Balance](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
 
 [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 
