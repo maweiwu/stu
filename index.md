@@ -62,7 +62,11 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## French 
 
-by:par
+| French | Meaning | 
+|:---------|:---------------------|
+| by | par |
+
+
 
 
 
