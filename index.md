@@ -62,7 +62,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## French 
 
-by-->par
+by:par
 
 
 
