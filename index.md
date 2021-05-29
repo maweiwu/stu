@@ -1,7 +1,7 @@
 
 
 # Maway Woo's Home Page
-(吴马威)
+
 Email: mawaywoo(at)126(dot)com
 
 ## Personal information
@@ -60,7 +60,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 
-## French 
+## French Learning
 
 | Meaning | French | 
 |:---------|:---------------------|
