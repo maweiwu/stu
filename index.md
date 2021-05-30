@@ -4,6 +4,8 @@
 
 ![ME](https://github.com/mawaywoo/stu/blob/main/psb.jpg)
 
+![me](https://github.com/mawaywoo/stu/blob/main/QQ%E5%9B%BE%E7%89%8720180531120217.jpg)
+
 Email: mawaywoo(at)126(dot)com
 
 ## Personal information
