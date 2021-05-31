@@ -69,8 +69,12 @@ My research interests are in representation theory, (higher) topos theory, homot
 | dans | 在... | plus | 更 | souvent | 经常地 | connues | 知道 | constamment | 经常地 |
 | suite | 跟随 | leur | 他们 | connaissance | 认识, 知道 | quelques | 一些(很, 大约) | lecteur | 读者 |
 | presse | 急速的 | pouvoir | 能够, 会 | premiere | 首次放映 | premier | 第一 | ensemble | 集合 |
-|  vide | 空 | qui | 哪个(哪些), 谁 | jouir | 享受, 享乐 | si | 如果 | alors | 那么, 当时 |  
-
+| vide | 空 | qui | 哪个(哪些), 谁 | jouir | 享受, 享乐 | si | 如果 | alors | 那么, 当时 |  
+| deduire | 演绎, 推断, 推论 | facilement | 容易地, 轻易地 | appartenir | 属于 | sont | 是 | en | 在...从那里 |
+| pas | 没有, 无, 不可能 | on | 人们, 有人 | peut | 能, 可以 | donc | 因此, 所以 | faire | 做 |
+| toutes | 两者(二者) | tout | 大量的, 完全 | partir | 出发, 开始, 离开 | sans | 无, 没有 | pour | 为了 |
+| cela | 这个, 那个 | que | 什么, 多么, 为何, 多少, 那 | resultat | 结局, 结果 | cesser | 不停地, 不断地 | cesser | 停止, 中止, 中断 |
+| etre | 是, 存在 | fournir | 提供 | cependant | 可是, 然而, 但是, 当时, 其间 | seul | 唯一的(最好的) | tous | 两者(二者) |  
 
 
 
