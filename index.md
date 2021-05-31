@@ -67,6 +67,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 | French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
 |:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
 | dans | 在... | plus | 更 | souvent | 经常地 | connues | 知道 | constamment | 经常地 |
+| suite | 跟随 | leur | 他们 | connaissance | 认识, 知道 | quelques | 一些(很, 大约) |
+
+
 
 
 
