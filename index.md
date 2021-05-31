@@ -62,7 +62,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 
-## French learning (math)
+## French learning (math SGA)
 
 | French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
 |:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
@@ -81,7 +81,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 | par rapport | 就...而言 | autre | 别的 | demontrer | 论证, 证明 | ni | 也不 | sembler | 好像, 似乎 |
 | borne | 边界 | superieure | 上面的 | strictment | 严格的, 最正规的 | a | 到, 向, 与le, les连用时变au, aux | fortement | 有力地, 强烈地 |
 | impliquer | 包含...意思, 意味着 | majorer | 过高估计, 增加(提高, 上升) | entraine | 结果, 成果, 迫使, 驱动 | appelons | 叫做 | correspondence biunivoque | 一一对应 |
-
+| entre | 在...之间, 在...中间 | entre autres | 特别地, 其中有 | ainsi | 这样, 如此 | ordonner | 顺序, 整理 | remarquer | 注意, 觉察, 看到 |
+| sauf | 除非 | contraire | 相反的 | posseder | 拥有 | dire | 说 | ou | 或者, 即, 就是 | 
+| 
 
 
 
