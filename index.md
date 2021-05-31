@@ -75,6 +75,12 @@ My research interests are in representation theory, (higher) topos theory, homot
 | toutes | 两者(二者) | tout | 大量的, 完全 | partir | 出发, 开始, 离开 | sans | 无, 没有 | pour | 为了 |
 | cela | 这个, 那个 | que | 什么, 多么, 为何, 多少, 那 | resultat | 结局, 结果 | cesser | 不停地, 不断地 | cesser | 停止, 中止, 中断 |
 | etre | 是, 存在 | fournir | 提供 | cependant | 可是, 然而, 但是, 当时, 其间 | seul | 唯一的(最好的) | tous | 两者(二者) |  
+| ce/cet | 那, 这 | finir | 完成, 结束 | nombrable | 可数的 | connait | 知道(分辨) | contenir | 包含, 装有, 阻止 |
+| amener | 带来, 引起, 导致 | ajouter | 加, 增加, 补充(说) | il | 它 | tel | 像这样的 | tel que | 无论如何 |
+| petit | 小的 | montrer | 展示, 给...看 | aussi | 同样, 也, 一样 | soit | 是, 就是 | rapport | 报告, 关系, 关于, 关联 |
+| par rapport | 就...而言 | autre | 别的 | demontrer | 论证, 证明 | ni | 也不 | sembler | 好像, 似乎 |
+| borne | 边界 | superieure | 上面的 | strictment | 严格的, 最正规的 | a | 到, 向, 与le, les连用时变au, aux | fortement | 有力地, 强烈地 |
+| impliquer | 包含...意思, 意味着 | majorer | 过高估计, 增加(提高, 上升) | entraine | 结果, 成果, 迫使, 驱动 | appelons | 叫做 | correspondence biunivoque | 一一对应 |
 
 
 
