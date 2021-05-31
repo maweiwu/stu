@@ -64,9 +64,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## French learning (math)
 
-| Meaning | French | 
-|:---------|:---------------------|
-| by | par |
+| French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
+|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
+| par | by |
 
 
 
