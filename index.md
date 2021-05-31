@@ -68,7 +68,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 |:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
 | dans | 在... | plus | 更 | souvent | 经常地 | connues | 知道 | constamment | 经常地 |
 | suite | 跟随 | leur | 他们 | connaissance | 认识, 知道 | quelques | 一些(很, 大约) | lecteur | 读者 |
-| 
+| presse | 急速的 | pouvoir | 能够, 会 | premiere | 首次放映 | premier | 第一 | ensemble | 集合 |
+|  vide | 空 | qui | 哪个(哪些), 谁 | jouir | 享受, 享乐 | si | 如果 | alors | 那么, 当时 |  
 
 
 
