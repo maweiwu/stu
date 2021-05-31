@@ -83,7 +83,14 @@ My research interests are in representation theory, (higher) topos theory, homot
 | impliquer | 包含...意思, 意味着 | majorer | 过高估计, 增加(提高, 上升) | entraine | 结果, 成果, 迫使, 驱动 | appelons | 叫做 | correspondence biunivoque | 一一对应 |
 | entre | 在...之间, 在...中间 | entre autres | 特别地, 其中有 | ainsi | 这样, 如此 | ordonner | 顺序, 整理 | remarquer | 注意, 觉察, 看到 |
 | sauf | 除非 | contraire | 相反的 | posseder | 拥有 | dire | 说 | ou | 或者, 即, 就是 | 
-| 
+| quand | 何时 | quand meme | 仍然, 还是, 至少 | anneau | 环 | supposer | 假定, 假设 | sans | 无, 没有 |
+| sans plus | 仅此而已, 立即, 不再 | ou | 哪里 | moins | 更少, 较少 | ont | 有 | cependant | 然而, 但是 |
+| nombreux | 许多 | travailler | 工作, 劳动 | contenu | 内装物, 内盛物, 内容 | construire | 构造 | partir | 出发, 开始 |
+| ci-dessus | 以上, 如上 | lorsque | 当...时, 在...情况下, 什么时候 | resulter | 由此, 导致, 引起 | sur | 在...上面, 关于 | designer | 指明, 指出, 表明 |
+| dont | 在从句中作状语, 间宾, 名补和形补, 相当于de qui, de quoi | but | 目的, 目标, 靶子 | cas | 情况, 场合 | fleche | 箭头 | meme | 相同的, 同样的, 甚至 |
+| aide | 帮助 | maintenant | 现在, 目前 | pleinement | 完全, 充分 | pres | 附近的 | fixer | 使固定 | 
+| fois | 次, 回, 倍, 一旦, 一...就 | nous | 我们 | toujours | 总是, 永远, 仍旧 | fidele | 忠实的, 不变的 | pleine | 怀孕的(充满的, 富于想象的, 富于成果的) |
+| plein | 彻底的, 绝对地, 完全地 | SGA4-1 | page 6 | 
 
 
 
