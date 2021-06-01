@@ -68,28 +68,28 @@ My research interests are in representation theory, (higher) topos theory, homot
 |:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
 | dans | 在... | plus | 更 | souvent | 经常地 | connues | 知道 | constamment | 经常地 |
 | suite | 跟随 | leur | 他们 | connaissance | 认识, 知道 | quelques | 一些(很, 大约) | lecteur | 读者 |
-| presse | 急速的 | pouvoir | 能够, 会 | premiere | 首次放映 | premier | 第一 | ensemble | 集合 |
+| pressé | 急速的 | pouvoir | 能够, 会 | première | 首次放映 | premier | 第一 | ensemble | 集合 |
 | vide | 空 | qui | 哪个(哪些), 谁 | jouir | 享受, 享乐 | si | 如果 | alors | 那么, 当时 |  
-| deduire | 演绎, 推断, 推论 | facilement | 容易地, 轻易地 | appartenir | 属于 | sont | 是 | en | 在...从那里 |
+| déduire | 演绎, 推断, 推论 | facilement | 容易地, 轻易地 | appartenir | 属于 | sont | 是 | en | 在...从那里 |
 | pas | 没有, 无, 不可能 | on | 人们, 有人 | peut | 能, 可以 | donc | 因此, 所以 | faire | 做 |
 | toutes | 两者(二者) | tout | 大量的, 完全 | partir | 出发, 开始, 离开 | sans | 无, 没有 | pour | 为了 |
-| cela | 这个, 那个 | que | 什么, 多么, 为何, 多少, 那 | resultat | 结局, 结果 | cesser | 不停地, 不断地 | cesser | 停止, 中止, 中断 |
-| etre | 是, 存在 | fournir | 提供 | cependant | 可是, 然而, 但是, 当时, 其间 | seul | 唯一的(最好的) | tous | 两者(二者) |  
-| ce/cet | 那, 这 | finir | 完成, 结束 | nombrable | 可数的 | connait | 知道(分辨) | contenir | 包含, 装有, 阻止 |
+| cela | 这个, 那个 | que | 什么, 多么, 为何, 多少, 那 | résultant | 结局, 结果 | cesser | 不停地, 不断地 | cesser | 停止, 中止, 中断 |
+| être | 是, 存在 | fournir | 提供 | cependant | 可是, 然而, 但是, 当时, 其间 | seul | 唯一的(最好的) | tous | 两者(二者) |  
+| ce/cet | 那, 这 | finir | 完成, 结束 | nombrable | 可数的 | connaît | 知道(分辨) | contenir | 包含, 装有, 阻止 |
 | amener | 带来, 引起, 导致 | ajouter | 加, 增加, 补充(说) | il | 它 | tel | 像这样的 | tel que | 无论如何 |
 | petit | 小的 | montrer | 展示, 给...看 | aussi | 同样, 也, 一样 | soit | 是, 就是 | rapport | 报告, 关系, 关于, 关联 |
 | par rapport | 就...而言 | autre | 别的 | demontrer | 论证, 证明 | ni | 也不 | sembler | 好像, 似乎 |
-| borne | 边界 | superieure | 上面的 | strictment | 严格的, 最正规的 | a | 到, 向, 与le, les连用时变au, aux | fortement | 有力地, 强烈地 |
-| impliquer | 包含...意思, 意味着 | majorer | 过高估计, 增加(提高, 上升) | entraine | 结果, 成果, 迫使, 驱动 | appelons | 叫做 | correspondence biunivoque | 一一对应 |
+| borne | 边界 | supérieure | 上面的 | strictment | 严格的, 最正规的 | à | 到, 向, 与le, les连用时变au, aux | fortement | 有力地, 强烈地 |
+| impliquer | 包含...意思, 意味着 | majorer | 过高估计, 增加(提高, 上升) | entraîné | 结果, 成果, 迫使, 驱动 | appelons | 叫做 | correspondence biunivoque | 一一对应 |
 | entre | 在...之间, 在...中间 | entre autres | 特别地, 其中有 | ainsi | 这样, 如此 | ordonner | 顺序, 整理 | remarquer | 注意, 觉察, 看到 |
-| sauf | 除非 | contraire | 相反的 | posseder | 拥有 | dire | 说 | ou | 或者, 即, 就是 | 
+| sauf | 除非 | contraire | 相反的 | posséder | 拥有 | dire | 说 | ou | 或者, 即, 就是 | 
 | quand | 何时 | quand meme | 仍然, 还是, 至少 | anneau | 环 | supposer | 假定, 假设 | sans | 无, 没有 |
-| sans plus | 仅此而已, 立即, 不再 | ou | 哪里 | moins | 更少, 较少 | ont | 有 | cependant | 然而, 但是 |
+| sans plus | 仅此而已, 立即, 不再 | où | 哪里 | moins | 更少, 较少 | ont | 有 | cependant | 然而, 但是 |
 | nombreux | 许多 | travailler | 工作, 劳动 | contenu | 内装物, 内盛物, 内容 | construire | 构造 | partir | 出发, 开始 |
-| ci-dessus | 以上, 如上 | lorsque | 当...时, 在...情况下, 什么时候 | resulter | 由此, 导致, 引起 | sur | 在...上面, 关于 | designer | 指明, 指出, 表明 |
-| dont | 在从句中作状语, 间宾, 名补和形补, 相当于de qui, de quoi | but | 目的, 目标, 靶子 | cas | 情况, 场合 | fleche | 箭头 | meme | 相同的, 同样的, 甚至 |
-| aide | 帮助 | maintenant | 现在, 目前 | pleinement | 完全, 充分 | pres | 附近的 | fixer | 使固定 | 
-| fois | 次, 回, 倍, 一旦, 一...就 | nous | 我们 | toujours | 总是, 永远, 仍旧 | fidele | 忠实的, 不变的 | pleine | 怀孕的(充满的, 富于想象的, 富于成果的) |
+| ci-dessus | 以上, 如上 | lorsque | 当...时, 在...情况下, 什么时候 | résulter | 由此, 导致, 引起 | sur | 在...上面, 关于 | désigner | 指明, 指出, 表明 |
+| dont | 在从句中作状语, 间宾, 名补和形补, 相当于de qui, de quoi | but | 目的, 目标, 靶子 | cas | 情况, 场合 | fleche | 箭头 | même | 相同的, 同样的, 甚至 |
+| aide | 帮助 | maintenant | 现在, 目前 | pleinement | 完全, 充分 | près | 附近的 | fixer | 使固定 | 
+| fois | 次, 回, 倍, 一旦, 一...就 | nous | 我们 | toujours | 总是, 永远, 仍旧 | fidèle | 忠实的, 不变的 | pleine | 怀孕的(充满的, 富于想象的, 富于成果的) |
 | plein | 彻底的, 绝对地, 完全地 | SGA4-1 | page 6 | 
 
 
