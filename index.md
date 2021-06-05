@@ -62,6 +62,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 
+[Acappella Music](https://www.youtube.com/results?search_query=acappella+music)
+
 ## French learning (math SGA)
 
 | French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
