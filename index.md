@@ -33,7 +33,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Winter School "Connections between representation theory and geometry"](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/) | [New Trends in Representation Theory](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/description/) | [Main Conference](https://www.mainconference.com/) |
 [Math Is Simple](https://www.simplemath.top/) | [Algebraic Geometry at Stanford](https://agstanford.com/) | [IAS](https://www.ias.edu/video?tags=15536) |
 [ZLibrary](https://en.kr1lib.org/) | [The Stack Project](https://stacks.math.columbia.edu/) | [TIB](https://av.tib.eu/media/20748) |
-[Math Institutes](https://mathinstitutes.org/videos/) | [ATLAS of Finite Group Representations](http://brauer.maths.qmul.ac.uk/Atlas/) | [Data for Finite Groups of Lie Type and Related Algebraic Groups] (http://www.math.rwth-aachen.de/~Frank.Luebeck/chev/index.html?LANG=en) |
+[Math Institutes](https://mathinstitutes.org/videos/) | [ATLAS of Finite Group Representations](http://brauer.maths.qmul.ac.uk/Atlas/) | [Data for Finite Groups] (http://www.math.rwth-aachen.de/~Frank.Luebeck/chev/index.html?LANG=en) |
 
 
 ## Upcoming meeting
