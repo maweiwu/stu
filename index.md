@@ -33,7 +33,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Winter School "Connections between representation theory and geometry"](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/) | [New Trends in Representation Theory](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/description/) | [Main Conference](https://www.mainconference.com/) |
 [Math Is Simple](https://www.simplemath.top/) | [Algebraic Geometry at Stanford](https://agstanford.com/) | [IAS](https://www.ias.edu/video?tags=15536) |
 [ZLibrary](https://en.kr1lib.org/) | [The Stack Project](https://stacks.math.columbia.edu/) | [TIB](https://av.tib.eu/media/20748) |
-[Math Institutes](https://mathinstitutes.org/videos/) | 
+[Math Institutes](https://mathinstitutes.org/videos/) | [ATLAS of Finite Group Representations](http://brauer.maths.qmul.ac.uk/Atlas/) | [Data for Finite Groups of Lie Type and Related Algebraic Groups] (http://www.math.rwth-aachen.de/~Frank.Luebeck/chev/index.html?LANG=en) |
+
 
 ## Upcoming meeting
 | I | II | III | IV | V |
@@ -57,7 +58,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Gabriele Lobbia](https://eps.leeds.ac.uk/maths/pgr/5559/gabriele-lobbia) | [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com/) | [Frederik Marks](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Marks/index.html) | [Jorge Vitória](https://sites.google.com/view/jorgevitoria/) | [Jan Stovicek](https://www2.karlin.mff.cuni.cz/~stovicek/) | [Julia Pevtsova](https://sites.math.washington.edu/~julia/) | [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/) | [Robert Guralnick](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003312) | [Cheryl Praeger](https://research-repository.uwa.edu.au/en/persons/cheryl-praeger) | [Richard Garner](http://web.science.mq.edu.au/~rgarner/) | 
 [Joost Nuiten](https://imag.umontpellier.fr/~nuiten/) | [Dmitry Vaintrob](https://math.berkeley.edu/~vaintrob/) | [Bruno Vallette](https://www.math.univ-paris13.fr/~vallette/) | [Ivo Herzog](https://u.osu.edu/herzog.23/) | [Thomas Nikolaus](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/index.html) | [Achim Krause](https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1355) | [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/) | [Jon McCammond](https://web.math.ucsb.edu/~jon.mccammond/) | [Pierre Schapira](https://webusers.imj-prg.fr/~pierre.schapira/) | [Masaki Kashiwara](https://kuias.kyoto-u.ac.jp/e/profile/kashiwara) |    
 [Mike Prest](https://personalpages.manchester.ac.uk/staff/mike.prest/) | [Jan Stovicek](https://www2.karlin.mff.cuni.cz/~stovicek/) | [Jan Šaroch](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=4466) | [Zhen Huan](https://huanzhen84.github.io/zhenhuan/) | [Radha Kessar](https://www.city.ac.uk/about/people/academics/radha-kessar) | [Raphaël Rouquier](https://www.math.ucla.edu/~rouquier/) | [Ingo Blechschmidt](https://www.ingo-blechschmidt.eu/) | [Kota Yamaura](https://www.ccn.yamanashi.ac.jp/~kyamaura/index.html) | [Daniel A. Ramras](https://math.iupui.edu/~dramras/) | [Andrew Snowden](http://www-personal.umich.edu/~asnowden/) |
-
+[Geordie Williamson](https://www.maths.usyd.edu.au/u/geordie/) | 
 
 ## Math-life balance
 
