@@ -69,7 +69,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 
-[TeXstudio : User manual](file:///C:/Program%20Files%20(x86)/TeXstudio/help/usermanual_en.html)
+[TeXstudio_User manual](file:///C:/Program%20Files%20(x86)/TeXstudio/help/usermanual_en.html)
 
 [Acappella Music](https://www.youtube.com/results?search_query=acappella+music)
 
