@@ -73,6 +73,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Acappella Music](https://www.youtube.com/results?search_query=acappella+music)
 
+[Hypertext Help with LaTeX](http://web.mit.edu/ghudson/dev/nokrb/third/tetex/texmf/doc/latex/latex2e-html/)
+
 ## French learning (math SGA)
 
 | French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
