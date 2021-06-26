@@ -38,7 +38,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Group-Subgroup Lattice and Chains of Maximal Subgroups](https://www.cryst.ehu.es/cryst/subgroupgraph.html) | [Science Direct](https://www.sciencedirect.com/search?qs=Maximal%20subgroups&show=50) | [Quiver and Quantum Group Rep.](https://space.bilibili.com/514700214/video) |
 [Globular](http://globular.science/) | [Around Toposes Forum](https://aroundtoposes.com/forum/) | [Homalg Project](https://github.com/homalg-project) |
 [Cecilia Flori-Topos Quantum Physics](https://scitalks.ca/speaker/Cecilia-Flori?page=%2C1) | [SciTalks](https://scitalks.ca/search-talks?search=&talk_subject=773) |
-
+[Topos Theory in a Nutshell](https://math.ucr.edu/home/baez/topos.html) |
 ## Upcoming meeting
 | I | II | III | IV | V |
 |:---------|:---------------------|:---------------|:---------------|:---------------|
@@ -62,7 +62,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Joost Nuiten](https://imag.umontpellier.fr/~nuiten/) | [Dmitry Vaintrob](https://math.berkeley.edu/~vaintrob/) | [Bruno Vallette](https://www.math.univ-paris13.fr/~vallette/) | [Ivo Herzog](https://u.osu.edu/herzog.23/) | [Thomas Nikolaus](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/index.html) | [Achim Krause](https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1355) | [Dennis Gaitsgory](http://people.math.harvard.edu/~gaitsgde/) | [Jon McCammond](https://web.math.ucsb.edu/~jon.mccammond/) | [Pierre Schapira](https://webusers.imj-prg.fr/~pierre.schapira/) | [Masaki Kashiwara](https://kuias.kyoto-u.ac.jp/e/profile/kashiwara) |    
 [Mike Prest](https://personalpages.manchester.ac.uk/staff/mike.prest/) | [Jan Stovicek](https://www2.karlin.mff.cuni.cz/~stovicek/) | [Jan Šaroch](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=4466) | [Zhen Huan](https://huanzhen84.github.io/zhenhuan/) | [Radha Kessar](https://www.city.ac.uk/about/people/academics/radha-kessar) | [Raphaël Rouquier](https://www.math.ucla.edu/~rouquier/) | [Ingo Blechschmidt](https://www.ingo-blechschmidt.eu/) | [Kota Yamaura](https://www.ccn.yamanashi.ac.jp/~kyamaura/index.html) | [Daniel A. Ramras](https://math.iupui.edu/~dramras/) | [Andrew Snowden](http://www-personal.umich.edu/~asnowden/) |
 [Geordie Williamson](https://www.maths.usyd.edu.au/u/geordie/) | [Frank Lübeck](http://www.math.rwth-aachen.de/~Frank.Luebeck/index.html) | [Stephen D. Smith](http://homepages.math.uic.edu/~smiths/) | [Dmitry Kaledin](http://www.mi-ras.ru/~kaledin/) | [Steve Vickers](https://www.cs.bham.ac.uk/~sjv/papersfull.php) | [Felix Wellen](https://ncatlab.org/schreiber/show/thesis+Wellen#KhavkineSchreiber17) | [Jacques Thévenaz](https://people.epfl.ch/jacques.thevenaz/?lang=en) | [Heiko Dietrich](https://users.monash.edu/~heikod/pubs.html) | [Radu Stancu](http://www.lamfa.u-picardie.fr/stancu/) | [Andrea Solotar](http://mate.dm.uba.ar/~asolotar/) |
-[Yan-Hong Bao](http://staff.ustc.edu.cn/~yhbao/previous-activities.htm) | [Constanze Roitzheim](https://www.kent.ac.uk/smsas/personal/csrr/) | [Tibor Beke](https://faculty.uml.edu//tbeke/) | 
+[Yan-Hong Bao](http://staff.ustc.edu.cn/~yhbao/previous-activities.htm) | [Constanze Roitzheim](https://www.kent.ac.uk/smsas/personal/csrr/) | [Tibor Beke](https://faculty.uml.edu//tbeke/) | [John Baez](https://math.ucr.edu/home/baez/) |
 
 ## Math-life balance
 
