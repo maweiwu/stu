@@ -39,6 +39,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Globular](http://globular.science/) | [Around Toposes Forum](https://aroundtoposes.com/forum/) | [Homalg Project](https://github.com/homalg-project) |
 [Cecilia Flori-Topos Quantum Physics](https://scitalks.ca/speaker/Cecilia-Flori?page=%2C1) | [SciTalks](https://scitalks.ca/search-talks?search=&talk_subject=773) | [Topos Theory in a Nutshell](https://math.ucr.edu/home/baez/topos.html) |
 [Topos in nLab](https://ncatlab.org/nlab/show/topos) | [Sketches of an Elephant in nLab](https://ncatlab.org/nlab/show/Sketches+of+an+Elephant) | [The Stack Project](https://stacks.math.columbia.edu/) | 
+[Sheaves in Geometry and Logic in nLab](https://ncatlab.org/nlab/show/Sheaves+in+Geometry+and+Logic) |
 ## Upcoming meeting
 | I | II | III | IV | V |
 |:---------|:---------------------|:---------------|:---------------|:---------------|
