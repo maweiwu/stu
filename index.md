@@ -40,7 +40,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Cecilia Flori-Topos Quantum Physics](https://scitalks.ca/speaker/Cecilia-Flori?page=%2C1) | [SciTalks](https://scitalks.ca/search-talks?search=&talk_subject=773) | [Topos Theory in a Nutshell](https://math.ucr.edu/home/baez/topos.html) |
 [Topos in nLab](https://ncatlab.org/nlab/show/topos) | [Sketches of an Elephant in nLab](https://ncatlab.org/nlab/show/Sketches+of+an+Elephant) | [The Stack Project](https://stacks.math.columbia.edu/) | 
 [Sheaves in Geometry and Logic in nLab](https://ncatlab.org/nlab/show/Sheaves+in+Geometry+and+Logic) | [Higher Topos Theory in nLab](https://ncatlab.org/nlab/show/Higher+Topos+Theory) | [Higher Algebra in nLab](https://ncatlab.org/nlab/show/Higher+Algebra) |
-[En-algebra in nLab](https://ncatlab.org/nlab/show/En-algebra) |
+[En-algebra in nLab](https://ncatlab.org/nlab/show/En-algebra) | [Quiver in nLab](https://ncatlab.org/nlab/show/quiver) | [DG-Category in nLab](https://ncatlab.org/nlab/show/dg-category) |
+[Stack in nLab](https://ncatlab.org/nlab/show/stack) | [Derived Category in nLab](https://ncatlab.org/nlab/show/derived+category) | [Triangulated Category in nLab](https://ncatlab.org/nlab/show/triangulated+category) |
+[Homotopy Type Theory in nLab](https://ncatlab.org/nlab/show/homotopy+type+theory) |
+
 ## Upcoming meeting
 | I | II | III | IV | V |
 |:---------|:---------------------|:---------------|:---------------|:---------------|
