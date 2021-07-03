@@ -32,13 +32,13 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Emily Riehl’s Minicourse](https://www.epfl.ch/labs/hessbellwald-lab/seminar/ytm2015/) | [Thomas Nikolaus's Leture_Inifinity Categories](https://www.uni-muenster.de/IVV5WS/WebHop/user/nikolaus/teaching.html) | [Notes on Geometric Langlands](http://people.math.harvard.edu/~gaitsgde/GL/) |
 [Winter School "Connections between representation theory and geometry"](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/) | [New Trends in Representation Theory](https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/description/) | [Main Conference](https://www.mainconference.com/) |
 [Math Is Simple](https://www.simplemath.top/) | [Algebraic Geometry at Stanford](https://agstanford.com/) | [IAS](https://www.ias.edu/video?tags=15536) |
-[ZLibrary](https://en.kr1lib.org/) | [The Stack Project](https://stacks.math.columbia.edu/) | [TIB](https://av.tib.eu/media/20748) |
+[ZLibrary](https://en.kr1lib.org/) | [Peter Johnstone's Book](https://ncatlab.org/nlab/show/Peter+Johnstone) | [TIB](https://av.tib.eu/media/20748) |
 [Math Institutes](https://mathinstitutes.org/videos/) | [ATLAS of Finite Group Representations](http://brauer.maths.qmul.ac.uk/Atlas/) | [Michael Aschbacher’s work](https://kva.screen9.tv/media/uJeqzV9Dz-WvJCfw1kErxg/) |
 [Logic & Semantics for Dummies](http://talks.cam.ac.uk/show/index/58132) | [Homotopy Theory Münster](https://www.youtube.com/channel/UCk1WaD2LYVvNiRPteCBeSsA/playlists) | [Doubtnut](https://www.doubtnut.com/external-questions/schanuel-topos-singleton-coverage-vs-atomic-topology-848674) | 
 [Group-Subgroup Lattice and Chains of Maximal Subgroups](https://www.cryst.ehu.es/cryst/subgroupgraph.html) | [Science Direct](https://www.sciencedirect.com/search?qs=Maximal%20subgroups&show=50) | [Quiver and Quantum Group Rep.](https://space.bilibili.com/514700214/video) |
 [Globular](http://globular.science/) | [Around Toposes Forum](https://aroundtoposes.com/forum/) | [Homalg Project](https://github.com/homalg-project) |
 [Cecilia Flori-Topos Quantum Physics](https://scitalks.ca/speaker/Cecilia-Flori?page=%2C1) | [SciTalks](https://scitalks.ca/search-talks?search=&talk_subject=773) | [Topos Theory in a Nutshell](https://math.ucr.edu/home/baez/topos.html) |
-
+[Topos in nLab](https://ncatlab.org/nlab/show/topos) | [Sketches of an Elephant in nLab](https://ncatlab.org/nlab/show/Sketches+of+an+Elephant) | [The Stack Project](https://stacks.math.columbia.edu/) | 
 ## Upcoming meeting
 | I | II | III | IV | V |
 |:---------|:---------------------|:---------------|:---------------|:---------------|
