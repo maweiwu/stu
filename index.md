@@ -121,4 +121,4 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 2. 理论需要在例子中理解，尽量用具体的例子去编码所学的理论，这样理解才更深刻。
 
-
+3. 就算是大家创立的理论，也仅仅是他\她的一种处理方式而已，这并不是唯一的和最好的处理方式，所以每个人都可以有自己的独特处理方式。
