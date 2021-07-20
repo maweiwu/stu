@@ -139,4 +139,6 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 11. 正规化子，中心化子等取各种子群的操作可以看成是在所有有限群构成的全体（类）中的操作，而不仅仅是对某个固定的群的操作。有限群论思路往往就是在约化/追踪各个不同群之间的信息。 
 
+12. 融合系 F_S(G) 是把 S 的所有子群在 G 中的共轭/融合情况罗列整合在一起（构成一个范畴/系统）。 
+
 
