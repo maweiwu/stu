@@ -141,7 +141,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 12. 融合系 F_S(G) 是把 S 的所有子群在 G 中的共轭/融合情况罗列整合在一起（构成一个范畴/系统）。它编码的是 G 的p-部分在 G 中的共轭/融合信息。
 
-13. 融合系 F_S(G) 追踪/比较的是 S 的任意子群 P 和 Q 分别在 S 和在 G 中的共轭/融合信息。 
+13. 融合系 F_S(G) 追踪/比较的是 S 的任意子群 P 和 Q 分别在 S 和在 G 中的共轭/融合信息。对应一般的融合系 $\mathcal{F}$ 的信息往往需要借助在 S 中的融合信息来辅助分析和比较。 
 
 
 
