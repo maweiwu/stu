@@ -130,3 +130,5 @@ My research interests are in representation theory, (higher) topos theory, homot
 6. 群表示论/块论不仅仅研究某个固定群的模范畴，而是把所有群的模范畴放在一起来研究(important)；群表示论更多地是从群代数的角度对模范畴进行约化/追踪/分割；而代数表示论则往往直接对模范畴借助同调工具进行操作，往往是对某个固定的代数的模范畴进行研究。 
 
 7. G-代数 A 的不动点 A^G 记录的是 A 或者G-模范畴的“分割”情况（幂等元）。 
+
+8. 如果 Q 是 G 的子群，则Q-模范畴的分割比G-模范畴的分割“细”，后者可对前者进行划分，而Brauer homomorphism则是追踪后者的分割源自于前者的分割的哪一部分。 
