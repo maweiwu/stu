@@ -147,6 +147,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 15. 正规化子 N_G(P) 可以理解为 G 中对 P 中元素共轭作用封闭的元素，中心化子 C_G(P) 理解为 G 中对 P 中元素作用平凡的元素。正规子群可以理解为共轭作用下完整轨道的并。融合系和有限群往往考虑的是共轭关系。
 
+16. 共轭作用对于正规子群的作用效果是：不作外部改观，只对内部调整。 
+
 
 
 
