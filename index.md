@@ -153,7 +153,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 18. 有限群的局部分析是在众多的子群中划出某部分子群来研究整个群的结构，此时，取子群的方式，取哪些子群等就有许多种可能，每个人都有自己独特的处理方式，大牛的处理方式也只是Ta选择的一种方式，未必是最好的和唯一的方式，因此每个人都可以有无限的发挥空间，选择自己的一种处理方式。 
 
-19. 借助融合系 F 可以把 S 的子群划分得更加细致，如 Q central （in F） =⇒ Q normal （in F） =⇒ Q strongly closed （in F） =⇒ Q weakly closed （in F） =⇒ Q normal in S。参看Michael Aschbacher, Radha Kessar, Bob Oliver - Fusion Systems in Algebra and Topology-Cambridge University Press (2011)第17页。  
+19. 借助融合系 F 可以把 S 的子群划分得更加细致，如 Q central （in F） =⇒ Q normal （in F） =⇒ Q strongly closed （in F） =⇒ Q weakly closed （in F） =⇒ Q normal in S。参看Michael Aschbacher, Radha Kessar, Bob Oliver - Fusion Systems in Algebra and Topology-Cambridge University Press (2011)第17页。 
+
+20. 借助融合系的信息可以有限群的子群刻画/划分得更加细致。 
 
 
 
