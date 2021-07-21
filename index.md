@@ -135,7 +135,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 9. 融合和幂零是对共轭现象在各种群与子群间的追踪。融合现象意味着子群没有共轭，而在比子群大的某个群是共轭的（在小群没有融合，在大群的地方融合了）。而幂零则和融合现象相反，它刻画的是大群和小群的共轭现象是一致的。
 
-10. 有限群论/群表示论/块论/G-代数理论的思想之一在于约化/追踪/比较/联系不同的群之间的信息(群是在群范畴中取的，而不仅仅是由某个固定的群产生的子群集，前者更广泛些)。  
+10. 有限群论/群表示论/块论/G-代数理论的思想之一在于约化/追踪/比较/联系不同的群之间的信息（群是在群范畴中取的，而不仅仅是由某个固定的群产生的子群集，前者更广泛些）。  
 
 11. 正规化子，中心化子等取各种子群的操作可以看成是在所有有限群构成的全体（类）中的操作，而不仅仅是对某个固定的群的操作。有限群论思路往往就是在约化/追踪各个不同群之间的信息。 
 
@@ -149,9 +149,11 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 16. 共轭作用对于正规子群的作用效果是：不作外部改观，只对内部调整。 
 
-17. 对于 S 上的融合系 F，因为 F 编码的是共轭信息，对 F 中某对象 P 的刻画往往是借助它在 S 中的子群 C_S(P)，N_S(P)，Aut_S(P),Out_S(P) 等对它在 F 中的子群 C_F(P)，N_F(P)，Aut_F(P),Out_F(P) 等进行“度量”。  
+17. 对于 S 上的融合系 F，因为 F 编码的是共轭信息，对 F 中某对象 P 的刻画往往是借助它在 S 中的子群 C_S(P)，N_S(P)，Aut_S(P), Out_S(P) 等对它在 F 中的子群 C_F(P)，N_F(P)，Aut_F(P), Out_F(P) 等进行“度量”。  
 
 18. 有限群的局部分析是在众多的子群中划出某部分子群来研究整个群的结构，此时，取子群的方式，取哪些子群等就有许多种可能，每个人都有自己独特的处理方式，大牛的处理方式也只是Ta选择的一种方式，未必是最好的和唯一的方式，因此每个人都可以有无限的发挥空间，选择自己的一种处理方式。 
+
+19. 借助融合系 F 可以把 S 的子群划分得更加细致，如 Q central （in F） =⇒ Q normal （in F） =⇒ Q strongly closed （in F） =⇒ Q weakly closed （in F） =⇒ Q normal in S。参看Michael Aschbacher, Radha Kessar, Bob Oliver - Fusion Systems in Algebra and Topology-Cambridge University Press (2011)第17页。  
 
 
 
