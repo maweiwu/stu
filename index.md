@@ -143,6 +143,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 13. 融合系 F_S(G) 追踪/比较的是 S 的任意子群 P 和 Q 分别在 S 和在 G 中的共轭/融合信息。对应一般的融合系 $\mathcal{F}$ 的信息往往需要借助在 S 中的融合信息来辅助分析和比较。 S 中的信息是比较和度量融合系 $\mathcal{F}$ 的信息的准绳，前者往往被认为是比较清楚且相对容易的。  
 
+14. 在考虑有限群理论时，往往考虑把大群的信息约化/追踪到尽可能小的群上去，这样更容易获取信息。 
+
 
 
 
