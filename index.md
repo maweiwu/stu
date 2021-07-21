@@ -149,6 +149,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 16. 共轭作用对于正规子群的作用效果是：不作外部改观，只对内部调整。 
 
+17. 对于 S 上的融合系 F，因为 F 编码的是共轭信息，对 F 中某对象 P 的刻画往往是借助它在 S 中的子群 C_S(P)，N_S(P)，Aut_S(P),Out_S(P) 等对它在 F 中的子群 C_F(P)，N_F(P)，Aut_F(P),Out_F(P) 等进行“度量”。  
+
 
 
 
