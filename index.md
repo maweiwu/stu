@@ -155,7 +155,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 19. 借助融合系 F 可以把 S 的子群划分得更加细致，如 Q central （in F） =⇒ Q normal （in F） =⇒ Q strongly closed （in F） =⇒ Q weakly closed （in F） =⇒ Q normal in S。参看Michael Aschbacher, Radha Kessar, Bob Oliver - Fusion Systems in Algebra and Topology-Cambridge University Press (2011)第17页。 
 
-20. 借助融合系的信息可以有限群的子群刻画/划分得更加细致。 
+20. 借助融合系的信息可以有限群的子群刻画/划分得更加细致。
+
+21. 有限群 G 的“p-局部结构”不仅仅是 G 的Sylow p-子群 S，还包括 S 的各子群的G-共轭关系（融合系），所以，有限群的局部分析，主要考虑的还是共轭关系，因此会考虑各种由共轭作用产生的子群（局部子群），借助它们去研究群 G 本身的结构。   
+
 
 
 
