@@ -151,6 +151,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 17. 对于 S 上的融合系 F，因为 F 编码的是共轭信息，对 F 中某对象 P 的刻画往往是借助它在 S 中的子群 C_S(P)，N_S(P)，Aut_S(P),Out_S(P) 等对它在 F 中的子群 C_F(P)，N_F(P)，Aut_F(P),Out_F(P) 等进行“度量”。  
 
+18. 有限群的局部分析是在众多的子群中划出某部分子群来研究整个群的结构，此时，取子群的方式，取哪些子群等就有许多种可能，每个人都有自己独特的处理方式，大牛的处理方式也只是Ta选择的一种方式，未必是最好的和唯一的方式，因此每个人都可以有无限的发挥空间，选择自己的一种处理方式。 
+
 
 
 
