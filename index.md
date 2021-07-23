@@ -161,6 +161,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 22. 有限群/融合系产生的子群都与“共轭”有某种关联，揭示“共轭关系”是构造这些子群的目的之一，有限群局部分析的主要目的也是揭示/理清“共轭关系”。所以，从“共轭”角度去理解各种子群会理解得更深刻。
 
+23. 转移/传输映射（Transfer）Trf^G_H: G^{ab} ——> H^{ab} 是在追踪/转移/传输不同群之间的某些元素。 
+
 
 
 
