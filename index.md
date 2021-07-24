@@ -163,6 +163,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 23. 转移/传输映射（Transfer）Trf^G_H: G^{ab} ——> H^{ab} 是在追踪/转移/传输不同群之间的某些元素。 
 
+24. 有些结论对所有 Grothendieck 拓扑都成立，而有些结论则依赖于某种具体的 Grothendieck 拓扑。 
+
 
 
 
