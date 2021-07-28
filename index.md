@@ -45,6 +45,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Homotopy Type Theory in nLab](https://ncatlab.org/nlab/show/homotopy+type+theory) | [Toposes Online Video](https://www.youtube.com/playlist?list=PLx5f8IelFRgGuSn4L90j3taAGSzyfw-U1) | [Kerodon_an online resource for homotopy-coherent mathematics](https://kerodon.net/) |
 [Polynomial Functors](https://topos.site/poly-course/) | [Simple Groups](https://sites.google.com/view/simplegroupsbristol2018) | [New Perspectives in Representation Theory of Finite Groups](http://www.birs.ca/events/2017/5-day-workshops/17w5003/videos) |
 [An Introduction to Character Theory and the McKay Conjecture](https://www.msri.org/summer_schools/767/schedules) | [Finite Simple Groups: Thirty Years of the Atlas and Beyond](https://www.math.arizona.edu/~grouptheory/princeton/index.html) | [Group Representation Theory and Applications](https://www.msri.org/programs/293) |
+[Software for Representation Theory](https://www.math.arizona.edu/~klux/software.php) |
 
 ## Upcoming meeting
 | I | II | III | IV | V |
