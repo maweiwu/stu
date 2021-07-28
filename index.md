@@ -43,7 +43,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [En-algebra in nLab](https://ncatlab.org/nlab/show/En-algebra) | [Quiver in nLab](https://ncatlab.org/nlab/show/quiver) | [DG-Category in nLab](https://ncatlab.org/nlab/show/dg-category) |
 [Stack in nLab](https://ncatlab.org/nlab/show/stack) | [Derived Category in nLab](https://ncatlab.org/nlab/show/derived+category) | [Triangulated Category in nLab](https://ncatlab.org/nlab/show/triangulated+category) |
 [Homotopy Type Theory in nLab](https://ncatlab.org/nlab/show/homotopy+type+theory) | [Toposes Online Video](https://www.youtube.com/playlist?list=PLx5f8IelFRgGuSn4L90j3taAGSzyfw-U1) | [Kerodon_an online resource for homotopy-coherent mathematics](https://kerodon.net/) |
-[Polynomial Functors](https://topos.site/poly-course/) |
+[Polynomial Functors](https://topos.site/poly-course/) | [Simple Groups](https://sites.google.com/view/simplegroupsbristol2018) | 
 ## Upcoming meeting
 | I | II | III | IV | V |
 |:---------|:---------------------|:---------------|:---------------|:---------------|
