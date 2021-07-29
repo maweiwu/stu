@@ -89,7 +89,6 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Free Site](https://free-ss.site/)
 
-[Li Yijun Music](https://www.youtube.com/watch?v=2VOrXbirgiM)
 
 ## French learning (math SGA)
 
