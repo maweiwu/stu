@@ -167,7 +167,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 23. 转移/传输映射（Transfer）Trf^G_H: G^{ab} ——> H^{ab} 是在追踪/转移/传输不同群之间的某些元素。 
 
-24. 有些结论对所有 Grothendieck 拓扑都成立，而有些结论则依赖于某种具体的 Grothendieck 拓扑。 
+24. 有些结论对所有 Grothendieck 拓扑都成立，而有些结论则依赖于某种具体的 Grothendieck 拓扑。
+
+25. 对一般群的某些相关信息（结构，数量等）约化到较小的某类群（有限单群，本原群，传递群等）上的相关信息；然后再利用较小群类的分类定理对约化信息（结构，数量等）进行验证。这两步都很重要。 
 
 
 
