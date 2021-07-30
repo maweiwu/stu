@@ -176,6 +176,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 27. 矩阵群的处理方式之一就是利用被作用的向量空间的性质（Form等）及矩阵的“形状”将矩阵群进行划分。 
 
+28. Lie型群的表示很重要的一部分工作是把大群的表示约化到更小的群（Levi子群，抛物子群等）的表示。 
+
 
 
 
