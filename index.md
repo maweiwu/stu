@@ -184,6 +184,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 30. 如何理解（上）同调群（它所揭示的信息，系数的选取等）？答案在于复形的第0项，它告诉我们同调群所提取的信息来自什么对象以及我们该选择什么样的（上）同调系数等。 
 
+31. 群概型G（几何Functor of Points） -----> 概型的坐标环k[G]（Hopf代数） -----> 坐标环的对偶kG（群代数），几何和代数的  
+
 
 
 
