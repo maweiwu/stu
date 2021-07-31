@@ -186,7 +186,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 31. 群概型G（几何Functor of Points） -----> 概型的坐标环k[G]（Hopf代数） -----> 坐标环的对偶kG（群代数）。  
 
-32. 模M什么时候可以模N通过同调“算子”（扩张，张量，直和项，直和，合冲）构造出来，Support理论给出该问题的一个解决办法：当Supp(M)含在Supp(N)的时候。   
+32. 模M什么时候可以模N通过同调“算子”（扩张，张量，直和项，直和，合冲）构造出来，Support理论给出该问题的一个解决办法：当Supp(M)含在Supp(N)的时候。Thick张量理想和Localzing张量理想就是对这些运算封闭的对象全体，即关于同调算子的“生成闭包” 。  
 
 
 
