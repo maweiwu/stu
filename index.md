@@ -190,6 +190,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 33. Topos Level（hard） <---duality---> Site level（easy）. 
 
+34. 拓扑斯理论中经常要考虑同一个 Grothendieck 拓扑在函子作用下的变化以及保持情况。 
+
 
 
 
