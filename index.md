@@ -94,6 +94,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## French learning (math SGA)
 
+[𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡 𝗗𝗨 𝗦𝗘𝗠𝗜𝗡𝗔𝗜𝗥𝗘 𝗟𝗘𝗖𝗧𝗨𝗥𝗘𝗦 𝗚𝗥𝗢𝗧𝗛𝗘𝗡𝗗𝗜𝗘𝗖𝗞𝗜𝗘𝗡𝗡𝗘𝗦 𝟮𝟬𝟭𝟳-𝟮𝟬𝟭𝟴 ](https://www.youtube.com/playlist?list=PLt6rik8WDbuRC4pwgKQOnb7NPGG1oJ4Fo) 
+
 | French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
 |:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
 | dans | 在... | plus | 更 | souvent | 经常地 | connues | 知道 | constamment | 经常地 |
