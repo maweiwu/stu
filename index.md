@@ -202,6 +202,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 38. 函子的左右伴随的左右的区别在于：H —| F —| G 是伴随函子，HFA ——> A 中的HFA取A的“左”边的比较对象，GFA 则取A的“右”边的比较对象，到FA的态射和由FA出发的态射是有区别的。另外，函子是否有左右伴随还因为它对源范畴和目标范畴的（余）极限运算的保持情况不一样，函子性质的“好坏”不同。   
 
+39. 左右伴随函子的（余）单位衡量的是偏离范畴等价的程度。 
+
 
 
 
