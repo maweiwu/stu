@@ -204,6 +204,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 39. 左右伴随函子的（余）单位衡量的是偏离范畴等价的程度。 
 
+40. 范畴中同构的对象视为相同的，范畴等价与范畴同构的差别就在于对同构对象的看待。范畴局部化就是把原范畴的某些态射变为同构，在范畴等价（同构的对象看成是一样的）的角度看，相当于把某些对象去除了。 
+
 
 
 
