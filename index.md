@@ -214,7 +214,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 42. 对于范畴C，Fct(C,C)是一个张量范畴，因此可以考虑它的环对象A（Monad），对于任意张量范畴T，还考虑T在C上的作用通过T ——> Fct(C,C)（可以等价地转化为T和C的张量），进一步可以考虑C中的A-模对象M。 
 
-43. 比较C，Ind(C)，C^三个范畴。   
+43. 比较C，Ind(C)，C^三个范畴。  
+
+44. The notion of representable functor allows us to extend various algebraic notions
+to categories. ([KS06] Page 168) 可表函子 G: C ——> Group 可将目标范畴的代数结构转移到函子范畴上去，如：G(X) X G(X) ——> G(X) 到 G X G ——> G。
 
 
 
