@@ -217,7 +217,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 43. 比较C，Ind(C)，C^三个范畴。  
 
 44. The notion of representable functor allows us to extend various algebraic notions
-to categories. ([KS06] Page 168) 可表函子 G: C ——> Group 可将目标范畴的代数结构转移到函子范畴上去，如：G(X) X G(X) ——> G(X) 到 G X G ——> G。
+to categories. ([KS'06], Page: 168) 可表函子 G: C^op ——> Group 可将目标范畴的代数结构转移到函子范畴上去，如：G(X) X G(X) ——> G(X) 到 G X G ——> G。
 
 
 
