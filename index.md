@@ -222,6 +222,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 45. [KS'06]定义Grothendieck拓扑和Sheaves的时候都是在C^上定义的，但是C和C^又有紧密关系，有时会滥用符号，所以经常会弄不清在C还是在C^，要注意区分。 
 
+46. 不同的层范畴（不同的代数层）所具有的结构（正/逆像函子，内蕴Hom函子，张量函子等）是有区别的，这就好比不同的代数结构（群/环/模等）构成的范畴所具有的结构也是不同的。 
+
 
 
 
