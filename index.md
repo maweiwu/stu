@@ -224,6 +224,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 46. 不同的层范畴（不同的代数层）所具有的结构（正/逆像函子，内蕴Hom函子，张量函子等）是有区别的，这就好比不同的代数结构（群/环/模等）构成的范畴所具有的结构也是不同的。 
 
+47. 对于环层R，模层范畴Mod(R)是Sh(X,k-Mod)=Mod(k_X)的推广，此处k_X为X上的常值层，某种特殊的环层。某种意义上Mod(R)的环层R使得Sh(X,k-Mod)的k-Mod范畴不仅仅是某个固定的环k的范畴，而是把所有的R(U)-Mod范畴，U是X的开集。 
+
 
 
 
