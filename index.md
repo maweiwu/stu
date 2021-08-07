@@ -218,8 +218,11 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 43. 比较C，Ind(C)，C^三个范畴。  
 
-44. The notion of representable functor allows us to extend various algebraic notions
-to categories. ([KS'06], Page: 168) 可表函子 G: C^op ——> Group 可将目标范畴的代数结构转移到函子范畴上去，如：G(X) X G(X) ——> G(X) 到 G X G ——> G。
+44. The notion of representable functor allows us to extend various algebraic notions to categories. ([KS'06], Page: 168) 可表函子 G: C^op ——> Group 可将目标范畴的代数结构转移到函子范畴上去，如：G(X) X G(X) ——> G(X) 到 G X G ——> G。
+
+45. [KS'06]定义Grothendieck拓扑和Sheaves的时候都是在C^上定义的，但是C和C^又有紧密关系，有时会滥用符号，所以经常会弄不清在C还是在C^，要注意区分。 
+
+
 
 
 
