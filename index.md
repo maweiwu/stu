@@ -226,6 +226,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 47. 对于环层R，模层范畴Mod(R)是Sh(X,k-Mod)=Mod(k_X)的推广，此处k_X为X上的常值层，某种特殊的环层。某种意义上Mod(R)的环层R将Sh(X,k-Mod)的k-Mod范畴，某个固定的环k的范畴，推广为所有的R(U)-Mod范畴，U是X的开集。 
 
+48. 当要比较两个对象时，一定要把它们放在同一个范畴中比较，如果在不同范畴时，要通过函子拉回到同一个范畴中来。比如Hom作为集合同构时不需要借助 f_{star},  f^{-1}等这些函子，而Hom作为内蕴层/预层来比较时，则需要借助这些函子拉到同一个范畴中去比较，否则无法比较。 
+
 
 
 
