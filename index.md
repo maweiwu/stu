@@ -228,6 +228,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 48. 当要比较两个对象时，一定要把它们放在同一个范畴中比较，如果在不同范畴时，要通过函子拉回到同一个范畴中来。比如Hom作为集合同构时不需要借助 f_{star},  f^{-1}等这些函子，而Hom作为内蕴层/预层来比较时，则需要借助这些函子拉到同一个范畴中去比较，否则无法比较。 
 
+49. An abelian category C is semisimple (see Definition 8.3.16) if and only if Ext^k_C(X, Y) = 0 for any k not = 0 and any X, Y ∈ C. An abelian category C is hereditary if Ext^k_C(X, Y) = 0 for k ≥ 2 and X, Y ∈ C. [KS'06 page: 324]。由此也可以看出Ext衡量的是距离半单范畴的程度，可以利用Ext来选择/划出某些子范畴来研究。
+
 
 
 
