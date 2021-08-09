@@ -230,7 +230,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 49. An abelian category C is semisimple (see Definition 8.3.16) if and only if Ext^k_C(X, Y) = 0 for any k not = 0 and any X, Y ∈ C. An abelian category C is hereditary if Ext^k_C(X, Y) = 0 for k ≥ 2 and X, Y ∈ C. [KS'06 page: 324]。由此也可以看出Ext衡量的是距离半单范畴的程度，可以利用Ext来选择/划出某些子范畴来研究。
 
-50. 粗略来说，对于交换范畴A，范畴C(A), K(A), D(A), A是依次变“小”的。 
+50. 粗略来说，对于交换范畴A，范畴C(A), K(A), D(A), A是依次变“小”的。特别地，C要比C[W^{-1}]要“小”（注意这点）。 
 
 51. 函子F性质好坏与否取决于它对范畴的各种“局部结构/子结构”的保持性，如：函子是满的，忠实的（对范畴的态射结构的保持性）；函子是本质满的（对范畴的对象这个局部结构的保持性）；函子是正合的（对极限锥这个局部结构的保持性）；函子是三角的（对范畴的三角结构的保持性）等等。
 
