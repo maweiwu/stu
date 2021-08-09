@@ -46,7 +46,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Polynomial Functors](https://topos.site/poly-course/) | [Simple Groups](https://sites.google.com/view/simplegroupsbristol2018) | [New Perspectives in Representation Theory of Finite Groups](http://www.birs.ca/events/2017/5-day-workshops/17w5003/videos) |
 [An Introduction to Character Theory and the McKay Conjecture](https://www.msri.org/summer_schools/767/schedules) | [Finite Simple Groups: Thirty Years of the Atlas and Beyond](https://www.math.arizona.edu/~grouptheory/princeton/index.html) | [Group Representation Theory and Applications](https://www.msri.org/programs/293) |
 [Software for Representation Theory](https://www.math.arizona.edu/~klux/software.php) | [The Xena Project](https://www.ma.imperial.ac.uk/~buzzard/xena/) | ["What Is...?"](http://arminstraub.com/math/what-is-column) |
-[MacTutor](https://mathshistory.st-andrews.ac.uk/) | [Group Theory Sangam](https://www.youtube.com/channel/UCjjfTZcZh-QNeImyUxRe11A) |
+[MacTutor](https://mathshistory.st-andrews.ac.uk/) | [Group Theory Sangam](https://www.youtube.com/channel/UCjjfTZcZh-QNeImyUxRe11A) | [2021 Workshop on Cluster Algebras and Related Topics](http://www.mcm.ac.cn/events/programs/202107/t20210731_655034.html) |
 
 ## Upcoming meeting
 | I | II | III | IV | V |
