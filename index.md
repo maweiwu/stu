@@ -255,7 +255,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 60. 经典理论 ——> 内蕴化于背景范畴E中 ——> 内蕴语言表达，借助Type theory用计算机实现。  
 
-61. Indexed范畴=伪函子 <——Grothendieck构造——> 纤维化。   
+61. Indexed范畴=伪函子 <——Grothendieck构造——> 纤维化，产生大范畴的方式之一。  
 
 
 
