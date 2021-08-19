@@ -262,7 +262,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 62. 理论（Theory）是有一定规则符号集，不同的理论可以有不同的符号构件（这也体现了某种选择性：构件的选择/理论的选择），符号构件的丰富程度又影响着理论的表达能力。根据构件的丰富程度，可以对理论进行分类，如代数理论，几何理论，笛卡尔理论，凝聚理论等，这是大类，还可以有很具体的理论，如属于代数理论的群理论，环理论等（这些具体的理论的符号集“构件”都是可以明确写清楚的）。研究和比较各种理论，我们可以借助每个理论的分类拓扑斯和模型来研究，拓扑斯理论相当于从范畴论的角度对各种理论进行分析，从某种意义上说，分类拓扑斯相当于是理论的“镜像/影子”，揭示理论的各种性质和关系。和不同的范畴有不同的结构一样，不同的理论也有不同的结构。
 
-63. A category C is filtered if it has cocones on all finite diagrams. Equivalently, if the following three conditions are satisfied. 滤过范畴是为了保证有限余锥(cocone)的存在性。    
+63. A category C is filtered if it has cocones on all finite diagrams. Equivalently, if the following three conditions are satisfied. 滤过范畴是为了保证有限余锥(cocone)的存在性。 
+
+64. 【语法部分】. <语言/“字符生成元”> （这里的 <> 指的是公式的生成规则） = 有限公式 ＞ {句子 φ（不含自由变量的公式）} = 理论； 【语义部分】. 语言结构 Μ = 集合（宇宙） + （符号）解释.   
 
 
 
