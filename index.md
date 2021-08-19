@@ -99,6 +99,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Hypertext Help with LaTeX](http://web.mit.edu/ghudson/dev/nokrb/third/tetex/texmf/doc/latex/latex2e-html/)
 
+[Xy-pic User's Guide](http://tex.loria.fr/graph-pack/doc-xypic/xyguide-html/xyguide-html.html)
+
 [Free Site](https://free-ss.site/)
 
 
