@@ -272,6 +272,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 67. 函子编码了许多信息，而函子的可表性相当于把函子所编码的信息都凝聚在某一个对象上去。 
 
+68. 理论 → 可在拓扑斯中解释（模型）；拓扑斯 → 内蕴语言（每个拓扑斯都分类了某种理论）。 
+
 
 
 
