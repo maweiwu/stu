@@ -264,9 +264,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 63. A category C is filtered if it has cocones on all finite diagrams. Equivalently, if the following three conditions are satisfied. 滤过范畴是为了保证有限余锥(cocone)的存在性。 
 
-64. 【语法部分】 <语言/“字符生成元”> （这里的 <> 指的是公式的生成规则） = 有限公式 ＞ {句子 φ（不含自由变量的公式）} = 理论； 【语义部分】 语言结构 M = 集合（宇宙） + （符号）解释。 如果理论中的句子都在语言结构 M 中是对的， 则该语言结构称为该理论（Theory）的一个模型（Model）。 可以大致把理论理解成抽象的公理集，而模型则可以理解为满足抽象公理集的某个具体的例子。 
+64. 【语法部分】 <语言/“字符生成元”> （这里的 <> 指的是公式的生成规则） = 有限公式 ＞ {句子 φ（不含自由变量的公式）} = 理论； 【语义部分】 语言结构 M = 集合（宇宙） + （符号）解释。 如果理论中的句子都在语言结构 M 中是对的， 则该语言结构称为该理论（Theory）的一个模型（Model）。 可以大致把理论理解成抽象的公理集，而模型则可以理解为满足抽象公理集的某个具体的例子。公式中的 Context 就是指公式中出现自由变量，Signature 指的就是语言/“字符生成元”，如（R,+,-,0,1）。  
 
-65. 正如群论研究各种群，拓扑斯理论研究各种拓扑斯。 
+65. 正如群论研究各种群，拓扑斯理论研究各种拓扑斯。所以不同的拓扑斯会有不同的结构。 
 
 
 
