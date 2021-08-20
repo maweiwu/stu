@@ -270,6 +270,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 66. 语义范畴中的态射的定义 θ(x,y): {x.φ} → {y.ψ}， 考虑其解释/模型M，θM 解释为两个对象 φM 和 ψM 间的态射，因此是 φM 和 ψM 直积的一个子对象，它的定义的三个条件分别表达的正是 θM 是一个函数/态射的条件：第一条是每个定义域赋予一个值；第二条是子对象 θM （作为直积的子对象）到两个分量有投射；第三条是值域取值唯一。[Olivia 38:00](https://www.youtube.com/watch?v=P5Mx7fwYVws) 
 
+67. 函子编码了许多信息，而函子的可表性相当于把函子所编码的信息都凝聚在某一个对象上去。 
+
 
 
 
