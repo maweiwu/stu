@@ -280,7 +280,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 71. 类比于 0-Tops Local, 1-Topos Grothendieck Topos 的很多定义就变得容易理解些。[André Joyal "Three mutations of topos theory" Thursday, February 15, 2018](https://www.youtube.com/watch?v=SLmTkUik6-0)    
 
-72. 拉回函子 f^* 类似于交/乘法，余极限类似于并/加法，所以拉回保持余极限类似于分配率。 
+72. 拉回函子 f^* 类似于交/乘法，余极限类似于并/加法，所以拉回保持余极限类似于分配律。 
 
 
 
