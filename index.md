@@ -1,7 +1,7 @@
 
 # Maway Woo's Home Page
 
-![ME]\small(https://github.com/mawaywoo/stu/blob/main/psb.jpg)
+![ME](https://github.com/mawaywoo/stu/blob/main/psb.jpg)
 
 Email: mawaywoo(at)126(dot)com
 
@@ -281,6 +281,12 @@ My research interests are in representation theory, (higher) topos theory, homot
 71. 类比于 0-Tops Local, 1-Topos Grothendieck Topos 的很多定义就变得容易理解些。[André Joyal "Three mutations of topos theory" Thursday, February 15, 2018](https://www.youtube.com/watch?v=SLmTkUik6-0)    
 
 72. 拉回函子 f^* 类似于交/乘法，余极限类似于并/加法，所以拉回保持余极限类似于分配律。 
+
+73. 各种表示论中出现的范畴。
+   ![]() 
+   ![]() 
+   ![]() 
+   ![]() 
 
 
 
