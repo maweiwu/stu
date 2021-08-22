@@ -283,10 +283,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 72. 拉回函子 f^* 类似于交/乘法，余极限类似于并/加法，所以拉回保持余极限类似于分配律。 
 
 73. 各种表示论中出现的范畴。
-   ![]() 
-   ![]() 
-   ![]() 
-   ![]() 
+   ![](https://github.com/mawaywoo/stu/blob/main/20210822225741.jpg) 
+   ![](https://github.com/mawaywoo/stu/blob/main/20210822225813.jpg) 
+   ![](https://github.com/mawaywoo/stu/blob/main/20210822225825.jpg) 
+   ![](https://github.com/mawaywoo/stu/blob/main/20210822225837.jpg) 
 
 
 
