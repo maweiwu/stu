@@ -299,7 +299,8 @@ My research interests are in representation theory, (higher) topos theory, homot
   ![7](https://github.com/mawaywoo/stu/blob/main/20210823112820.jpg)
   ![8](https://github.com/mawaywoo/stu/blob/main/20210823112829.jpg)
   
-75.  
+75. 导出等价的例子（胡维老师的报告[Hu Wei](https://github.com/mawaywoo/stu/blob/main/Example-of-derived-equivalences-.pdf)）。
+  ![9](https://github.com/mawaywoo/stu/blob/main/20210823171407.jpg)  
   
 
 
