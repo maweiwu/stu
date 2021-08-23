@@ -292,7 +292,15 @@ My research interests are in representation theory, (higher) topos theory, homot
    ![2](https://github.com/mawaywoo/stu/blob/main/20210822225813.jpg) 
    ![3](https://github.com/mawaywoo/stu/blob/main/20210822225825.jpg) 
    ![4](https://github.com/mawaywoo/stu/blob/main/20210822225837.jpg) 
-
+   
+74. 学习代数表示论的一点心得体会（肖杰老师的报告[Xiao Jie](https://www.bilibili.com/video/BV1yv411b7dD?from=search&seid=16184737301564000848)）。
+  ![5](https://github.com/mawaywoo/stu/blob/main/20210823112736.jpg)
+  ![6](https://github.com/mawaywoo/stu/blob/main/20210823112809.jpg)
+  ![7](https://github.com/mawaywoo/stu/blob/main/20210823112820.jpg)
+  ![8](https://github.com/mawaywoo/stu/blob/main/20210823112829.jpg)
+  
+75.  
+  
 
 
 
