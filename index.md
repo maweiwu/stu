@@ -299,12 +299,8 @@ My research interests are in representation theory, (higher) topos theory, homot
   ![7](https://github.com/mawaywoo/stu/blob/main/20210823112820.jpg)
   ![8](https://github.com/mawaywoo/stu/blob/main/20210823112829.jpg)
   
-  img[src*="#width-full"] {
- width: 100%;
-}
-  
 75. 导出等价的例子（胡维老师的报告[Hu Wei](https://github.com/mawaywoo/stu/blob/main/Example-of-derived-equivalences-.pdf)）。
-  ![9](https://github.com/mawaywoo/stu/blob/main/20210823171407.jpg#width-full)
+  ![9](https://github.com/mawaywoo/stu/blob/main/20210823171407.jpg?imageView/2/w/619/q/90)
 
 76. **知道定义的用处/用法远比知道定义本身重要**。
   
