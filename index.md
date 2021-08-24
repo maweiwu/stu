@@ -302,7 +302,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 75. 导出等价的例子（胡维老师的报告[Hu Wei](https://github.com/mawaywoo/stu/blob/main/Example-of-derived-equivalences-.pdf)）。
   ![9](https://github.com/mawaywoo/stu/blob/main/20210823171407.jpg) 
 
-76. 知道定义的用处/用法远比知道定义本身重要。
+76. **知道定义的用处/用法远比知道定义本身重要**。
   
   
 
