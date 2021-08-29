@@ -51,7 +51,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [EPIT Spring School on Homotopy Type Theory](https://www.youtube.com/playlist?list=PLWHp4iElqT3OfHRnQeNdtgoUY5Kz4yG8s) | [Virtual Workshop on Higher Topos Theory](https://math.uniandes.edu.co/eventos/2020/workshop/) | [Xiao Jie](https://www.bilibili.com/video/BV1yv411b7dD?from=search&seid=16184737301564000848) |
 [LMS Autumn Algebra School 2020](https://www.icms.org.uk/events/event/?id=1073) | [Bristol Leicester Oxford Colloquium](https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/njs5/BLOC) | [Algebra and Representation Theory in the North](https://hodge.maths.ed.ac.uk/tiki/ARTIN) |
 [Functor Categories for Groups](https://www.lancaster.ac.uk/maths/fcg/) | [Internal Methods](https://github.com/iblech/internal-methods) | [Topos Theory for Lean](https://github.com/b-mehta/topos) |
-[Project Bewl](https://github.com/fdilke/bewl) | [Zhen Lin mathoverflow](https://mathoverflow.net/users/11640/zhen-lin) |
+[Project Bewl](https://github.com/fdilke/bewl) | [Zhen Lin mathoverflow](https://mathoverflow.net/users/11640/zhen-lin) | [Zhen Lin Low in nLab](https://ncatlab.org/nlab/show/Zhen+Lin+Low) |
 
 
 ## Upcoming meeting
