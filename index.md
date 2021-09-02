@@ -52,7 +52,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [LMS Autumn Algebra School 2020](https://www.icms.org.uk/events/event/?id=1073) | [Bristol Leicester Oxford Colloquium](https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/njs5/BLOC) | [Algebra and Representation Theory in the North](https://hodge.maths.ed.ac.uk/tiki/ARTIN) |
 [Functor Categories for Groups](https://www.lancaster.ac.uk/maths/fcg/) | [Internal Methods](https://github.com/iblech/internal-methods) | [Topos Theory for Lean](https://github.com/b-mehta/topos) |
 [Project Bewl](https://github.com/fdilke/bewl) | [Zhen Lin mathoverflow](https://mathoverflow.net/users/11640/zhen-lin) | [Zhen Lin Low in nLab](https://ncatlab.org/nlab/show/Zhen+Lin+Low) |
-[Stacks Project Blog](http://www.math.columbia.edu/~dejong/wordpress/?p=530) |
+[Stacks Project Blog](http://www.math.columbia.edu/~dejong/wordpress/?p=530) | [Pursuing Stacks](http://thescrivener.github.io/PursuingStacks/) | [Alexander Grothendieck's `Pursuing Stacks'](http://groupoids.org.uk/pstacks.htm) |
 
 
 ## Upcoming meeting
