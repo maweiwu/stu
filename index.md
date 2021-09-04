@@ -54,7 +54,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Project Bewl](https://github.com/fdilke/bewl) | [Zhen Lin mathoverflow](https://mathoverflow.net/users/11640/zhen-lin) | [Zhen Lin Low in nLab](https://ncatlab.org/nlab/show/Zhen+Lin+Low) |
 [Stacks Project Blog](http://www.math.columbia.edu/~dejong/wordpress/?p=530) | [Pursuing Stacks](http://thescrivener.github.io/PursuingStacks/) | [Alexander Grothendieck's `Pursuing Stacks'](http://groupoids.org.uk/pstacks.htm) | 
 [GRASP](https://web.ma.utexas.edu/users/benzvi/GRASP.html) | [nForum](https://nforum.ncatlab.org/discussions/?CategoryID=0) | [The n-Category Cafe](https://golem.ph.utexas.edu/category/) |
-[Algebraic Set Theory](https://www.phil.cmu.edu/projects/ast/) |
+[Algebraic Set Theory](https://www.phil.cmu.edu/projects/ast/) | []() | [Earliest Known Uses of Some of the Words of Mathematics(S)](https://jeff560.tripod.com/s.html) |
 
 
 ## Upcoming meeting
