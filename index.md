@@ -55,6 +55,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Stacks Project Blog](http://www.math.columbia.edu/~dejong/wordpress/?p=530) | [Pursuing Stacks](http://thescrivener.github.io/PursuingStacks/) | [Alexander Grothendieck's `Pursuing Stacks'](http://groupoids.org.uk/pstacks.htm) | 
 [GRASP](https://web.ma.utexas.edu/users/benzvi/GRASP.html) | [nForum](https://nforum.ncatlab.org/discussions/?CategoryID=0) | [The n-Category Cafe](https://golem.ph.utexas.edu/category/) |
 [Algebraic Set Theory](https://www.phil.cmu.edu/projects/ast/) | [Earliest Uses of Various Mathematical Symbols](https://jeff560.tripod.com/) | [Earliest Known Uses of Some of the Words of Mathematics(S)](https://jeff560.tripod.com/s.html) |
+[A blog about mathematics for computers](http://math.andrej.com/2000/09/20/the-realizability-approach-to-computable-analysis-and-topology/) |
 
 
 ## Upcoming meeting
