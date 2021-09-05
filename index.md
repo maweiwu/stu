@@ -56,6 +56,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [GRASP](https://web.ma.utexas.edu/users/benzvi/GRASP.html) | [nForum](https://nforum.ncatlab.org/discussions/?CategoryID=0) | [The n-Category Cafe](https://golem.ph.utexas.edu/category/) |
 [Algebraic Set Theory](https://www.phil.cmu.edu/projects/ast/) | [Earliest Uses of Various Mathematical Symbols](https://jeff560.tripod.com/) | [Earliest Known Uses of Some of the Words of Mathematics(S)](https://jeff560.tripod.com/s.html) |
 [A blog about mathematics for computers](http://math.andrej.com/2000/09/20/the-realizability-approach-to-computable-analysis-and-topology/) | [Math Stack Exchange](https://math.stackexchange.com/) | [Math Word](https://mathworld.wolfram.com/) |
+[Large Sets](https://golem.ph.utexas.edu/category/2021/07/large_sets_13.html) |
 
 
 ## Upcoming meeting
@@ -318,7 +319,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 79. 可以选择不同的丈量标准去探索整体的信息。比如可以模范畴的投射模去丈量整个范畴，也可以选择其他的子模范畴去丈量/比较整个模范畴，不管怎样，总可以选择比较的基准，去探索整体的信息与这些基准的“距离”。 
 
-80. 与人交流、学习是很重要的，远比自己一个人学习效率高，所以这些天一直在MO (2021-9-4)。  
+80. 与人交流、学习是很重要的，远比自己一个人学习效率高，所以这些天一直在 Math Overflow 和 The n-Category Cafe (2021-9-4)。  
   
   
 
