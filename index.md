@@ -58,7 +58,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [A blog about mathematics for computers](http://math.andrej.com/2000/09/20/the-realizability-approach-to-computable-analysis-and-topology/) | [Math Stack Exchange](https://math.stackexchange.com/) | [Math Word](https://mathworld.wolfram.com/) |
 [Large Sets](https://golem.ph.utexas.edu/category/2021/07/large_sets_13.html) | [Mathsicnet](https://mathscinet.ams.org/mathscinet) |[ Oxford Set Theory Seminar](https://www.youtube.com/channel/UCqOcoYe-hBjZF8_-XAwYgmQ) |
 [NYLogic](https://www.youtube.com/channel/UCusEOXbRFCibuqVR9FTVeVg) | [Logic Group at PKU](https://www.youtube.com/channel/UChSFrGfg7_AdOcBKD2nvM5w/featured) | [mathematics and philosophy of the infinite](https://www.youtube.com/channel/UCeMZeXYIhdxnQvZP360uoBg/videos) |
-[The Second Number-Class](https://www.youtube.com/user/johnfletchervideos/videos) | [Axiomatic Set Theory](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) |
+[The Second Number-Class](https://www.youtube.com/user/johnfletchervideos/videos) | [Axiomatic Set Theory](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) | [Set Theory Course](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) |
 
 
 ## Upcoming meeting
