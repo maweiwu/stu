@@ -59,7 +59,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Large Sets](https://golem.ph.utexas.edu/category/2021/07/large_sets_13.html) | [Mathsicnet](https://mathscinet.ams.org/mathscinet) |[ Oxford Set Theory Seminar](https://www.youtube.com/channel/UCqOcoYe-hBjZF8_-XAwYgmQ) |
 [NYLogic](https://www.youtube.com/channel/UCusEOXbRFCibuqVR9FTVeVg) | [Logic Group at PKU](https://www.youtube.com/channel/UChSFrGfg7_AdOcBKD2nvM5w/featured) | [mathematics and philosophy of the infinite](https://www.youtube.com/channel/UCeMZeXYIhdxnQvZP360uoBg/videos) |
 [The Second Number-Class](https://www.youtube.com/user/johnfletchervideos/videos) | [Axiomatic Set Theory](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) | [Set Theory Course](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) |
-[Kurt Gödel Research Center](https://www.youtube.com/channel/UCDuSm5jq-ymS71KqDmuo9qw) |
+[Kurt Gödel Research Center](https://www.youtube.com/channel/UCDuSm5jq-ymS71KqDmuo9qw) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) |
 
 
 ## Upcoming meeting
@@ -323,6 +323,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 79. 可以选择不同的丈量标准去探索整体的信息。比如可以模范畴的投射模去丈量整个范畴，也可以选择其他的子模范畴去丈量/比较整个模范畴，不管怎样，总可以选择比较的基准，去探索整体的信息与这些基准的“距离”。 
 
 80. 与人交流、学习是很重要的，远比自己一个人学习效率高，所以这些天一直在 Math Overflow 和 The n-Category Cafe (2021-9-4)。  
+
+81. 范畴论很多时候就是在讨论各种特殊的极限和余极限之间的关系，所以有时候把所有的关于特殊极限和余极限的结论提高到极限锥和余极限锥的层次来理解可能就会变得明朗些。 
   
   
 
