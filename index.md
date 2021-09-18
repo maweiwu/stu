@@ -59,7 +59,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Large Sets](https://golem.ph.utexas.edu/category/2021/07/large_sets_13.html) | [Mathsicnet](https://mathscinet.ams.org/mathscinet) |[ Oxford Set Theory Seminar](https://www.youtube.com/channel/UCqOcoYe-hBjZF8_-XAwYgmQ) |
 [NYLogic](https://www.youtube.com/channel/UCusEOXbRFCibuqVR9FTVeVg) | [Logic Group at PKU](https://www.youtube.com/channel/UChSFrGfg7_AdOcBKD2nvM5w/featured) | [mathematics and philosophy of the infinite](https://www.youtube.com/channel/UCeMZeXYIhdxnQvZP360uoBg/videos) |
 [The Second Number-Class](https://www.youtube.com/user/johnfletchervideos/videos) | [Axiomatic Set Theory](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) | [Set Theory Course](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) |
-[Kurt Gödel Research Center](https://www.youtube.com/channel/UCDuSm5jq-ymS71KqDmuo9qw) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) |
+[Kurt Gödel Research Center](https://www.youtube.com/channel/UCDuSm5jq-ymS71KqDmuo9qw) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) | [Workshop on Finite groups of Lie type (2021)](https://www.youtube.com/playlist?list=PLzNx6FGVASN3M44gex6jYWyLl45xj9ffU) |
 
 
 ## Upcoming meeting
