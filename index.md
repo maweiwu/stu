@@ -60,6 +60,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [NYLogic](https://www.youtube.com/channel/UCusEOXbRFCibuqVR9FTVeVg) | [Logic Group at PKU](https://www.youtube.com/channel/UChSFrGfg7_AdOcBKD2nvM5w/featured) | [mathematics and philosophy of the infinite](https://www.youtube.com/channel/UCeMZeXYIhdxnQvZP360uoBg/videos) |
 [The Second Number-Class](https://www.youtube.com/user/johnfletchervideos/videos) | [Axiomatic Set Theory](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) | [Set Theory Course](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) |
 [Kurt Gödel Research Center](https://www.youtube.com/channel/UCDuSm5jq-ymS71KqDmuo9qw) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) | [Workshop on Finite groups of Lie type (2021)](https://www.youtube.com/playlist?list=PLzNx6FGVASN3M44gex6jYWyLl45xj9ffU) |
+[Categories and Companions Symposium - 2021](https://www.youtube.com/channel/UCedZduCmAxXnxrKS8fMX6ew/videos) |
 
 
 ## Upcoming meeting
@@ -341,6 +342,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 88. 层范畴中的群对象有两部分信息可使用：群和层，使用的时候要区分清楚使用的是哪部分信息，这样不至于弄迷糊。另一方面，内蕴的手段让信息变得更加丰富，使得不同的信息得以结合。而且，这两部分信息可以随意切换，如集合层范畴中的群对象范畴=在群范畴中取值的层范畴。
 
 89. 给定一个范畴，其子构件有很多，所以可以取出某些子构件来定义内蕴概念。
+
+90. 有各种各样的上同调理论，有些上同调理论可能只是别的上同调理论的一种特例而已，也就是说有些上同调理论更广一些。 
 
  
   
