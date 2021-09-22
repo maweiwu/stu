@@ -345,6 +345,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 90. 有各种各样的上同调理论，有些上同调理论可能只是别的上同调理论的一种特例而已，也就是说有些上同调理论更广一些。 
 
+91. 要想区分各种上同调理论，就需要弄清楚各种上同调理论产生复形的不同方式。
+
  
   
   
