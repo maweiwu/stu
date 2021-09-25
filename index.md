@@ -355,6 +355,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 95. G-代数的G-不动点 A^G 包含了 A 的分解情况(幂等元)，而分析它又需要把它追溯到更小的群 H，但此时代数 A^H 变大了，但 Tr^G_H 的像 A^G_H 却还在 A^G 里面，借助 Tr^G_H 和 Br_G^A 追溯 A 的分解情况。  
 
+96. A^G 里面包含两部分信息: 相对迹映射的像 A_H^G 和Brauer商 A(G)，前者可以往更小的群约化/追溯，后者不行，所以需要分析幂等元落在 A^G 的哪部分。 
+
 
 
 
