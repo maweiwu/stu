@@ -357,7 +357,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 96. A^G 里面包含两部分信息: 相对迹映射的像 A_H^G 和Brauer商 A(G)，前者可以往更小的群约化/追溯，后者不行，所以需要分析幂等元落在 A^G 的哪部分。
 
-97. ![G-algebra](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210925162935.jpg) 
+97. G-代数
+    ![G-algebra](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210925162935.jpg) 
 
 
 
