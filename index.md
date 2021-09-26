@@ -360,7 +360,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 97. G-代数
     ![G-algebra](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210925162935.jpg) 
 
-98. 粗略来说，代数A上的除子就是对本原幂等元的共轭类P(A)（块）的再分割和再整合。除子有点对幂等元(大块)进行切割成小块再重组成别的大块的味道。除子有某种将小构件进行“粘接”的感觉。
+98. 粗略来说，代数A上的除子就是对本原幂等元的共轭类P(A)（块）的再分割和再整合。除子有点对幂等元(大块)进行切割成小块再重组成别的大块的味道。除子有某种将小构件进行“粘接”的感觉，就像向量丛。
 
 
 
