@@ -366,6 +366,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 98. 粗略来说，代数A上的除子就是对本原幂等元的共轭类P(A)（块）的再分割和再整合。除子有点对幂等元(大块)进行切割成小块再重组成别的大块的味道。除子有某种将小构件进行“粘接”的感觉，就像向量丛。
 
+99. 并不是所有的环、代数等的模范畴都会出现大模。
+
 
 
 
