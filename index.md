@@ -115,6 +115,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [MUZIK精選德布西古典音樂 The Best of Debussy](https://www.youtube.com/watch?v=7GAOh3VSXTo)
 
+[MUZIK閱聽古典樂](https://www.youtube.com/c/MUZIKmagazine/playlists)
+
 [Hypertext Help with LaTeX](http://web.mit.edu/ghudson/dev/nokrb/third/tetex/texmf/doc/latex/latex2e-html/)
 
 [Xy-pic User's Guide](http://tex.loria.fr/graph-pack/doc-xypic/xyguide-html/xyguide-html.html)
