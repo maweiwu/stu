@@ -368,7 +368,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 99. 并不是所有的环、代数等的模范畴都会出现大模。
 
-100. 张量积 Over 部分是对两个分量的控制部分，如 A Tensor_k B，A 和 B 都是 k-模，由 k 决定的模。  
+100. 张量积 Over 部分是对两个分量的控制部分，如 A Tensor_k B，A 和 B 都是 k-模，由 k 决定的模。
+
+101. 注意！点、源与模，亏群与块之间是多对一的关系，不是一对一的关系，所以就有选取的空间。   
 
 
 
