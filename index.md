@@ -60,7 +60,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [NYLogic](https://www.youtube.com/channel/UCusEOXbRFCibuqVR9FTVeVg) | [Logic Group at PKU](https://www.youtube.com/channel/UChSFrGfg7_AdOcBKD2nvM5w/featured) | [mathematics and philosophy of the infinite](https://www.youtube.com/channel/UCeMZeXYIhdxnQvZP360uoBg/videos) |
 [The Second Number-Class](https://www.youtube.com/user/johnfletchervideos/videos) | [Axiomatic Set Theory](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) | [Set Theory Course](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) |
 [Kurt Gödel Research Center](https://www.youtube.com/channel/UCDuSm5jq-ymS71KqDmuo9qw) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) | [Workshop on Finite groups of Lie type (2021)](https://www.youtube.com/playlist?list=PLzNx6FGVASN3M44gex6jYWyLl45xj9ffU) |
-[Categories and Companions Symposium - 2021](https://www.youtube.com/channel/UCedZduCmAxXnxrKS8fMX6ew/videos) |
+[Categories and Companions Symposium - 2021](https://www.youtube.com/channel/UCedZduCmAxXnxrKS8fMX6ew/videos) | [Tilting Modules](https://www.youtube.com/c/VisualMath/playlists) | [Why (modular) representation theory?](https://www.youtube.com/watch?v=DoP-8OrDDkw&list=PLuFcVFHMIfhKclrRL_Z61gR0Gt0tFw1QA&index=9) |
 
 
 ## Upcoming meeting
@@ -91,7 +91,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Ivo Dell'Ambrogio](https://math.univ-lille1.fr/~dellambr/) | [Irakli Patchkoria](https://www.abdn.ac.uk/people/irakli.patchkoria/#panel_profile) | [Jun Maillard](https://jun.maillard.blue/) | [Beren Sanders](https://people.ucsc.edu/~beren/) | [Jason Semeraro](https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/jason-semeraro) | [Greg Stevenson](https://www.maths.gla.ac.uk/~gstevenson/) | [Igor Sikora](https://sites.google.com/view/igorsikora/home) | [Janina C. Letz](https://www.math.uni-bielefeld.de/~jletz/) | [Julia Semikina](https://sites.google.com/view/juliasemikina/home) | [Oscar Ocampo](https://sites.google.com/site/ocampouribe/home) | 
 [Richard Wong](https://web.ma.utexas.edu/users/richard.wong/) | [Jerzy Weyman](https://math.uconn.edu/person/jerzy-weyman/#) |[Burkhard Külshammer](https://www.minet.uni-jena.de/algebra/personen/kuelshammer.html) | [Efim Zelmanov](https://math.ucsd.edu/people/profiles/efim-zelmanov/) | [Pham Huu Tiep](https://sites.math.rutgers.edu/~pht19/) | [Jay Taylor](https://personalpages.manchester.ac.uk/staff/jay.taylor/) | [Gerhard Hiss](http://www.math.rwth-aachen.de/~Gerhard.Hiss/) | [Klaus Lux](https://www.math.arizona.edu/~klux/) | [Bob Guralnick](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003312) | [Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) |
 [Jeremy Rickard](https://people.maths.bris.ac.uk/~majcr/) | [Rep. Math.ian](https://www.simplemath.top/link.html) | [Claus Michael Ringel](https://www.math.uni-bielefeld.de/~ringel/) | [Maneesh Thakur](https://www.isical.ac.in/maneesh-thakur) | [Francis Borceux](https://ncatlab.org/nlab/show/Francis+Borceux) | [Piotr Kowalski](http://www.math.uni.wroc.pl/~pkowa/english.html) | [Wilson Forero](https://wilsonforerob.wordpress.com/teoria-de-categorias/) | [Georg Biedermann](https://www.math.univ-paris13.fr/~biedermann/) | [Francesco Genovese](https://fgenovese1987.github.io/) | [Zhen Lin Low](http://zll22.user.srcf.net/profile/) |
-[Aise Johan de Jong](https://www.math.columbia.edu/~dejong/) | [Andrew M Pitts](https://www.cl.cam.ac.uk/~amp12/) | [Angelo Vistoli](http://homepage.sns.it/vistoli/) | [Tom Leinster](https://www.maths.ed.ac.uk/~tl/) | [Joel David Hamkins](http://jdh.hamkins.org/) | [Philip Welch](https://people.maths.bris.ac.uk/~mapdw/) | [Agnieszka Bodzenta-Skibińska](https://www.mimuw.edu.pl/~ab233971/) | [Jessica Fintzen](http://www-personal.umich.edu/~fintzen/) |
+[Aise Johan de Jong](https://www.math.columbia.edu/~dejong/) | [Andrew M Pitts](https://www.cl.cam.ac.uk/~amp12/) | [Angelo Vistoli](http://homepage.sns.it/vistoli/) | [Tom Leinster](https://www.maths.ed.ac.uk/~tl/) | [Joel David Hamkins](http://jdh.hamkins.org/) | [Philip Welch](https://people.maths.bris.ac.uk/~mapdw/) | [Agnieszka Bodzenta-Skibińska](https://www.mimuw.edu.pl/~ab233971/) | [Jessica Fintzen](http://www-personal.umich.edu/~fintzen/) | [Jens Hemelaer](https://www.uantwerpen.be/en/staff/jens-hemelaer/) |
 
 ## Math-life balance
 
@@ -367,6 +367,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 98. 粗略来说，代数A上的除子就是对本原幂等元的共轭类P(A)（块）的再分割和再整合。除子有点对幂等元(大块)进行切割成小块再重组成别的大块的味道。除子有某种将小构件进行“粘接”的感觉，就像向量丛。
 
 99. 并不是所有的环、代数等的模范畴都会出现大模。
+
+100. 张量积 Over 部分是对两个分量的控制部分，如 A Tensor_k B，A 和 B 都是 k-模，由 k 决定的模。  
 
 
 
