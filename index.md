@@ -373,7 +373,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 101. 注意！点、源与模，亏群与块之间是多对一的关系，不是一对一的关系，所以就有选取的空间。  
 
-102. 看（越多）论文 = 学（越多）套路 ？  
+102. 看（越多）论文 = 学（越多）套路 ？ 
+
+103. 双陪集 QsR 中的双陪集代表元调节/编码的是 Q 和 R 的(共轭)关系。   
 
 
 
