@@ -61,6 +61,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [The Second Number-Class](https://www.youtube.com/user/johnfletchervideos/videos) | [Axiomatic Set Theory](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) | [Set Theory Course](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) |
 [Kurt Gödel Research Center](https://www.youtube.com/channel/UCDuSm5jq-ymS71KqDmuo9qw) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) | [Workshop on Finite groups of Lie type (2021)](https://www.youtube.com/playlist?list=PLzNx6FGVASN3M44gex6jYWyLl45xj9ffU) |
 [Categories and Companions Symposium - 2021](https://www.youtube.com/channel/UCedZduCmAxXnxrKS8fMX6ew/videos) | [Tilting Modules](https://www.youtube.com/c/VisualMath/playlists) | [Why (modular) representation theory?](https://www.youtube.com/watch?v=DoP-8OrDDkw&list=PLuFcVFHMIfhKclrRL_Z61gR0Gt0tFw1QA&index=9) |
+[Quantum topology without topology](http://www.dtubbenhauer.com/lecture-qinv-2021.html) |
 
 
 ## Upcoming meeting
