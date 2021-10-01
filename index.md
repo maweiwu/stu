@@ -386,6 +386,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 107. 同一个k-模在不同的代数上的模范畴的表现/地位是不一样的，所以当两个模在无法比较时，可以考虑把它们放在更大的代数上的模范畴中进行比较，如kG和kG tensor kG作为kG-模比较难比较，可以把它们看成kG-kG-双模。 
 
 108. M看成是单边模和双边模是指把它看成不同代数上的模范畴中的模，M在不同模范畴中的地位是不一样的。 
+
+109. 内蕴语言的解释，Type 解释为范畴中的对象，Term 解释为态射，而 Context x 后的公式则解释为范畴的子对象，知道这个有助于理解内蕴语言的语义。
+     ![interpretation](https://github.com/mawaywoo/stu/blob/main/interpretation.png)
    
 
 
