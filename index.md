@@ -387,7 +387,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 108. M看成是单边模和双边模是指把它看成不同代数上的模范畴中的模，M在不同模范畴中的地位是不一样的。 
 
-109. 内蕴语言的解释，Type 解释为范畴中的对象，Term 解释为态射，而 Context x 后的公式则解释为范畴的子对象，知道这个有助于理解内蕴语言的语义。
+109. 内蕴语言的解释，Type 解释为范畴中的对象，Term 解释为态射，而 Context x 后的公式则解释为范畴的子对象，知道这个有助于理解内蕴语言在范畴/拓扑斯中对应的解释。
      ![interpretation](https://github.com/mawaywoo/stu/blob/main/interpretation.png)
    
 
