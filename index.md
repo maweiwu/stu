@@ -390,7 +390,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 109. 内蕴语言的解释，Type 解释为范畴中的对象，Term 解释为态射，而 Context x 后的公式则解释为范畴的子对象，知道这个有助于理解内蕴语言在范畴/拓扑斯中对应的解释。
      ![interpretation](https://github.com/mawaywoo/stu/blob/main/interpretation.png)
      
-110. O_p(G) 衡量的是 G 的共轭作用的核，与 N_G(P) 相关，如前者平凡，或者必为真子群。
+110. O_p(G) 衡量的是 G 的共轭作用的核，与 N_G(P) 相关，如前者平凡，或者必为真子群。另一个角度就是 O_p(G) 衡量 G 里面完整的 p-元共轭类。
 
 
 
