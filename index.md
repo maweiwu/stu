@@ -398,7 +398,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 113. 对有限域F，可以借助该域上的多项式f构造一个新的有限域F(X)/(f)，对于一般的f，我们可以定义相应的加法和乘法，产生的只是一个环，当f不可约时才是域，并且所有的有限域都可以通过这种方式构造。[Finite Fields](https://www.youtube.com/playlist?list=PLLxG_np9o-2ck26hSWpxEUgd-7HBtxcrh) 
 
-114. 分次 = 添加更多的信息(新增的信息分层加进来，原来的信息放在某一层)
+114. 分次 = 添加更多的信息(新增的信息分层加进来，原来的信息放在某一层)。
     ![graded center](https://github.com/mawaywoo/stu/blob/main/graded%20center.png)
 
 
