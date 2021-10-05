@@ -61,7 +61,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [The Second Number-Class](https://www.youtube.com/user/johnfletchervideos/videos) | [Axiomatic Set Theory](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) | [Set Theory Course](https://www.youtube.com/channel/UCFEP86Lxr9m4MVss1ZzR27A/playlists) |
 [Kurt Gödel Research Center](https://www.youtube.com/channel/UCDuSm5jq-ymS71KqDmuo9qw) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) | [Workshop on Finite groups of Lie type (2021)](https://www.youtube.com/playlist?list=PLzNx6FGVASN3M44gex6jYWyLl45xj9ffU) |
 [Categories and Companions Symposium - 2021](https://www.youtube.com/channel/UCedZduCmAxXnxrKS8fMX6ew/videos) | [Tilting Modules](https://www.youtube.com/c/VisualMath/playlists) | [Why (modular) representation theory?](https://www.youtube.com/watch?v=DoP-8OrDDkw&list=PLuFcVFHMIfhKclrRL_Z61gR0Gt0tFw1QA&index=9) |
-[Quantum topology without topology](http://www.dtubbenhauer.com/lecture-qinv-2021.html) | [Virtual Commutative Algebra Seminar](https://www.youtube.com/playlist?list=PLR3C3NSCyhZQpbBojrPraMrunr6axdEDs) |
+[Quantum topology without topology](http://www.dtubbenhauer.com/lecture-qinv-2021.html) | [Virtual Commutative Algebra Seminar](https://www.youtube.com/playlist?list=PLR3C3NSCyhZQpbBojrPraMrunr6axdEDs) | [Finite Fields](https://www.youtube.com/playlist?list=PLLxG_np9o-2ck26hSWpxEUgd-7HBtxcrh) |
 
 
 ## Upcoming meeting
@@ -394,7 +394,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 111. (1) 【做研究 = 证明思路的移植！】之前我一直认为做研究最重要的是需要足够多的知识储备，所以一直在涉猎各方面知识，但却忽略了对证明思路的训练。没有对证明思路的训练，就无法支撑自己去做学术研究，因为你有的只是零碎的知识，而没有往前探索的工具，所以会感觉寸步难行。接下来将主要关注和训练证明思路(套路)，有足够多的套路才能往前迈步，知识点是不会告诉你可以尝试往哪走，能让你尝试的就是你具有的各种套路(你的尝试工具和方向)。(2) 证明思路训练你走路的本事，足够多的知识储备只能为你指引方向。后者只能提供判断能力，不能提供行走能力。我忽略了前者，所以不知道如何走，如何去尝试。(3) 读论文就是在做证明思路的训练(套路的积累)和对知识点的重新梳理。(4) 一个想法可以随便提，但是能否实现需要通过积累起来的证明思路去尝试。可见证明思路的积累才是最重要的。而不是仅仅是零碎的知识点。(5) 看论文看他人如何移植证明方法的。2021-10-3 12:41 于汕头大学图书馆三楼书架。
 
-112. 如何探究一个范畴，就是借助范畴中【某些特殊的对象、运算、构造、结构等】对范畴进行约化。 
+112. 如何探究一个范畴，就是借助范畴中【某些特殊的对象、运算、构造、结构等】对范畴进行约化。因为某个范畴中的对象、运算等放到别的范畴中看可能会变得容易些，所以我们常常【把相同的对象、结构等放到不同的范畴中去看】。
+
+113. 对有限域F，可以借助该域上的多项式f构造一个新的有限域F(X)/(f)，对于一般的f，我们可以定义相应的加法和乘法，产生的只是一个环，当f不可约时才是域，并且所有的有限域都可以通过这种方式构造。[Finite Fields](https://www.youtube.com/playlist?list=PLLxG_np9o-2ck26hSWpxEUgd-7HBtxcrh) 
 
 
 
