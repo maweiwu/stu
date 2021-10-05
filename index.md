@@ -401,6 +401,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 114. 分次 = 添加更多的信息(新增的信息分层加进来，原来的信息放在某一层)。
     ![graded center](https://github.com/mawaywoo/stu/blob/main/graded%20center.png)
 
+115. 范畴论中很多时候添加信息就是“加层”，如复形、DG-范畴等。
+
 
 
 
