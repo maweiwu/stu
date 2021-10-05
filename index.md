@@ -403,6 +403,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 115. 范畴论中很多时候添加信息就是“加层”，如复形、DG-范畴、复形范畴、导出范畴、分次等。分次 = 分层添加信息。
 
+116. (微分)分次 = 分层添加新信息并把它们用某种方式捆成一个整体。可以随便调用各层信息。 
+
 
 
 
