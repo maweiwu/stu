@@ -407,6 +407,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 117. Ext^n(M,N)=Hom(M,N[n])，所以在考虑分次上同调间的映射时，往往把前者的元素看成是后者里面的元素去定义/构造映射。后者是导出范畴中的态射，这就是导出范畴处理导出函子的好处之一。 
 
+118. 做研究 = 看论文 + 尝试移植证明方法到他处。
+
 
 
 
