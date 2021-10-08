@@ -411,6 +411,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 119. (1) 要能意识到范畴中的每一个态射都是独一无二的，虽然它们都只是抽象地表示为一个箭头，其实它们每一个都具有不同的信息量，它们构成范畴的所有信息量。研究范畴时，每一个态射都值得研究。(2) 范畴中的各种概念、构造都是在调用和整合部分态射的信息量，以希望获得所有态射的信息。(3) 范畴中的每个态射都是不一样的，在整个范畴中的【地位是不同的】，为了提醒自己这一点，可以把范畴中的各种对象和态射看成是【大小和粗细不同的点和箭头】。
 
+120. 范畴C上的各种预层/层范畴都可以看成是在做范畴C的某种“完备化”。
+    ![completion](https://github.com/mawaywoo/stu/blob/main/completion.png)
 
 
 
