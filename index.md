@@ -414,7 +414,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 120. 范畴C上的各种预层/层范畴都可以看成是在做范畴C的某种“完备化”。
     ![completion](https://github.com/mawaywoo/stu/blob/main/completion.png)
 
-121. 精读论文：1. 思考定理的各个条件的作用是什么？2. 写出具体的证明思路。   
+121. 精读论文：1. 仔细思考定理/结论的各个条件的作用是什么？用心体会每个条件的重要性在哪？2. 写出具体的证明思路。   
 
 
 
