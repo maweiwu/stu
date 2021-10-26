@@ -418,6 +418,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 122. 阅读论文就是在积累研究经验。想要有丰富的经验，就需要抓住一切时间阅读文献。有丰富的经验后，做研究才会得心应手。  
 
+123. 复形(分解)就像一个显微镜，它可以展示更多的细节且使原来的对象变得易操作。
+
 
 
  
