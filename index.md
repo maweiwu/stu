@@ -426,7 +426,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 126. 所有的构造都是为了窥探模范畴。任何人都可以有自己的窥探方式。
 
-127. 发掘范畴中的各种结构是了解范畴的主要途径之一。
+127. 发掘范畴中的各种结构是了解范畴的主要途径之一。而范畴有意思也正是它所具有的各种结构。
 
 
 
