@@ -430,6 +430,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 128. 经典层论可能更有助于理解某些结论的含义，毕竟经典层论中从平展空间的去看可能更具像、可感些。经典层论的平展空间是很好的理解层论结论的框架，具有“可视性”。
 
+129. ![topos](https://github.com/mawaywoo/stu/blob/main/topos.png)
+
 
 
  
