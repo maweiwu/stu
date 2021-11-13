@@ -439,7 +439,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 132. 要了解三角范畴T(Big)，可考虑其紧对象T^c(Small)，可进一步借助T^c的不变量Mod-T^c来研究T。 
 
-133. 
+133. 研究范畴 = 尽可能地发现该范畴所具有的结构。看别人对某范畴的理解程度，就看他对该范畴所具有的结构的挖掘程度。
 
 
 
