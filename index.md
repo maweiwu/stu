@@ -62,7 +62,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Kurt Gödel Research Center](https://www.youtube.com/channel/UCDuSm5jq-ymS71KqDmuo9qw) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) | [Workshop on Finite groups of Lie type (2021)](https://www.youtube.com/playlist?list=PLzNx6FGVASN3M44gex6jYWyLl45xj9ffU) |
 [Categories and Companions Symposium - 2021](https://www.youtube.com/channel/UCedZduCmAxXnxrKS8fMX6ew/videos) | [Tilting Modules](https://www.youtube.com/c/VisualMath/playlists) | [Why (modular) representation theory?](https://www.youtube.com/watch?v=DoP-8OrDDkw&list=PLuFcVFHMIfhKclrRL_Z61gR0Gt0tFw1QA&index=9) |
 [Quantum topology without topology](http://www.dtubbenhauer.com/lecture-qinv-2021.html) | [Virtual Commutative Algebra Seminar](https://www.youtube.com/playlist?list=PLR3C3NSCyhZQpbBojrPraMrunr6axdEDs) | [Finite Fields](https://www.youtube.com/playlist?list=PLLxG_np9o-2ck26hSWpxEUgd-7HBtxcrh) |
-[alg. rep.](https://www.youtube.com/channel/UCJK6-qsCzv72akORpEGmhGw/videos) | [Rothschild talk: Cluster algebras and representation theory-Bernhard Keller](https://www.youtube.com/watch?v=Sd9rL2jTlKc) |
+[alg. rep.](https://www.youtube.com/channel/UCJK6-qsCzv72akORpEGmhGw/videos) | [Rothschild talk: Cluster algebras and representation theory-Bernhard Keller](https://www.youtube.com/watch?v=Sd9rL2jTlKc) | [Quiver Mutation](https://webusers.imj-prg.fr/~bernhard.keller/quivermutation/) |
 
 
 ## Upcoming meeting
@@ -468,7 +468,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 146. 代数的不变量推广到范畴(多个代数粘起来)的不变量，再把范畴进一步提升到高阶范畴(结构更丰富的范畴)的不变量。如通常代数A的Hochschild上同调提升到D(A)以及D_dg(A)的上同调。考虑将通常代数的相关性质、信息(上同调等等)提升到结构更丰富的范畴(如复形范畴)中去是通常的思路，因为可以看到更多的信息。
 
-147. 上同调群可能具有别的结构，如B-无穷代数，杯积等，对上同调，我们通常去寻找这些丰富的额外结构，并考虑这些结构能否提升到结构更丰富的范畴，如复形范畴等。另一方面是比较不同对象上的不同的上同调理论，而这些不同对象的结构丰富程度可能不一样。如比较通常代数的上同调与D-dg(A)的上同调。    
+147. 上同调群可能具有别的结构，如B-无穷代数，杯积等，对上同调，我们通常去寻找这些丰富的额外结构，并考虑这些结构能否提升到结构更丰富的范畴，如复形范畴等。另一方面是比较不同对象上的不同的上同调理论，而这些不同对象的结构丰富程度可能不一样。如比较通常代数的上同调与D-dg(A)的上同调。
+
+148. 代数的范畴化 = 将代数A的结构信息通过范畴C的结构来实现，相当于A在C中的一种"表示"。范畴化的好处在于范畴具有丰富的结构，相当于代数的信息提升到范畴Level，代数的信息编码在范畴中。借助范畴结构来剖析代数的结构。     
 
 
 
