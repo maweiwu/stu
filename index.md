@@ -461,7 +461,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 143. 通常的代数、范畴 ＜ 高阶/同伦代数、范畴(see more)。范畴论总是在寻求更大的框架、更高的观点来看待事物，如环谱、DG-范畴、高阶范畴等。
 
-144. 拓扑空间 <--> 单纯集/群/环/模等(模拟空间) <--> 群/环/模等复形(易计算)。Simplicial World vs Chain Complex World. 
+144. 拓扑空间 <--> 单纯集/群/环/模等(模拟空间) <--> 群/环/模等复形(易计算)。Simplicial World vs Chain Complex World.
+
+145. AR-简图能很好地把模范畴、导出范畴、稳定范畴展示/画出来，表现为粘接和剪除操作。 
 
 
 
