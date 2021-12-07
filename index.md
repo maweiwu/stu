@@ -94,6 +94,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Richard Wong](https://web.ma.utexas.edu/users/richard.wong/) | [Jerzy Weyman](https://math.uconn.edu/person/jerzy-weyman/#) |[Burkhard Külshammer](https://www.minet.uni-jena.de/algebra/personen/kuelshammer.html) | [Efim Zelmanov](https://math.ucsd.edu/people/profiles/efim-zelmanov/) | [Pham Huu Tiep](https://sites.math.rutgers.edu/~pht19/) | [Jay Taylor](https://personalpages.manchester.ac.uk/staff/jay.taylor/) | [Gerhard Hiss](http://www.math.rwth-aachen.de/~Gerhard.Hiss/) | [Klaus Lux](https://www.math.arizona.edu/~klux/) | [Bob Guralnick](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003312) | [Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) |
 [Jeremy Rickard](https://people.maths.bris.ac.uk/~majcr/) | [Rep. Math.ian](https://www.simplemath.top/link.html) | [Claus Michael Ringel](https://www.math.uni-bielefeld.de/~ringel/) | [Maneesh Thakur](https://www.isical.ac.in/maneesh-thakur) | [Francis Borceux](https://ncatlab.org/nlab/show/Francis+Borceux) | [Piotr Kowalski](http://www.math.uni.wroc.pl/~pkowa/english.html) | [Wilson Forero](https://wilsonforerob.wordpress.com/teoria-de-categorias/) | [Georg Biedermann](https://www.math.univ-paris13.fr/~biedermann/) | [Francesco Genovese](https://fgenovese1987.github.io/) | [Zhen Lin Low](http://zll22.user.srcf.net/profile/) |
 [Aise Johan de Jong](https://www.math.columbia.edu/~dejong/) | [Andrew M Pitts](https://www.cl.cam.ac.uk/~amp12/) | [Angelo Vistoli](http://homepage.sns.it/vistoli/) | [Tom Leinster](https://www.maths.ed.ac.uk/~tl/) | [Joel David Hamkins](http://jdh.hamkins.org/) | [Philip Welch](https://people.maths.bris.ac.uk/~mapdw/) | [Agnieszka Bodzenta-Skibińska](https://www.mimuw.edu.pl/~ab233971/) | [Jessica Fintzen](http://www-personal.umich.edu/~fintzen/) | [Jens Hemelaer](https://jhemelae.github.io/about) | [lieven le bruyn](http://matrix.uantwerpen.be/lieven.lebruyn/) |
+[Teena Gerhardt](https://users.math.msu.edu/users/gerhar18/home.html) |
 
 ## Math-life balance
 
@@ -474,7 +475,11 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 149. K-理论可以有各种定义方式(就像有各种上同调理论定义方式一样)，只需要定义涵盖已有的结论和性质即可。
 
-150. K-理论通常很难计算，一般用某些易计算的上同调理论去逼近,如HH(A),HC^-(A)等。但是这些代数版的上同调理论可能逼近得不是很好，于是考虑定义相应的拓扑版的对应的上同调理论THH(HA),THC^-(HA)等(环A ---> 环谱)，拓扑版本具有群作用，也是逼近得比较好的一个原因。       
+150. K-理论通常很难计算，一般用某些易计算的上同调理论去逼近,如HH(A),HC^-(A)等。但是这些代数版的上同调理论可能逼近得不是很好，于是考虑定义相应的拓扑版的对应的上同调理论THH(HA),THC^-(HA)等(环A ---> 环谱)，拓扑版本具有群作用，也是逼近得比较好的一个原因。 
+
+151. 如何了解复杂的对象？考虑它与一些简单对象之间的关系，即考虑某些对象到它的映射或它到某些对象的映射。所以每个映射都值得重视。对于一个映射，我们需要考虑它的产生方式，哪边是比较容易的。比如计算K-理论时，往往它的计算比较困难，通常就考虑将它与其他比较容易计算的对象建立联系，如HH, THH, TC等。谱序列也是一个很好的计算工具，因为谱序列也将复杂的对象的计算与其他简单对象的计算建立了联系(映射)。
+
+152. 无穷范畴的稳定化就好比Abelian范畴的正合化，稳定无穷范畴好比Abel范畴，Co/Cartesian好比Co/Kernel，pointed好比存在零对象。Spectrum好比交换群。K: 稳定无穷范畴 ————> D(S)=Sp好比 H: Abel范畴 ————> Ab。Mackey函子在等变同伦范畴中的地位相当于交换群，等变同伦范畴通常用于计算THH等拓扑版本的上同调不变量。          
 
 
 
