@@ -478,7 +478,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 150. K-理论通常很难计算，一般用某些易计算的上同调理论去逼近,如HH(A),HC^-(A)等。但是这些代数版的上同调理论可能逼近得不是很好，于是考虑定义相应的拓扑版的对应的上同调理论THH(HA),THC^-(HA)等(环A ---> 环谱)，拓扑版本具有群作用，也是逼近得比较好的一个原因。 
 
-151. 如何了解复杂的对象？考虑它与一些简单对象之间的关系，即考虑某些对象到它的映射或它到某些对象的映射。所以每个映射都值得重视。对于一个映射，我们需要考虑它的产生方式，哪边是比较容易的。比如计算K-理论时，往往它的计算比较困难，通常就考虑将它与其他比较容易计算的对象建立联系，如HH, THH, TC等。谱序列也是一个很好的计算工具，因为谱序列也将复杂的对象的计算与其他简单对象的计算建立了联系(映射)。[Teena Gerhardt](https://www.youtube.com/results?search_query=Teena+Gerhardt)
+151. 如何了解复杂的对象？考虑它与一些简单对象之间的关系，即考虑某些对象到它的映射或它到某些对象的映射。所以每个映射都值得重视！！！对于一个映射，我们需要考虑它的产生方式，哪边是比较容易的。比如计算K-理论时，往往它的计算比较困难，通常就考虑将它与其他比较容易计算的对象建立联系，如HH, THH, TC等。谱序列也是一个很好的计算工具，因为谱序列也将复杂的对象的计算与其他简单对象的计算建立了联系(映射)。[Teena Gerhardt](https://www.youtube.com/results?search_query=Teena+Gerhardt)
 
 152. 无穷范畴的稳定化就好比Abelian范畴的正合化，稳定无穷范畴好比Abel范畴，Co/Cartesian好比Co/Kernel，pointed好比存在零对象。Spectrum好比交换群。K: 稳定无穷范畴 ————> D(S)=Sp好比 H: Abel范畴 ————> Ab。Mackey函子在等变同伦范畴中的地位相当于交换群，我们可以计算它的相应的上同调理论等。等变同伦范畴通常用于计算THH等拓扑版本的上同调不变量，再用这些拓扑版本的不变量计算K-理论。[Algebraic K-Theory](https://www.youtube.com/watch?v=TDwUpZgFLNw)          
 
