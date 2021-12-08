@@ -483,7 +483,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 152. 无穷范畴的稳定化就好比Abelian范畴的正合化，稳定无穷范畴好比Abel范畴，Co/Cartesian好比Co/Kernel，pointed好比存在零对象。Spectrum好比交换群。K: 稳定无穷范畴 ————> D(S)=Sp好比 H: Abel范畴 ————> Ab。Mackey函子在等变同伦范畴中的地位相当于交换群，我们可以计算它的相应的上同调理论等。等变同伦范畴通常用于计算THH等拓扑版本的上同调不变量，再用这些拓扑版本的不变量计算K-理论。[Algebraic K-Theory](https://www.youtube.com/watch?v=TDwUpZgFLNw)    
 
-153. Cluster Categories = D^b(A-mod) / Serre Functor.  [Emine Yildirim - Cluster Categories](https://www.youtube.com/watch?v=wK0aJOH9llc)     
+153. Cluster Categories = D^b(A-mod) / Serre Functor.  [Emine Yildirim - Cluster Categories](https://www.youtube.com/watch?v=wK0aJOH9llc) 
+
+154. 为什么同调代数考虑Ext^i群？因为它表示对象之间的“粘接”、“生成”、“构建”关系，好比由Z/pZ构造出所有p-群一样。    
 
 
 
