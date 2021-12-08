@@ -64,6 +64,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Quantum topology without topology](http://www.dtubbenhauer.com/lecture-qinv-2021.html) | [Virtual Commutative Algebra Seminar](https://www.youtube.com/playlist?list=PLR3C3NSCyhZQpbBojrPraMrunr6axdEDs) | [Finite Fields](https://www.youtube.com/playlist?list=PLLxG_np9o-2ck26hSWpxEUgd-7HBtxcrh) |
 [alg. rep.](https://www.youtube.com/channel/UCJK6-qsCzv72akORpEGmhGw/videos) | [Rothschild talk: Cluster algebras and representation theory-Bernhard Keller](https://www.youtube.com/watch?v=Sd9rL2jTlKc) | [Quiver Mutation](https://webusers.imj-prg.fr/~bernhard.keller/quivermutation/) |
 [Stable Homotopy Seminar](https://www.youtube.com/playlist?list=PL2CKWJCxPcYB2YQ9qCmCIGV9b2azLEeOZ) | [Higher Structures](https://www.youtube.com/results?search_query=higher+structures) | [Antwerp Algebra Colloquium-higher categories](https://www.youtube.com/channel/UCwLPzQJ4iSg7QwTDqYNQkxg/videos) |
+[Cluster algebras and representation theory](https://www.newton.ac.uk/event/car/) |
 
 
 ## Upcoming meeting
