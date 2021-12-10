@@ -7,7 +7,7 @@ Email: mawaywoo(at)126(dot)com
 
 What can I do? 
 
-Just try and do what you can do and pick out the useful thing！ 
+Just try and do what you can do then pick out something useful！ 
 
 ## Personal information
 
