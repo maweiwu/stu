@@ -9,6 +9,8 @@ Always ask yourself: What can I do?
 
 Just try and do what you can do, then pick out something useful. 
 
+Just try and don't care useful or not.
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
