@@ -501,7 +501,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 158. 线性表示V是其中的一种表示，考虑对其增加各种限制，可以得到更多的其他表示，例如考虑拓扑结构，代数簇结构等等。所以一说到表示就不要把V看成仅仅具有线性结构而已。 
 
-159. 如何给线性空间添加几何元素：各种Form，如二次型，半线性型等。   
+159. 如何给线性空间添加几何元素：各种Form，如二次型，半线性型等都是“几何结构”。   
 
 
 
