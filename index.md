@@ -505,6 +505,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 160. 借助层可以帮助分解特征标。[Deligne-Lusztig theory and character sheaves](https://www.youtube.com/watch?v=J7QTNT25yYU)  
 
+161. [Anna Romanova "A categorification of a Lusztig-Vogan module"](https://www.youtube.com/watch?v=FuhFTXzu6q0)
+
 
 
  
