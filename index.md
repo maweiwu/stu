@@ -71,6 +71,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 [alg. rep.](https://www.youtube.com/channel/UCJK6-qsCzv72akORpEGmhGw/videos) | [Rothschild talk: Cluster algebras and representation theory-Bernhard Keller](https://www.youtube.com/watch?v=Sd9rL2jTlKc) | [Quiver Mutation](https://webusers.imj-prg.fr/~bernhard.keller/quivermutation/) |
 [Stable Homotopy Seminar](https://www.youtube.com/playlist?list=PL2CKWJCxPcYB2YQ9qCmCIGV9b2azLEeOZ) | [Higher Structures](https://www.youtube.com/results?search_query=higher+structures) | [Antwerp Algebra Colloquium-higher categories](https://www.youtube.com/channel/UCwLPzQJ4iSg7QwTDqYNQkxg/videos) |
 [Cluster algebras and representation theory](https://www.newton.ac.uk/event/car/) | [Perverse Sheaf](https://www.youtube.com/playlist?list=PLuEFhJaDsHzCIdOMZbc2_LB8Ybw0nrQUo) | [Geordie Williamson: An illustrated guide to perverse sheaves](https://www.youtube.com/playlist?list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG) |
+[Lievis: Lie theory visualisations](https://www.jgibson.id.au/lievis/) |
+
 
 
 ## Upcoming meeting
