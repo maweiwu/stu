@@ -510,6 +510,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 161. 挺好的报告，阐释得比较清楚，有具体的例子 [Anna Romanova "A categorification of a Lusztig-Vogan module"](https://www.youtube.com/watch?v=FuhFTXzu6q0)
 
+162. 概型不是一个几何对象，而是许多几何对象。概型看成是一个函子时，把每输入一个函子的Domain值便确定一个几何对象。 
+
 
 
  
