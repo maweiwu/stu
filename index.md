@@ -510,7 +510,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 161. 挺好的报告，阐释得比较清楚，有具体的例子 [Anna Romanova "A categorification of a Lusztig-Vogan module"](https://www.youtube.com/watch?v=FuhFTXzu6q0)
 
-162. 概型不是一个几何对象，而是许多几何对象。概型看成是一个函子时，把每输入一个函子的Domain值便确定一个几何对象。 
+162. 概型不是一个几何对象，而是许多几何对象。概型看成是一个函子时，把每输入一个函子的Domain值便确定一个几何对象。
+
+163. 不同的上同调之间的广泛程度是不一样的，某些上同调只是其他上同调理论的特例，所以可以考虑比较不同上同调理论。层上同调的系数是层，它比奇异上同调等等灵活、更代数，这一切都是因为它的Resolution复形的变化自由度更大，更代数(这一切都归功于层)。当分解复形变化自由度更大(可以有各种具有代数机构的层，而奇异上同调的系数只是固定的某个交换群)，恢复其他上同调的分解复形的可能性也就更大。从这一点可以看出，层是一个很好的东西。  
 
 
 
