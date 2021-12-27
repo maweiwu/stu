@@ -72,7 +72,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Stable Homotopy Seminar](https://www.youtube.com/playlist?list=PL2CKWJCxPcYB2YQ9qCmCIGV9b2azLEeOZ) | [Higher Structures](https://www.youtube.com/results?search_query=higher+structures) | [Antwerp Algebra Colloquium-higher categories](https://www.youtube.com/channel/UCwLPzQJ4iSg7QwTDqYNQkxg/videos) |
 [Cluster algebras and representation theory](https://www.newton.ac.uk/event/car/) | [Perverse Sheaf](https://www.youtube.com/playlist?list=PLuEFhJaDsHzCIdOMZbc2_LB8Ybw0nrQUo) | [Geordie Williamson: An illustrated guide to perverse sheaves](https://www.youtube.com/playlist?list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG) |
 [Lievis: Lie theory visualisations](https://www.jgibson.id.au/lievis/) | [ Learning Seminar on Categorification](https://www.youtube.com/playlist?list=PLQgpT5pirSI1-yKC0V2Enagh_BScAGMlL) | [Categorification](https://www.youtube.com/results?search_query=Catharina+Stroppel+categorification) |
-[Mathematics software](https://www.jgibson.id.au/) |
+[Mathematics software](https://www.jgibson.id.au/) | [The Commutative and Homological Algebra Market Presentations (CHAMP) seminar](https://www.youtube.com/channel/UCnh5vdfU5zP7q9OqBkix0TA/playlists) |
 
 
 
@@ -106,7 +106,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Jeremy Rickard](https://people.maths.bris.ac.uk/~majcr/) | [Rep. Math.ian](https://www.simplemath.top/link.html) | [Claus Michael Ringel](https://www.math.uni-bielefeld.de/~ringel/) | [Maneesh Thakur](https://www.isical.ac.in/maneesh-thakur) | [Francis Borceux](https://ncatlab.org/nlab/show/Francis+Borceux) | [Piotr Kowalski](http://www.math.uni.wroc.pl/~pkowa/english.html) | [Wilson Forero](https://wilsonforerob.wordpress.com/teoria-de-categorias/) | [Georg Biedermann](https://www.math.univ-paris13.fr/~biedermann/) | [Francesco Genovese](https://fgenovese1987.github.io/) | [Zhen Lin Low](http://zll22.user.srcf.net/profile/) |
 [Aise Johan de Jong](https://www.math.columbia.edu/~dejong/) | [Andrew M Pitts](https://www.cl.cam.ac.uk/~amp12/) | [Angelo Vistoli](http://homepage.sns.it/vistoli/) | [Tom Leinster](https://www.maths.ed.ac.uk/~tl/) | [Joel David Hamkins](http://jdh.hamkins.org/) | [Philip Welch](https://people.maths.bris.ac.uk/~mapdw/) | [Agnieszka Bodzenta-Skibińska](https://www.mimuw.edu.pl/~ab233971/) | [Jessica Fintzen](http://www-personal.umich.edu/~fintzen/) | [Jens Hemelaer](https://jhemelae.github.io/about) | [lieven le bruyn](http://matrix.uantwerpen.be/lieven.lebruyn/) |
 [Teena Gerhardt](https://users.math.msu.edu/users/gerhar18/home.html) | [Sibylle Schroll](https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/ss489) | [Pranav Pandit](https://www.icts.res.in/people/pranav-pandit) | [Emine Yıldırım](https://emine-yildirim.github.io/) | [Jens Niklas Eberhardt](https://jenseberhardt.com/) | [Anna Romanova](https://www.maths.usyd.edu.au/u/romanova/) | [Catharina Stroppel](https://www.math.uni-bonn.de/ag/stroppel/) | [Joel Gibson](https://www.jgibson.id.au/) | [Hal Schenck](http://webhome.auburn.edu/~hks0015/) | [Graham J. Leuschke](https://thecollege.syr.edu/people/faculty/leuschke-graham-j/) |
-[Mel Hochster](http://www.math.lsa.umich.edu/~hochster/) | 
+[Mel Hochster](http://www.math.lsa.umich.edu/~hochster/) | [Tyler Anway](https://trmaths.com/anway) |
 
 
 ## Math-life balance
