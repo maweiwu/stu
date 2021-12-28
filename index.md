@@ -73,7 +73,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Cluster algebras and representation theory](https://www.newton.ac.uk/event/car/) | [Perverse Sheaf](https://www.youtube.com/playlist?list=PLuEFhJaDsHzCIdOMZbc2_LB8Ybw0nrQUo) | [Geordie Williamson: An illustrated guide to perverse sheaves](https://www.youtube.com/playlist?list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG) |
 [Lievis: Lie theory visualisations](https://www.jgibson.id.au/lievis/) | [ Learning Seminar on Categorification](https://www.youtube.com/playlist?list=PLQgpT5pirSI1-yKC0V2Enagh_BScAGMlL) | [Categorification](https://www.youtube.com/results?search_query=Catharina+Stroppel+categorification) |
 [Mathematics software](https://www.jgibson.id.au/) | [The Commutative and Homological Algebra Market Presentations (CHAMP) seminar](https://www.youtube.com/channel/UCnh5vdfU5zP7q9OqBkix0TA/playlists) | [a virtual seminar series in commutative algebra](https://eloisagrifo.github.io/champ/) |
-[Commutative Algebra Seminars](http://ssather.people.clemson.edu/) |
+[Commutative Algebra Seminars](http://ssather.people.clemson.edu/) | [the website for the commutative algebra community](https://www.commalg.org/) |
+
 
 
 
