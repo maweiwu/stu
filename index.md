@@ -75,7 +75,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Mathematics software](https://www.jgibson.id.au/) | [The Commutative and Homological Algebra Market Presentations (CHAMP) seminar](https://www.youtube.com/channel/UCnh5vdfU5zP7q9OqBkix0TA/playlists) | [a virtual seminar series in commutative algebra](https://eloisagrifo.github.io/champ/) |
 [Commutative Algebra Seminars](http://ssather.people.clemson.edu/) | [the website for the commutative algebra community](https://www.commalg.org/) | [Virtual Commutative Algebra Seminars](https://sites.google.com/view/virtual-comm-algebra-seminar/) |
 [Commutative Algebra's Recent conferences](https://eloisagrifo.github.io/travel.html) | [ICERM](https://icerm.brown.edu/) | [Mathematics Genealogy Project](https://www.mathgenealogy.org/) |
-[Software of Commutative Algebra](https://eloisagrifo.github.io/research.html#software) |
+[Software of Commutative Algebra](https://eloisagrifo.github.io/research.html#software) | [SGA](http://library.msri.org/books/sga/) |
 
 
 
