@@ -532,7 +532,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 167. 谱序列 = 对角线分解 + 各点处纵向极限。
      ![spectral sequence](https://github.com/mawaywoo/stu/blob/main/spetral%20sequence.png)
      ![ss](https://github.com/mawaywoo/stu/blob/main/ss.jpg) 
-
+     
+168. 纤维范畴、叠形的定义看起来很复杂，但它终究可以被几组“数据”刻画，所以它始终还是确定的、可操作的，只是需要一层层去掰扯这些“数据”而已。
 
 
  
