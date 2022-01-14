@@ -149,6 +149,21 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Free Site](https://free-ss.site/)
 
 
+## 书法
+
+[书法讲座-李跃林](https://www.youtube.com/user/leolee1859/playlists)
+
+[北美书協](https://www.youtube.com/channel/UC-jZb-29PMDOKZORmRCZtEA)
+
+[宋向阳 圣教序背后故事之二](https://www.youtube.com/watch?v=3aNLx3abngU)
+
+[书法浅谈之剑宗-漂亮字 主讲人：顾华老师](https://www.youtube.com/watch?v=YUgOhZKhbvw)
+
+[《百家讲坛》系列之书法档案 | 720P版 07 王羲之的伟大](https://www.youtube.com/watch?v=epM1xDKOCfo)
+
+[书法艺术](https://www.youtube.com/channel/UCRIVxnEwVU_t11mz7DrnyCw/playlists)
+
+
 ## French learning (math SGA)
 
 [𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡 𝗗𝗨 𝗦𝗘𝗠𝗜𝗡𝗔𝗜𝗥𝗘 𝗟𝗘𝗖𝗧𝗨𝗥𝗘𝗦 𝗚𝗥𝗢𝗧𝗛𝗘𝗡𝗗𝗜𝗘𝗖𝗞𝗜𝗘𝗡𝗡𝗘𝗦 𝟮𝟬𝟭𝟳-𝟮𝟬𝟭𝟴 ](https://www.youtube.com/playlist?list=PLt6rik8WDbuRC4pwgKQOnb7NPGG1oJ4Fo) 
