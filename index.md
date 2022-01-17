@@ -165,6 +165,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [紐約梨園社](https://www.youtube.com/user/120nycos)
 
+[黃簡講書法](https://www.youtube.com/user/ChineseArtistsNet)
+
+[百家讲坛书法档案](https://www.youtube.com/playlist?list=PLeVR-YN3YVNZTFAv_nY1zB88vI5yFoOJv)
+
 
 ## French learning (math SGA)
 
