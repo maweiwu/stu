@@ -556,6 +556,10 @@ My research interests are in representation theory, (higher) topos theory, homot
      
 168. 纤维范畴、叠形的定义看起来很复杂，但它终究可以被几组“数据”刻画，所以它始终还是确定的、可操作的，只是需要一层层去掰扯这些“数据”而已。
 
+169. 要想推广他人的结论，首先得学会从他人证明中抽离出主要因素。
+
+170. 层 = 拓扑 + 代数结构。  
+
 
  
      
