@@ -585,6 +585,8 @@ My research interests are in representation theory, (higher) topos theory, homot
      (2) 正是因为不是严格等式，而是同伦意义下的等式，所以记录这些同伦产生了高阶结构。记录同伦 = 产生高阶结构。 
      
 177. 拓扑提供了【粘接关系 = 等价关系 = 商关系】。例如Grothendieck拓扑以及Bo T Stenstrom的书Rings and Modules of Quotients(1971)中的拓扑。余极限就是某种商，层就是商预层。既然拓扑通过等价关系，所以就可以利用它来分类子范畴(或者商范畴)。如前述书的Thm10.2就建立了拓扑与模范畴的某些子范畴的1-1对应关系。Grothendieck拓扑与拓扑斯的子范畴也有相应的1-1对应关系。
+ 
+178. Grothendieck拓扑 "=" 范畴上的某种等价关系，该等价关系可以等同于由它决定的子/商范畴。  
 
  
      
