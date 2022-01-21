@@ -594,7 +594,7 @@ My research interests are in representation theory, (higher) topos theory, homot
      
      (3) DG-版 = 态射集变大版(Enriched版)。脑中想象DG-版就是把态射集放大加粗，比通常的范畴的态射集大一些、粗一些。
      
- 180. 局部化是其中一种作“商”的方式，还有别的方式，如Verdir商等，最一般的作商方式是求余极限，如Bernstrom的商环、商模，还有预层的层化等。
+ 180. 局部化是其中一种作“商”的方式，还有别的方式，如Verdir商等，最一般的作商方式是求余极限，如Bo Stenström的商环、商模，还有预层的层化等。
  
      
    
