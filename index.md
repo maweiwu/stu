@@ -641,6 +641,8 @@ My research interests are in representation theory, (higher) topos theory, homot
       
       (4) 伪函子范畴和纤维范畴是等价的，利用该等价可以互相转化彼此的数据以得到有用的数据和便捷的计算方式。
       
+      (5) 在无穷范畴中，要描述一个函子往往需要借助Unstraightening得到纤维范畴，借助纤维范畴通过Straightening来描述需要的函子，如Yoneda嵌入的描述就是通过TwiArr(C) ——> C x C^op进一步Straightening获得Yoneda嵌入。
+      
  
      
    
