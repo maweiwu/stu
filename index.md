@@ -633,6 +633,13 @@ My research interests are in representation theory, (higher) topos theory, homot
       
       (11) 当把单纯集掰开时，我们只需把掰开的数据对应到函子上相应数据即可，这样就不至于被绕晕。
       
+ 183. (1) 无穷范畴的Straightening和Unstraightening有助于借助彼此来刻画，如利用Straightening有助于刻画函子(用纤维化的Fiber来描述函子的定义规则)，另一方面利用Unstraightening可以让我们去构造极限和余极限(用某些特殊的函子来描述极限)。HTT3.3.3.2。
+      
+      (2) 借助Untraightening和Straightening的转化以获取便捷的描述方式。
+      
+      (3) 好比利用层与平展空间的等价和转化能够有利于选择便捷的方式来描述正像函子和逆像函子。
+      
+      (4) 伪函子范畴和纤维范畴是等价的，利用该等价可以互相转化彼此的数据以得到有用的数据和便捷的计算方式。
       
  
      
