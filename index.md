@@ -613,7 +613,7 @@ My research interests are in representation theory, (higher) topos theory, homot
       
 182.  (1) 导出几何选择不同的结构层，如cdga，simplicial rings，E-∞ rings会产生不同的几何理论。
     
-      (2) 导出几何选择不同的结构层，如cdga，simplicial rings，E-∞ rings会产生不同的几何理论。
+      (2) 无穷范畴的用处在于它可以记录所有的同伦数据，单纯集是无穷范畴的其中一个模型，该模型是通过高维的胞腔来表示两个低维胞腔之间的同伦。
       
       (3) 单纯集比复形记录的数据更丰富。
       
