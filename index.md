@@ -643,6 +643,8 @@ My research interests are in representation theory, (higher) topos theory, homot
       
       (5) 在无穷范畴中，要描述一个函子往往需要借助Unstraightening得到纤维范畴，借助纤维范畴通过Straightening来描述需要的函子，如Yoneda嵌入的描述就是通过TwiArr(C) ——> C x C^op进一步Straightening获得Yoneda嵌入。
       
+ 184. 伪函子记录的高维数据不是同伦，而是各种同构。     
+      
  
      
    
