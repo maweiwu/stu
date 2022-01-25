@@ -11,6 +11,8 @@ Just try and do what you can do, then pick out something useful.
 
 Just try and don't care useful or not.
 
+Change my mind. See 190 bellow.
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
@@ -169,6 +171,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 [黃簡講書法](https://www.youtube.com/user/ChineseArtistsNet)
 
 [百家讲坛书法档案](https://www.youtube.com/playlist?list=PLeVR-YN3YVNZTFAv_nY1zB88vI5yFoOJv)
+
+[書法之家](https://www.youtube.com/channel/UCA6g-GV_pzfFI5GrrhcBZFQ)
 
 
 ## French learning (math SGA)
@@ -643,7 +647,23 @@ My research interests are in representation theory, (higher) topos theory, homot
       
       (5) 在无穷范畴中，要描述一个函子往往需要借助Unstraightening得到纤维范畴，借助纤维范畴通过Straightening来描述需要的函子，如Yoneda嵌入的描述就是通过TwiArr(C) ——> C x C^op进一步Straightening获得Yoneda嵌入。
       
- 184. 伪函子记录的高维数据不是同伦，而是各种同构。     
+ 184. 伪函子记录的高维数据不是同伦，而是各种同构。 
+ 
+ 185. ∞-Operads为描述同伦意义下的交换性和结合性提供了语言和工具。 Operad = 无穷范畴的“乘法”。
+ 
+ 186. 诺特模 ＜ 凝聚模 ＜ 有限表现模，这三类模都是在控制有限生成性的程度；拟凝聚层局部同构于模，凝聚层局部同构于凝聚模；有限拓扑对象上的层范畴可能都是凝聚的，并不一定非得出现所有不可控的层，拓扑对象的好坏影响着层的好坏。
+ 
+ 187. 无穷范畴的Hypercovering对应于通常的投射分解。
+ 
+ 188. 紧对象和Perfect对象意味着某种有限性条件。
+ 
+ 189. 对于范畴，经常要考虑对它进行分解，如粘合，挠对，局部化等。如何将大范畴进行分解，怎么去构造它的子范畴成分是粘合等理论的问题之一。
+ 
+ 190. (1) 设定目标，反向推导和计算。有目的的研究方式应该是反向构建。正向的意外收获方式往往是低效率的研究方式。看文献也应该从目标反向推导的方式重构条件。
+      
+      (2) 由目标去寻找和构建所需条件才是高效的研究方式。由条件做能做的操作看能有什么意外收获的研究方式往往是低效率的。
+      
+      (3) 看论文也应该由目标反向求索，重构条件。知道自己想干什么才是高效的。
       
  
      
