@@ -676,6 +676,11 @@ My research interests are in representation theory, (higher) topos theory, homot
 192. 商范畴C/D如何在原范畴C中看, 如导出范畴和同伦范畴，考虑Torsion Pair，D的垂直等。通过这样等同，就能理解为什么导出范畴的东西可以拉回到同伦范畴来看。 
 
 193. (集合)层论/拓扑斯理论的灵魂就是Grothendieck拓扑。 
+
+194. logic and topos theory
+     ![logic and topos theory](https://github.com/mawaywoo/stu/blob/main/logic%20and%20topos%20theory_20220127165338.jpg)
+
+195. 
       
  
      
