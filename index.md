@@ -680,7 +680,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 194. logic and topos theory
      ![logic and topos theory](https://github.com/mawaywoo/stu/blob/main/logic%20and%20topos%20theory_20220127165338.jpg)
 
-195. 
+195. 模表示论中的整体数据来自群代数/块代数B，而局部数据则产自p-群部分。模表示论通常考虑B部分与p-部分的关系。
       
  
      
