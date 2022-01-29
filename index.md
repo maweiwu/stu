@@ -681,6 +681,8 @@ My research interests are in representation theory, (higher) topos theory, homot
      ![logic and topos theory](https://github.com/mawaywoo/stu/blob/main/logic%20and%20topos%20theory_20220127165338.jpg)
 
 195. 模表示论中的整体数据来自群代数/块代数B，而局部数据则产自p-群部分。模表示论通常考虑B部分与p-部分的关系。
+
+196. 精神：将Sh(C, J)的性质(hard)约化到座(C, J)上的刻画(doable)。所以对拓扑J的处理是很重要的。
       
  
      
