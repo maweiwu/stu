@@ -688,7 +688,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 198. DG代数/模/范畴 = 复形结构 “+” 代数/模/范畴结构。 
 
-199. 范畴Enriched前后的差异可以通过只有一个对象的范畴上去比较Hom结构，这样会有更直观的感受。如C(K)和C_dg(k)的Hom(A,B)结构：前者是复形链映射，后者是dg代数。  
+199. 范畴Enriched前后的差异可以通过只有一个对象的范畴上去比较Hom结构，这样会有更直观的感受。如C(k)和C_dg(k)的Hom(A,B)结构：前者是复形链映射，后者是dg代数。  
 
 
       
