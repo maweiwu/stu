@@ -726,7 +726,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 213. 有限群G的各种局部范畴，如轨道范畴、传输范畴、融合系等，就是在把群G的局部信息(子群与大群之间的复杂关系)尽可能地“摊开来”供我们更方便地选取和使用。
 
-214. 如何理解函子F: C —> D？可以把C看成是Theory/Language/Logic部分，函子F看成是理论C在范畴D上的一个解释(Interpretation)/模型(Model)。例如：一个R-模复形Z —> R-mod可以看成是Z在范畴R-mod的一个模型，一个单纯集delta^op —> Set可以看成是delta在范畴Set的一个模型。所以，函子F: C —> D可看成是添加“C-结构”后的范畴D。
+214. 如何理解函子F: C —> D？可以把C看成是Theory/Language/Logic部分，函子F看成是理论C在范畴D上的一个解释(Interpretation)/模型(Model)。例如：一个R-模复形Z —> R-mod可以看成是Z在范畴R-mod的一个模型，一个单纯集delta^op —> Set可以看成是delta在范畴Set的一个模型。所以，函子F: C —> D可看成是添加“C-结构”后的范畴D。2022-2-10 20:13
 
 215. 由G-集合范畴/轨道范畴出发的函子可以看成是范畴Cod(F)的Equivariant版本，G-集合范畴等赋予范畴Cod(F)的群作用信息。
      ![equivarian](https://github.com/mawaywoo/stu/blob/main/equivariant.jpg)
