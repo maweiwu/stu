@@ -79,6 +79,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Commutative Algebra's Recent conferences](https://eloisagrifo.github.io/travel.html) | [ICERM](https://icerm.brown.edu/) | [Mathematics Genealogy Project](https://www.mathgenealogy.org/) |
 [Software of Commutative Algebra](https://eloisagrifo.github.io/research.html#software) | [SGA](http://library.msri.org/books/sga/) | [丘成桐数学科学中心](https://ymsc.tsinghua.edu.cn/xshd/xsbg/xdsxbg.htm) |
 [UGA Algebra](https://www.youtube.com/channel/UCkuDot-tLWcIX9W8ql0DGmw/playlists) | [Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=21167s) | [From the Mitchell-Bénabou Language to the topos(链接在视频下方的描述里面)](https://www.youtube.com/watch?v=66glvnHX-a8&t=21167s) |
+[5th Australian Algebra Conference](https://www.youtube.com/channel/UCCw_ePwLkIx4SoPB-MRtHOQ/videos) | [Graduate Reminisce Online On Topology (GROOT) Summer Seminar](https://www.youtube.com/playlist?list=PLbR_Vow7hMFTAS3TDC1BD87cXXOpYRLb2) | [G2R2- 2018](https://www.youtube.com/channel/UCCY4EV1KLdbuGiPUe09k9-A/playlists) |
+[Israel Institute for Advanced Studies](https://www.youtube.com/c/iashuji/playlists) | [Mathematical Center in Akademgorodok](https://www.youtube.com/c/MathematicalCenterinAkademgorodok/playlists) | [GSCC 2021](https://www.youtube.com/channel/UCfDbEqBdZN8ahIBTD4peHww/videos) |
+[eCHT](https://www.youtube.com/user/dcisaksen/videos) | [Al Om](https://www.youtube.com/user/NYCmathtalk/playlists) |
 
 
 
