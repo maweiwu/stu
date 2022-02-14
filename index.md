@@ -739,6 +739,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 219. 所以经典代数，如群，环，模，代数等结构都可以考虑推广到各种(高阶)范畴(如Locale，Monoidal Cat，Topos)的环，代数，模等结构。它们的差异只在于相应的代数理论(Logic/Theory)是在集合范畴还是在别的范畴上的解释/模型。如Joyal常把一些范畴与环等代数结构作类比，严格说来就是环的逻辑/理论在范畴中的解释/模型。
 
+220. Galois = "Descent". 从变大后的对象中再“下降、返回”到原来的小对象中。
+
 
 
 
