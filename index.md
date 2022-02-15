@@ -744,6 +744,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 221. 拓扑斯的理论/构造与R-模理论/构造的相似性：[R-Mod vs Topoi](https://www.youtube.com/watch?v=sQyDI76ppY4&t=175s)
 
+222. 余等值子可以看成是生成元和生成关系，而余极限可以表示成余等值子，因此余极限也可以看成是给出了生成元和生成关系，如张量积、几何实现、看扩张都是某种余极限，因此从这些余极限中我们可以找到生成元和生成关系：把余极限表示成余等值子即可。[R-Mod vs Topoi](https://www.youtube.com/watch?v=sQyDI76ppY4&t=175s) 
+
 
 
 
