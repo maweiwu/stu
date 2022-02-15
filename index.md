@@ -741,6 +741,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 220. Galois = "Descent". 从变大后的对象中再“下降、返回”到原来的小对象中。
 
+221. 拓扑斯的理论/构造与R-模理论/构造的相似性：[R-Mod vs Topoi](https://www.youtube.com/watch?v=sQyDI76ppY4&t=175s)
+
 
 
 
