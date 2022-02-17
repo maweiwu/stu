@@ -754,12 +754,13 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 226. 考虑层论的相关证明时，为什么总要考虑局部化/限制？因为通过局部化/限制后，就可以更容易地进行比较以及实现关系的相互转换了(我们能知道和能看清楚的更多的是局部的关系和结构)。 
 
+227. (l, i) ---> ￣ ---> j ---> J ---> (l, i) 拓扑斯的局部化。 See Algebra in a Localic Topos with Applications to Ring Theory-book。
 
 
 
 
 
-
+.
 
 
 
