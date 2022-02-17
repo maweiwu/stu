@@ -750,6 +750,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 224. 把范畴C视为和拓扑斯Sh(C,J)同一层级的东西，后者只是通过前者扩大得到，这样就可以更好地理解C中的结构(如Frame, Site等)也可以考虑在Sh(C,J)上构造相应的结构(如Frame，Site等)，并且可以比较它们。
 
+225. 今天开始图书馆正常开馆，在宿舍待了整个寒假，今天终于可以恢复以前的图书馆生活学习方式了。2022-2-17 13:41 于汕头大学图书馆书架三楼北区4排9列2层。
+
 
 
 
