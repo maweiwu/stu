@@ -748,7 +748,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 223. 张量积/余等值子/余极限/左伴随等 “=” 生成元 + 生成关系。
 
-224. 把范畴C视为和拓扑斯Sh(C,J)同一层级的东西，后者只是通过前者扩大得到，这样就可以更好地理解C中的结构(如Frame, Site等)也可以考虑在Sh(C,J)上构造的相应的结构(如Frame，Site等)，并且可以比较它们。
+224. 把范畴C视为和拓扑斯Sh(C,J)同一层级的东西，后者只是通过前者扩大得到，这样就可以更好地理解C中的结构(如Frame, Site等)也可以考虑在Sh(C,J)上构造相应的结构(如Frame，Site等)，并且可以比较它们。
 
 
 
