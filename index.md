@@ -757,7 +757,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 227. (l, i) ---> ￣ ---> j ---> J ---> (l, i) 拓扑斯的局部化。 See Algebra in a Localic Topos with Applications to Ring Theory-book, Page 101 Theorem 56.
 
-228. 给出一个内蕴定义(在背景范畴C中) = 【给出范畴C中的某些对象和态射】 + 这些对象和态射满足的性质。
+228. 给出一个内蕴定义(在背景范畴C中) = 【给出范畴C中的某些对象和态射】 + 这些对象和态射满足的性质。而外现定义则不是由背景范畴C出发。
 
 
 
