@@ -761,6 +761,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 229. 对于代数(预)层范畴Pr(H,T)和Sh(H,T)，其中H是locale, T是finite algebraic theory。我们可以考虑它们所有的Localization的分类(见228中提到的那本专著)；此外我们还可以考虑取特殊的T，如Ab，考虑特殊的H，如1,2,3等，它们对应的代数层范畴就会退化为经典的Abel群理论，此时可以考虑经典理论在推广后的代数层范畴中的变化(H ---> 2对应的代数层范畴之间的比较)；考虑H变化时，如H ---> L，它们对应的代数层范畴之间的关系；当T变化时，对应的代数层范畴又有什么变化等等问题。
 
+230. 代数(预)层范畴Pr(H,T)和Sh(H,T)可以从两个角度去考虑其性质：当H平凡时为经典的代数理论，考虑它的性质与当H不平凡时进行比较；当T平凡时为拓扑斯理论，考虑拓扑斯性质在T不平凡时的变化情况。
+
 
 
 
