@@ -759,6 +759,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 228. 给出一个内蕴定义(在背景范畴C中) = 【给出范畴C中的某些对象和态射】 + 这些对象和态射满足的性质。而外现定义则不是由背景范畴C出发。例如当取C:=Sh(H)，T是有限代数理论，T在Sh(H)的内蕴定义首先得由层和态射来定义，但外现(经典)定义的T就不需要依赖于层，只是由对象为T^1，...，T^n满足某些条件的一个范畴而已。对于代数理论，代数层的内蕴和外现定义方式可参考专著 Algebra in a Localic Topos with Applications to Ring Theory-book.
 
+229. 对于代数(预)层范畴Pr(H,T)和Sh(H,T)，其中H是locale, T是finite algebraic theory。我们可以考虑它们所有的Localization的分类(见228中提到的那本专著)；此外我们还可以考虑取特殊的T，如Ab，考虑特殊的H，如1,2,3等，它们对应的代数层范畴就会退化为经典的Abel群理论，此时可以考虑经典理论在推广后的代数层范畴中的变化(H ---> 2对应的代数层范畴之间的比较)；考虑H变化时，如H ---> L，它们对应的代数层范畴之间的关系；当T变化时，对应的代数层范畴又有什么变化等等问题。
+
 
 
 
