@@ -767,6 +767,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 232. 给定一个Mitchell-Benabou语句 ———解释(机械地)———> 拓扑斯中的某个对象(由语句解释后的各种态射决定)，利用MB语言，考虑在Sh(C)中模拟Sh(•)=Set中概念和结论就变得容易些。
 
+233. 【MB语句本质上描述的还是范畴本身的性质和结构】，只是使用了另一种更方便的语言进行描述而已(集合论)，要想真切看到它描述的是什么性质，只需对这些语句进行机械地解释即可。MB语言只是便于从集合论的角度去处理范畴/拓扑斯而已。
+
 
 
 
