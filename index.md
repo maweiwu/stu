@@ -757,7 +757,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 227. (l, i) ---> ￣ ---> j ---> J ---> (l, i) 拓扑斯的局部化。 See Algebra in a Localic Topos with Applications to Ring Theory-book, Page 101 Theorem 56.
 
-228. 给出一个内蕴定义(在背景范畴C中) = 【给出范畴C中的某些对象和态射】 + 这些对象和态射满足的性质。而外现定义则不是由背景范畴C出发。
+228. 给出一个内蕴定义(在背景范畴C中) = 【给出范畴C中的某些对象和态射】 + 这些对象和态射满足的性质。而外现定义则不是由背景范畴C出发。例如当取C:=Sh(H)，T是有限代数理论，T在Sh(H)的内蕴定义首先得由层和态射来定义，但外现(经典)定义的T就不需要依赖于层，只是由对象为T^1，...，T^n满足某些条件的一个范畴而已。对于代数理论，代数层的内蕴和外现定义方式可参考专著 Algebra in a Localic Topos with Applications to Ring Theory-book.
+
 
 
 
