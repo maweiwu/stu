@@ -765,6 +765,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 231. 因为Set = Sh(•)，另一种研究拓扑斯理论的角度就是考虑将Sh(•)替换为Sh(C)或者一般的初等拓扑斯E后，Set中的相关结论(经典数学)能否在Sh(C)或E中类似可做？(注意此时在Sh(C)中模拟Set中的对应概念都是内蕴的，一切定义的原材料都取自于Sh(C)，见228)
 
+232. 给定一个Mitchell-Benabou语句 ———解释(机械地)———> 拓扑斯中的某个对象(由语句解释后的各种态射决定)，利用MB语言，考虑在Sh(C)中模拟Sh(•)=Set中概念和结论就变得容易些。
+
 
 
 
