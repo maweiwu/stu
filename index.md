@@ -785,6 +785,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 241. 如何借鉴/移植其他范畴的性质/结构到所要研究的范畴上来：看该性质/结构【是否是纯范畴论的，不依赖于具体的范畴背景】。 比如拓扑斯中也可以移植Abel范畴中的正合性以及内射对象等概念。
 
+242. Localizations are very special monads. Paul Balmer, Stacks of group representations. (Monad的重要性)
+
 
 
 
