@@ -787,6 +787,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 242. Localizations are very special monads. Paul Balmer, Stacks of group representations. (Monad的重要性)
 
+243. 各种范畴/子范畴都值得研究，它们都有一定的结构，选取怎样的子范畴，选取范畴的大小都依个人兴趣而定。理论上任何子范畴都值得研究，不一定非得是那些经典的范畴。
+
 
 
 
