@@ -791,6 +791,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 244. 上同调理论也是在寻找“比较”：比如通过代数的变化比较它们的上同调，通过变化分解的复形来寻找上同调之间的比较等等。通过比较来建立易知上同调与未知上同调之间的联系。
 
+245. 相对同调代数可通过与绝对同调代数建立联系，作比较并获取信息。
+
 
 
 
