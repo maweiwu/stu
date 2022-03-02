@@ -799,6 +799,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 248. 数学执行力(Easy Things)：Knowing what the rules are? How to follow?
 
+249. 复形和上同调理论的通常的处理手段就是计算，而计算就是【搞清楚规则和执行规则】(执行规则都是很简单的事，虽然在定义复形和上同调理论的规则时所涉及到的符号很繁琐)。
+
 
 
 
