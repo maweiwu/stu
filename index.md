@@ -793,6 +793,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 245. 相对同调代数可通过与绝对同调代数建立联系，作比较并获取信息。
 
+246. 我的缺点：缺乏执行力。2022-3-2 11:20
+
 
 
 
