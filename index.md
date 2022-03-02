@@ -795,6 +795,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 246. 我的缺点：缺乏执行力。2022-3-2 11:20
 
+247. 其实执行(数学上)并不难：Just follow the rules. 我只是懒得去做，这很不好。
+
 
 
 
