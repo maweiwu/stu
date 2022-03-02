@@ -797,6 +797,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 247. 其实执行(数学上)并不难：Just follow the rules. 我只是懒得去做，这很不好。
 
+248. 数学执行力(Easy Things)：Knowing what the rules are? How to follow?
+
 
 
 
