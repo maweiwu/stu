@@ -801,6 +801,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 249. 复形和上同调理论的通常的处理手段就是计算，而计算就是【搞清楚规则和执行规则】(执行规则都是很简单的事，虽然在定义复形和上同调理论的规则时所涉及到的符号很繁琐)。
 
+250. In broad terms descent is about the higher categorical notion of limit. ROSS STREET, Categorical and Combinatorial Aspects of Descent Theory.
+
 
 
 
