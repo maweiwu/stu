@@ -803,6 +803,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 250. In broad terms descent is about the higher categorical notion of limit. ROSS STREET, Categorical and Combinatorial Aspects of Descent Theory.
 
+251. Hom_S(A,B)中A,B模的S,T模作用方向和Hom的共变、反变位置是有关系的。
+
 
 
 
