@@ -805,6 +805,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 251. Hom_S(A,B)中A,B模的S,T模作用方向和Hom的共变、反变位置是有关系的。
 
+252. 群(块)表示论 = 比较(k,G,e)决定的块代数的各种模范畴之间的关系。
+     ![grp rep](https://github.com/mawaywoo/stu/blob/main/grp%20rep.jpg)
+     
+253. 
 
 
 
