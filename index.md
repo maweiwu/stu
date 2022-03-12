@@ -813,6 +813,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 254. 范畴论 = 代数论；范畴构造/交换图 = 代数数据 + 代数关系式(这才是背后最本质的东西，保持范畴结构验证的就是保持这堆数据和关系式，而不是交换图)。所以，以后看到任何范畴构造都要抽出其背后的数据和关系式，这是验证和推理所需要考虑的，交换图这是这堆本质数据的直观化，在推理时严格使用的还是背后的数据和关系式。2022-3-9 13:51 
 
 255. 该范畴结构 = 哪些代数数据和关系式？常问自己这个问题。如余积不能只想到图表，而要想到余积背后的关系式刻画，保持余积 = 本质上等于保持这些关系式，实质上在验证时操作的也是这些关系式。2022-3-9 13:51
+ 
+256. Grothendieck构造 = 把Fiber通过底范畴恰当地粘接起来。
+     [Joe Moeller: The monoidal Grothendieck construction](https://www.youtube.com/watch?v=DDECeQaGwYs&t=3240s)
+     ![grothendieck construction](https://github.com/mawaywoo/stu/blob/main/gro.%20con..jpg)
 
 
 
