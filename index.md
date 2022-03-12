@@ -827,6 +827,8 @@ theory may be incorporated in the enriched or internal setting. Liang Ze Wong, T
 
 258. Grothendieck构造 = 群的半直积的各种推广。参见Thesis(阐释得很好)：Liang Ze Wong, The Grothendieck Construction in Enriched, Internal and inf-Category Theory.
 
+259. Cartesian arrows generalize the notion of pullbacks in a category. 参见上述文献pp. 11.
+
 
 
 
