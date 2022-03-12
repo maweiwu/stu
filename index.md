@@ -823,7 +823,10 @@ objects and/or morphisms in a category may be replaced by objects in a monoidal 
 V other than Set. For enriched categories, only the morphisms are required to live in V; for
 internal categories, both the objects and morphisms belong to V. Naturally, the properties
 of the monoidal category V play a big role in determining which aspects of ordinary category
-theory may be incorporated in the enriched or internal setting. Liang Ze Wong, The Grothendieck Construction in Enriched, Internal and 1-Category Theory, page 1.
+theory may be incorporated in the enriched or internal setting. Liang Ze Wong, The Grothendieck Construction in Enriched, Internal and inf-Category Theory, page 1.
+
+258. Grothendieck构造 = 群的半直积的各种推广。参加论文：Liang Ze Wong, The Grothendieck Construction in Enriched, Internal and inf-Category Theory.
+
 
 
 
