@@ -817,6 +817,13 @@ My research interests are in representation theory, (higher) topos theory, homot
 256. Grothendieck构造 = 把Fiber通过底范畴恰当地粘接起来。
      [Joe Moeller: The monoidal Grothendieck construction](https://www.youtube.com/watch?v=DDECeQaGwYs&t=3240s)
      ![grothendieck construction](https://github.com/mawaywoo/stu/blob/main/gro.%20con..jpg)
+     
+257. Enriched and internal category theory are based on the observation that the sets of
+objects and/or morphisms in a category may be replaced by objects in a monoidal category
+V other than Set. For enriched categories, only the morphisms are required to live in V; for
+internal categories, both the objects and morphisms belong to V. Naturally, the properties
+of the monoidal category V play a big role in determining which aspects of ordinary category
+theory may be incorporated in the enriched or internal setting. Liang Ze Wong, The Grothendieck Construction in Enriched, Internal and 1-Category Theory, page 1.
 
 
 
