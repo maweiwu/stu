@@ -829,6 +829,8 @@ theory may be incorporated in the enriched or internal setting. Liang Ze Wong, T
 
 259. Cartesian arrows generalize the notion of pullbacks in a category. 参见上述文献pp. 11.
 
+260. 
+
 
 
 
