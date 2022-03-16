@@ -838,6 +838,9 @@ theory may be incorporated in the enriched or internal setting. Liang Ze Wong, T
      ![adjoit functor](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203161346021.jpg)
      ![limit-preserving](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203161346022.jpg)
      
+262. 在范畴论中，把复杂的文字叙述转换成图表往往更容易理清各对象自己的关系，也更有助于记忆，图表比文字把关系展示得更清楚。(Arnold Tan Junhan, The Freyd-Mitchell Embedding Theorem).
+     ![generator](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220316195758.jpg)
+     ![gen.](https://github.com/mawaywoo/stu/blob/main/QQ%E6%88%AA%E5%9B%BE20220316200518.png)
 
 
 
