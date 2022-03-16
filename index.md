@@ -83,7 +83,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Israel Institute for Advanced Studies](https://www.youtube.com/c/iashuji/playlists) | [Mathematical Center in Akademgorodok](https://www.youtube.com/c/MathematicalCenterinAkademgorodok/playlists) | [GSCC 2021](https://www.youtube.com/channel/UCfDbEqBdZN8ahIBTD4peHww/videos) |
 [eCHT](https://www.youtube.com/user/dcisaksen/videos) | [Al Om](https://www.youtube.com/user/NYCmathtalk/playlists) | [Combinatorics & Optimization University of Waterloo](https://www.youtube.com/channel/UCYbrNs9lMqGw65TlzTRJuEw/playlists) |
 [Topos theory seminar](https://www.youtube.com/playlist?list=PLKnx70LRf21dHwTTJ_ihHalZdeXlsZC1U) | [Topos theory and categorical logic](http://therisingsea.org/post/seminar-ch/) | [Reprints in Theory and Applications of Categories](http://www.tac.mta.ca/tac/reprints/) |
-[]() |
+
 
 
 
