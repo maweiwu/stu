@@ -831,6 +831,12 @@ theory may be incorporated in the enriched or internal setting. Liang Ze Wong, T
 
 260. 讨论函子的思维和讨论函数的思维是一样的：函数需要讨论函数的各种性质(连续性、可微性等)，且这些函数性质和函数的定义域以及值域的结构紧密相关；函子也需要讨论函子的各种性质(正合性、某些结构的保持性等)，且这些函子现在和函子的源范畴以及目标范畴的结构也是紧密相关的；函数有导出函数，函数扩张，是否可逆等，函子有导出函子，函子扩张，是否存在伴随等；函数可以讨论各种性质之间的关系，变换定义域或值域后的函数性质的变化，这些可以类似地在函子中讨论；函数有性质好坏之分，函子亦有性质好坏之分。总之，怎样研究函数就怎样研究函子。
 
+261. 把函子写成上下“覆盖空间”的形式【能更清晰地展示】源范畴和目标范畴的各种范畴结构(如各种极限、余极限等)以及函子对这些结构的保持性，更直观地“看到”范畴的结构和函子的性质，更加可视化(如更清晰地看到上下范畴中的切片范畴以及它们的极限间的关系等)。
+     ![unit and counit](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220316134602.jpg)
+     ![adjoit functor](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203161346021.jpg)
+     ![limit-preserving](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203161346022.jpg)
+     
+
 
 
 
