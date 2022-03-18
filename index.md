@@ -5,14 +5,6 @@
 
 Email: mawaywoo(at)126(dot)com
 
-Always ask yourself: What can I do? 
-
-Just try and do what you can do, then pick out something useful. 
-
-Just try and don't care useful or not.
-
-Change my mind. See 190 bellow.
-
 ## Personal information
 
 Currently I'm doing my PhD in China. 
@@ -842,9 +834,25 @@ theory may be incorporated in the enriched or internal setting. Liang Ze Wong, T
 262. 在范畴论中，把复杂的文字叙述转换成图表往往更容易理清各对象自己的关系，也更有助于记忆，图表比文字把关系展示得更清楚。(Arnold Tan Junhan, The Freyd-Mitchell Embedding Theorem).
      ![generator](https://github.com/mawaywoo/stu/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220316195758.jpg)
      ![gen.](https://github.com/mawaywoo/stu/blob/main/QQ%E6%88%AA%E5%9B%BE20220316200518.png)
+     
+_____________________________________________________________________________
 
+263.  1. 随便问一个问题。(真的可以很随便，只要是个疑问句就行，问问题时不要有任何束缚) 
+      2. 这是不是一个合理的问题。(如果合理，那么必然存在且需要一个答案) 
+      3. 别人是否已经回答过该问题。(如果没有，那么是否别人回答过类似的问题) 
+      4. 别人的回答方式是否有借鉴意义。(有哪些回答步骤) 
+      5. 寻找答案。(借鉴别人的回答方式或自己寻找其他的回答方式) 
+     【按照这五个步骤就不怕找不到要做的课题】
+     
+264. 科研信念：只要是合理的问题，那么就必须给出一个答案！
 
+266. 可以在阅读他人的文章后随便问问题，也可以在MO上看别人的问题，引出自己的一些问题。【一定要随便问，不要束缚自己，比如不要考虑能不能解决等】
 
+267. 随便问(不要有任何束缚)，就会问出一大堆合理的问题来，即使有人回答过有些问题了也没关系，因为通过自己的提问和寻找，自己的疑问被消除了一些，同时知识和经验也增长了一些。
+
+268. 任何合理的问题都值得问。
+
+_____________________________________________________________________________
 
 
 
