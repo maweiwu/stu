@@ -160,6 +160,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## 书法
 
+[周观鱼Official channel](https://www.youtube.com/channel/UCxLjAM4TdTJnBhwB26q-3Dg)
+
 [书法讲座-李跃林](https://www.youtube.com/user/leolee1859/playlists)
 
 [北美书協](https://www.youtube.com/channel/UC-jZb-29PMDOKZORmRCZtEA)
