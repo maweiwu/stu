@@ -878,7 +878,7 @@ _____________________________________________________________________________
 
 273. 在Mathematics和MathOverflow上学习的好处：学会用例子思考问题(看别人通常是通过哪些例子思考的，这些例子自己也应该掌握并熟悉)，学会通过与他人交流的方式学习(看别人的交谈内容)。2022-4-5 10:21 汕大图书馆。
 
-274. 从逻辑的角度，这些范畴是不断变大的：elementary topos < coherent category < regular category ...
+274. 从逻辑的角度，这些范畴是不断变大的：elementary topos < coherent category < regular category ...集合是elemetary topos，范畴放大之后，集合有的性质即会逐渐消失。
 
  
  
