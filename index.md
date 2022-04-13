@@ -172,6 +172,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [CA Society](https://www.youtube.com/channel/UCIn4ipS_7v4oZmqSXg03I7Q)
 
+[北京大学书法公开课](https://www.youtube.com/playlist?list=PLgmlpE59k8wfuDCoBeqIfFpjj8cFODHXB)
+
 [书法讲座-李跃林](https://www.youtube.com/user/leolee1859/playlists)
 
 [北美书協](https://www.youtube.com/channel/UC-jZb-29PMDOKZORmRCZtEA)
