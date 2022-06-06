@@ -166,6 +166,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [柳公权-我最喜欢的书法家](https://www.bilibili.com/video/BV1744y1Y76k?spm_id_from=333.337.search-card.all.click)
 
+[草书百韵歌](https://www.youtube.com/playlist?list=PLAxiW80kxuWKbvEQJMXkkBGDrqmND3YsQ)
+
 [周观鱼Official channel](https://www.youtube.com/channel/UCxLjAM4TdTJnBhwB26q-3Dg)
 
 [書法-柳公權-玄秘塔碑](https://www.youtube.com/playlist?list=PLAxiW80kxuWLt2Q56j9-f-fyn9hYdsQ_L)
