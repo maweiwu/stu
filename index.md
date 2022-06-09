@@ -99,6 +99,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Conferences Related to Topology, Mirror Symmetry or Symplectic Geometry](https://www.hiroleetanaka.com/index.php?pageID=conferences) | [Categories List](https://www.mta.ca/~cat-dist/) | [Category Theory OctoberFest](https://ct-octoberfest.github.io/) | [Online Number Theory Seminar](http://www.mcm.ac.cn/events/seminars/202009/t20200901_599709.html) | [Toposes online](https://aroundtoposes.com/toposesonline/?contact-form-id=707&contact-form-sent=1256&contact-form-hash=bca8cd363af3e997281f9b02e80f12084c488124&_wpnonce=490d42af3e#contact-form-707) | [Gunter Malle](https://www.mathematik.uni-kl.de/agag/personen/leitung/malle/) |
 [Groups, representations and applications: new perspectives](https://www.newton.ac.uk/event/gra2/) | [Model Theory Conference](http://www.math.uni.wroc.pl/~pkowa/ln20.html) | [Differential Graded Algebra Techniques in Commutative Algebra on January 2-4, 2022](http://math.ipm.ac.ir/conferences/2022/18th_commalg/) | [MSRI Special Session on Combinatorial and Homological Methods in Commutative Algebra](https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_ss32.html#title) | 
 
+## Other stuff
+
+[最新SCI期刊查询及投稿分析系统](http://www.letpub.com.cn/index.php?page=journalapp&view=search) | [中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Core/CategoryList.aspx) |
 
 
 ## Favorite mathematicians and students
