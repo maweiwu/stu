@@ -101,7 +101,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## Other stuff
 
-[最新SCI期刊查询及投稿分析系统](http://www.letpub.com.cn/index.php?page=journalapp&view=search) | [中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Core/CategoryList.aspx) |
+[最新SCI期刊查询及投稿分析系统](http://www.letpub.com.cn/index.php?page=journalapp&view=search) | [中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Core/CategoryList.aspx) | [教育网联邦认证与资源共享基础设施](https://www.carsi.edu.cn/experience.html) | [CARSI校外访问电子资源](https://www.lib.stu.edu.cn/article-1470.html) |
 
 
 ## Favorite mathematicians and students
