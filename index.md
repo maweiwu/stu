@@ -920,7 +920,9 @@ _____________________________________________________________________________
      ```diff 
      同调代数 “=” 生成元 + 生成关系。
      ```
-283. 把有限维代数A和幺半群M都看成范畴，则这两者的许多理论就非常相似，如A，Ae, eAe和M，Me, eMe以及Recollement理论等。所以可以先把Monoid的情形看清楚就基本理解了有限维代数的情形，低阶的幺半群的范畴可以画出来，所以它的各种元素和结构(如幂等元等)可以看得很清楚，低阶幺半群(看成范畴)的幂等完备化也可以画出来，可以将它与A的所有幂等元e决定的投射模Ae所产生的满子范畴进行比较，如End(Ae)=(eAe)^op以及幂等完备化中的对象e的自同态End(e)=eMe。可以参看 Benjamin Steinberg，Representation Theory of Finite Monoids，Springer 2016.     
+283. 把有限维代数A和幺半群M都看成范畴，则这两者的许多理论就非常相似，如A，Ae, eAe和M，Me, eMe以及Recollement理论等。所以可以先把Monoid的情形看清楚就基本理解了有限维代数的情形，低阶的幺半群的范畴可以画出来，所以它的各种元素和结构(如幂等元等)可以看得很清楚，低阶幺半群(看成范畴)的幂等完备化也可以画出来，可以将它与A的所有幂等元e决定的投射模Ae所产生的满子范畴进行比较，如End(Ae)=(eAe)^op以及幂等完备化中的对象e的自同态End(e)=eMe。可以参看 Benjamin Steinberg，Representation Theory of Finite Monoids，Springer 2016. 
+
+284. 终于弄懂同伦极限转化为等化子计算时的那两个态射\Phi,\Psi的作用规则，具体作用方式是【与值域的分量的指标态射相关】。[Micah Miller, A Primer on Homotopy Limits](https://www.youtube.com/watch?v=hF_T1JHaVpU)，[Homotopy Colimit](https://en.wikipedia.org/wiki/Homotopy_colimit)     
  
 
 
