@@ -920,7 +920,7 @@ _____________________________________________________________________________
      ```diff 
      同调代数 “=” 生成元 + 生成关系。
      ```
-283. 把有限维代数A和幺半群M都看成范畴，则这两者的许多理论就非常相似，如A，Ae, eAe和M，Me, eMe以及Recollement理论等。所以可以先把Monoid的情形看清楚就基本理解了有限维代数的情形。可以参看 Benjamin Steinberg，Representation Theory of Finite Monoids，Springer 2016.     
+283. 把有限维代数A和幺半群M都看成范畴，则这两者的许多理论就非常相似，如A，Ae, eAe和M，Me, eMe以及Recollement理论等。所以可以先把Monoid的情形看清楚就基本理解了有限维代数的情形，低阶的幺半群的范畴可以画出来，所以它的各种元素和结构(如幂等元等)可以看得很清楚。可以参看 Benjamin Steinberg，Representation Theory of Finite Monoids，Springer 2016.     
  
 
 
