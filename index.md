@@ -80,6 +80,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Cohomology of toposes](http://www.oliviacaramello.com/Teaching/Teaching.htm) | [Olivia Caramello's Teaching](http://www.oliviacaramello.com/Teaching/Teaching.htm) |[An elementary approach to elementary topos theory](http://128.2.67.219/toddtrimble/published/An+elementary+approach+to+elementary+topos+theory) |
 [SINGULAR-Try Online](https://www.singular.uni-kl.de/index.php/singular-download.html) | [Miscellaneous writing](https://www-users.cse.umn.edu/~bahra004/misc.html) | [Fibered Category and Representation Theory](http://www.las.osakafu-u.ac.jp/~yamaguti/archives/archives_en.html) |
 [Srikanth Iyengar's articles on arXiv](https://arxiv.org/a/iyengar_s_1.html) | [Derivator](http://fhoermann.org/) | [Homotopy II (2020–2021)](https://www.youtube.com/playlist?list=PLTt5PyNwzdilR4GnUNxvTBGlKzma9imTf) |
+[Grothendieck Conference - Chapman University 2022](https://www.youtube.com/playlist?list=PLXlinOq24a9Q8GPa5_mQfLUEn8ZCg8pg-) |
 
 
 
