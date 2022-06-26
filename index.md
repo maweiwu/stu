@@ -81,6 +81,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [SINGULAR-Try Online](https://www.singular.uni-kl.de/index.php/singular-download.html) | [Miscellaneous writing](https://www-users.cse.umn.edu/~bahra004/misc.html) | [Fibered Category and Representation Theory](http://www.las.osakafu-u.ac.jp/~yamaguti/archives/archives_en.html) |
 [Srikanth Iyengar's articles on arXiv](https://arxiv.org/a/iyengar_s_1.html) | [Derivator](http://fhoermann.org/) | [Homotopy II (2020–2021)](https://www.youtube.com/playlist?list=PLTt5PyNwzdilR4GnUNxvTBGlKzma9imTf) |
 [Grothendieck Conference - Chapman University 2022](https://www.youtube.com/playlist?list=PLXlinOq24a9Q8GPa5_mQfLUEn8ZCg8pg-) | [Polymath 2021 Macaulay2 Demo Session](https://www.youtube.com/channel/UCe79OqOyHCvmX3VnJnw69IQ) | [CTNT 2020-A virtual tour of Magma](https://www.youtube.com/watch?v=iwhc1JzlPbA&t=8s) |
+[FSCD 2021](https://www.youtube.com/channel/UCAbIYY2zSLy3iU8IcEidEwQ/playlists) |
 
 
 
