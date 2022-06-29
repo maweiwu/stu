@@ -81,7 +81,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [SINGULAR-Try Online](https://www.singular.uni-kl.de/index.php/singular-download.html) | [Miscellaneous writing](https://www-users.cse.umn.edu/~bahra004/misc.html) | [Fibered Category and Representation Theory](http://www.las.osakafu-u.ac.jp/~yamaguti/archives/archives_en.html) |
 [Srikanth Iyengar's articles on arXiv](https://arxiv.org/a/iyengar_s_1.html) | [Derivator](http://fhoermann.org/) | [Homotopy II (2020–2021)](https://www.youtube.com/playlist?list=PLTt5PyNwzdilR4GnUNxvTBGlKzma9imTf) |
 [Grothendieck Conference - Chapman University 2022](https://www.youtube.com/playlist?list=PLXlinOq24a9Q8GPa5_mQfLUEn8ZCg8pg-) | [Polymath 2021 Macaulay2 Demo Session](https://www.youtube.com/channel/UCe79OqOyHCvmX3VnJnw69IQ) | [CTNT 2020-A virtual tour of Magma](https://www.youtube.com/watch?v=iwhc1JzlPbA&t=8s) |
-[FSCD 2021](https://www.youtube.com/channel/UCAbIYY2zSLy3iU8IcEidEwQ/playlists) | [Kolchin Seminar in Differential Algebra](https://www.youtube.com/channel/UCLX8E_MY-Frg1NV9aEF_6Ng) |
+[FSCD 2021](https://www.youtube.com/channel/UCAbIYY2zSLy3iU8IcEidEwQ/playlists) |
 
 
 
@@ -926,7 +926,9 @@ _____________________________________________________________________________
 
 284. 终于弄懂同伦极限转化为等化子计算时的那两个态射\Phi,\Psi的作用规则，具体作用方式是【与值域的分量的指标态射相关】。[Micah Miller, A Primer on Homotopy Limits](https://www.youtube.com/watch?v=hF_T1JHaVpU)，[Homotopy Colimit](https://en.wikipedia.org/wiki/Homotopy_colimit), 2022-6-25 16:27 汕大图书馆 (这几天图书馆都是拍照的毕业生，有点儿吵，明天是他们的毕业典礼)。 
 
-285.  (代数结构)层范畴{F：C \to D}的许多性质由它的目标范畴D所决定的，范畴D有什么性质可对应地考虑D-层范畴是否具有该性质。不同的D决定的代数结构层范畴区别是很大的。   
+285.  (代数结构)层范畴{F：C \to D}的许多性质由它的目标范畴D所决定的，范畴D有什么性质可对应地考虑D-层范畴是否具有该性质。不同的D决定的代数结构层范畴区别是很大的。 
+
+286.  箭图代数为什么好：当我们试图理清代数A的结构时，自然会把它的元素放大来看，比如把它的每一个元素都用一个箭头来表示，箭头比元素更直观。  
  
 
 
