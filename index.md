@@ -18,7 +18,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 ## Useful links
 | A | B | C |
 |:---------|:---------------------|:---------------|
-[SCI-HUB](https://sci-hub.se/) | [Library Genesis](http://libgen.st/) | [MathOverflow](https://mathoverflow.net/) |
+[SCI-HUB](https://sci-hub.st/) | [Library Genesis](http://libgen.st/) | [MathOverflow](https://mathoverflow.net/) |
 [Mathematics Stack Exchange](https://math.stackexchange.com/) | [Research Gate](https://www.researchgate.net/) | [International Conference Alerts - ICA](https://conferencealert.com/) |
 [MSRI](https://www.msri.org/videos/dashboard) | [BIRS](http://www.birs.ca/) | [IHES](https://www.ihes.fr/) |
 [HCM](https://www.hcm.uni-bonn.de/) | [HIM](https://www.him.uni-bonn.de/programs/past-programs/) | [ICTP](https://www.ictp.it/) |
