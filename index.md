@@ -82,7 +82,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Srikanth Iyengar's articles on arXiv](https://arxiv.org/a/iyengar_s_1.html) | [Derivator](http://fhoermann.org/) | [Homotopy II (2020–2021)](https://www.youtube.com/playlist?list=PLTt5PyNwzdilR4GnUNxvTBGlKzma9imTf) |
 [Grothendieck Conference - Chapman University 2022](https://www.youtube.com/playlist?list=PLXlinOq24a9Q8GPa5_mQfLUEn8ZCg8pg-) | [Polymath 2021 Macaulay2 Demo Session](https://www.youtube.com/channel/UCe79OqOyHCvmX3VnJnw69IQ) | [CTNT 2020-A virtual tour of Magma](https://www.youtube.com/watch?v=iwhc1JzlPbA&t=8s) |
 [FSCD 2021](https://www.youtube.com/channel/UCAbIYY2zSLy3iU8IcEidEwQ/playlists) | [Counting conjectures and beyond](https://www.newton.ac.uk/event/gr2w01/) | [Blocks of finite groups](https://wiki.manchester.ac.uk/blocks/index.php/Main_Page) |
-[MAGMA online calculator](https://www.cesaregardito.eu/links/) | [International Mathematical Union](https://www.youtube.com/c/InternationalMathematicalUnion) |
+[MAGMA online calculator](https://www.cesaregardito.eu/links/) | [International Mathematical Union](https://www.youtube.com/c/InternationalMathematicalUnion) | [Peter Cameron's Blog](https://cameroncounts.wordpress.com/2020/01/02/the-frattini-argument/) |
 
 
 
