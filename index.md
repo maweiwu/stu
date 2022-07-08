@@ -84,7 +84,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [FSCD 2021](https://www.youtube.com/channel/UCAbIYY2zSLy3iU8IcEidEwQ/playlists) | [Counting conjectures and beyond](https://www.newton.ac.uk/event/gr2w01/) | [Blocks of finite groups](https://wiki.manchester.ac.uk/blocks/index.php/Main_Page) |
 [MAGMA online calculator](https://www.cesaregardito.eu/links/) | [International Mathematical Union](https://www.youtube.com/c/InternationalMathematicalUnion) | [Peter Cameron's Blog](https://cameroncounts.wordpress.com/2020/01/02/the-frattini-argument/) |
 [Peter Cameron (my favorite mathematician when working my master's degree)](https://cameroncounts.wordpress.com/contents/) | [Advanced Group Theory III](https://www.youtube.com/playlist?list=PLuL3A07nGD0FpgzbwAfx8nPAmL4oxJWZc) |
-[Christopher Parker'papers](https://arxiv.org/search/math?searchtype=author&query=Parker%2C+C) |
+[Christopher Parker's papers](https://arxiv.org/search/math?searchtype=author&query=Parker%2C+C) |
 
 
 
