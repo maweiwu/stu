@@ -132,7 +132,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Mel Hochster](http://www.math.lsa.umich.edu/~hochster/) | [Tyler Anway](https://trmaths.com/anway) | [Keri Sather-Wagstaff](http://ssather.people.clemson.edu/) | [Eloísa Grifo](https://eloisagrifo.github.io/) | [Janet Vassilev](https://math.unm.edu/~jvassil/) | [Monica Lewis](https://sites.google.com/umn.edu/lewi1714) | [Gregory G. Smith](https://mast.queensu.ca/~ggsmith/) | [Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/) | [Janina C. Letz](https://www.math.uni-bielefeld.de/~jletz/) | [Josh Pollitz](https://www.math.utah.edu/~pollitz/) |
 [Wolfgang Lück](https://www.him.uni-bonn.de/lueck/) | [John McCleary](https://www.vassar.edu/faculty/mccleary) | [J.M.E. Hyland](https://www.dpmms.cam.ac.uk/~martin/)| [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) | [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) | [Anton Fonarev](https://www.hse.ru/en/org/persons/26335729) | [Hideto Asashiba](https://wwp.shizuoka.ac.jp/asashiba/hideto-asashibas-website/) | [Joe Moeller](https://joemathjoe.wordpress.com/publications/) | [markkamsma](https://markkamsma.nl/math) | [Cihan Bahran](https://www-users.cse.umn.edu/~bahra004/) |
 [Atsushi Yamaguchi](http://www.las.osakafu-u.ac.jp/~yamaguti/archives/archives_en.html) | [Fritz Hörmann](http://fhoermann.org/) | [Lee DeVille](https://faculty.math.illinois.edu/~rdeville/) | [Richard Wong](https://web.ma.utexas.edu/users/richard.wong/Notes.html) | [Robert Michael Pawloski](https://dl.acm.org/profile/81319499316) | [Klaus M Lux](https://dl.acm.org/profile/81100377683) | [Gábor Ivanyos](http://math.bme.hu/~ig/) | [Benjamin Sambale](https://www.iazd.uni-hannover.de/de/sambale/) | [Charles Eaton](https://personalpages.manchester.ac.uk/staff/Charles.Eaton/) | [Cesare G. Ardito](https://www.cesaregardito.eu/personal-website/) |
-[Brian Conrad](http://math.stanford.edu/~conrad/) | [Li Liang](https://sites.google.com/site/lliangnju/publications) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Christopher Parker](https://web.mat.bham.ac.uk/C.W.Parker/?_ga=2.209845077.1995074698.1556376734-1617118950.1527411860) |
+[Brian Conrad](http://math.stanford.edu/~conrad/) | [Li Liang](https://sites.google.com/site/lliangnju/publications) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Christopher Parker](https://web.mat.bham.ac.uk/C.W.Parker/?_ga=2.209845077.1995074698.1556376734-1617118950.1527411860) | [Inna Capdeboscq](https://warwick.ac.uk/fac/sci/maths/people/staff/inna_capdeboscq/) | [Ronald Solomon](https://math.osu.edu/people/solomon.1) |
 
 
 ## Math-life balance
@@ -986,7 +986,7 @@ _____________________________________________________________________________
 308. ```diff 
      + 将范畴中的各种概念和构造都从(有向)图论的角度去理解，即理解为“大图中的某种特殊的子图”。这样的理解是最本质的、最抽象的，也是最好的。
      ```
-309. 如何用图形简单形象地去表示和理解各种子群，如用正方形表示正规子群等。[Ronald Solomon](https://www.youtube.com/watch?v=MSAWOHKrp4w)     
+309. 如何用图形简单形象地去表示和理解各种子群，如用正方形表示正规子群等。[Inna Capdeboscq](https://www.youtube.com/watch?v=MSAWOHKrp4w)     
 
 
 
