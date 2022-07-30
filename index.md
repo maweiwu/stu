@@ -87,6 +87,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Algebraic Groups Course](https://www.youtube.com/playlist?list=PLSpD-kj0MYUy_zFyen2hnp19azOrLCReW) | [American Mathematical Society](https://www.youtube.com/c/AmsOrg) | [Computational Algebraic Geometry](https://www.youtube.com/playlist?list=PL5ErEZ81Tyqc1RixHj65XA32ejrS2eEFK) |
 [GR2W02(Fusion System)](https://www.newton.ac.uk/event/gr2w02/) | [Functor Categories for Groups](https://www.lancaster.ac.uk/maths/fcg/) | [London Mathematical Society Joint Research Group](https://www.lancaster.ac.uk/maths/fcg/) |
 [INI Seminar Room 1](https://www.youtube.com/channel/UCGc4QqRcj5ApgXYhVkhaRpw/videos) | [INI Seminar Room 2](https://www.youtube.com/channel/UC-iCnlplSUpJDMWacrYnOqg) | [Cheryl Praeger - The pleasure of working with Jan Saxl](https://www.youtube.com/watch?v=8foH3ydxN1o) |
+[Jan Saxl Memorial Day](https://www.eventbrite.co.uk/e/jan-saxl-memorial-day-tickets-373234894617) |
 
 
 
