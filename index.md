@@ -90,7 +90,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Jan Saxl Memorial Day](https://www.eventbrite.co.uk/e/jan-saxl-memorial-day-tickets-373234894617) | [Web-Workshop on Solvable and Nilpotent Groups](https://www.youtube.com/playlist?list=PLoqwd5bxqbGnzbcjM0tCW968phlI4gz97) | [NCMW - Finite groups of Lie type (2021)](https://www.atmschools.org/school/2021/NCMW/fglt) |
 [搜“导出范畴”](https://sx.cnu.edu.cn/portal) | [The finite simple groups-Lecture Notes](https://webspace.maths.qmul.ac.uk/r.a.wilson/fsgs.html) | [Robert A Wilson's Blog](https://robwilson1.wordpress.com/) |
 [HoTTEST Summer School 2022](https://www.youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx) | [Oral Interview I (Michael Aschbacher)](https://www.youtube.com/watch?v=9_ryS8IKf60) | [Oral Interview II (Michael Aschbacher)](https://www.youtube.com/results?search_query=michael+aschbacher) |
-[Robert Guralnick_Applications of the classification of finite simple groups](https://www.youtube.com/watch?v=2bDY6Nb0rvw&t=2034s) |
+[Robert Guralnick_Applications of the classification of finite simple groups](https://www.youtube.com/watch?v=2bDY6Nb0rvw&t=2034s) | [Cai Heng Li's Papers](https://dblp.org/pid/68/3711.html) |
 
 
 
