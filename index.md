@@ -1068,6 +1068,8 @@ _____________________________________________________________________________
 
 340. 有限群的局部分析最主要的是考虑共轭关系，因此融合系、传输范畴、轨道范畴等范畴中是最好的理解方式，在这些范畴中总能找到对应的局部数据。在融合系比群更形象，更容易看清各部分局部数据。
 
+341. 在有限李型群的表示中，会具体分析、细致地诱导(Induction)表示，诱导表示依赖于起点(从有限李型群的哪种子群以及哪种模开始诱导)，选择不同的具体起点会决定不同的诱导表示：如D-L诱导、抛物诱导等。[Representations of finite groups of Lie type by Dipendra Prasad](https://www.youtube.com/watch?v=LvOlEL9GAYE&list=PL04QVxpjcnjirVhbZtAdWjV6rHFhBIvL5&index=7)
+
 
 
 
