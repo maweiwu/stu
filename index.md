@@ -87,11 +87,11 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Algebraic Groups Course](https://www.youtube.com/playlist?list=PLSpD-kj0MYUy_zFyen2hnp19azOrLCReW) | [American Mathematical Society](https://www.youtube.com/c/AmsOrg) | [Computational Algebraic Geometry](https://www.youtube.com/playlist?list=PL5ErEZ81Tyqc1RixHj65XA32ejrS2eEFK) |
 [GR2W02(Fusion System)](https://www.newton.ac.uk/event/gr2w02/) | [Functor Categories for Groups](https://www.lancaster.ac.uk/maths/fcg/) | [London Mathematical Society Joint Research Group](https://www.lancaster.ac.uk/maths/fcg/) |
 [INI Seminar Room 1](https://www.youtube.com/channel/UCGc4QqRcj5ApgXYhVkhaRpw/videos) | [INI Seminar Room 2](https://www.youtube.com/channel/UC-iCnlplSUpJDMWacrYnOqg) | [Cheryl Praeger - The pleasure of working with Jan Saxl](https://www.youtube.com/watch?v=8foH3ydxN1o) |
-[Jan Saxl Memorial Day](https://www.eventbrite.co.uk/e/jan-saxl-memorial-day-tickets-373234894617) | [Web-Workshop on Solvable and Nilpotent Groups](https://www.youtube.com/playlist?list=PLoqwd5bxqbGnzbcjM0tCW968phlI4gz97) | [NCMW - Finite groups of Lie type (2021)](https://www.atmschools.org/school/2021/NCMW/fglt) |
+[Jan Saxl Memorial Day](https://www.eventbrite.co.uk/e/jan-saxl-memorial-day-tickets-373234894617) | [Web-Workshop on Solvable and Nilpotent Groups](https://www.youtube.com/playlist?list=PLoqwd5bxqbGnzbcjM0tCW968phlI4gz97) | [NCMW - Finite groups of Lie type (2021)](https://www.youtube.com/playlist?list=PLzNx6FGVASN3M44gex6jYWyLl45xj9ffU) |
 [搜“导出范畴”](https://sx.cnu.edu.cn/portal) | [The finite simple groups-Lecture Notes](https://webspace.maths.qmul.ac.uk/r.a.wilson/fsgs.html) | [Robert A Wilson's Blog](https://robwilson1.wordpress.com/) |
 [HoTTEST Summer School 2022](https://www.youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx) | [Oral Interview I (Michael Aschbacher)](https://www.youtube.com/watch?v=9_ryS8IKf60) | [Oral Interview II (Michael Aschbacher)](https://www.youtube.com/results?search_query=michael+aschbacher) |
 [Robert Guralnick_Applications of the classification of finite simple groups](https://www.youtube.com/watch?v=2bDY6Nb0rvw&t=2034s) | [Cai Heng Li's Papers](https://dblp.org/pid/68/3711.html) | [Classical Groups and Representation Theory Seminar](https://www.youtube.com/channel/UC9HFs6AJm4qHnjcnogb3lVQ/videos) |
-[Remarks_on_CFSG_Part_1](https://www.youtube.com/watch?v=hkCxaXJ6A_Y) | [Remarks_on_CFSG_Part_2](https://www.youtube.com/watch?v=5FhV-x4KKkc) | [NCMW - Finite groups of Lie type (2021)](https://www.youtube.com/playlist?list=PLzNx6FGVASN3M44gex6jYWyLl45xj9ffU) |
+[Remarks_on_CFSG_Part_1](https://www.youtube.com/watch?v=hkCxaXJ6A_Y) | [Remarks_on_CFSG_Part_2](https://www.youtube.com/watch?v=5FhV-x4KKkc) | []() |
 
 
 
