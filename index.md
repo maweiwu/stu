@@ -91,7 +91,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [搜“导出范畴”](https://sx.cnu.edu.cn/portal) | [The finite simple groups-Lecture Notes](https://webspace.maths.qmul.ac.uk/r.a.wilson/fsgs.html) | [Robert A Wilson's Blog](https://robwilson1.wordpress.com/) |
 [HoTTEST Summer School 2022](https://www.youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx) | [Oral Interview I (Michael Aschbacher)](https://www.youtube.com/watch?v=9_ryS8IKf60) | [Oral Interview II (Michael Aschbacher)](https://www.youtube.com/results?search_query=michael+aschbacher) |
 [Robert Guralnick_Applications of the classification of finite simple groups](https://www.youtube.com/watch?v=2bDY6Nb0rvw&t=2034s) | [Cai Heng Li's Papers](https://dblp.org/pid/68/3711.html) | [Classical Groups and Representation Theory Seminar](https://www.youtube.com/channel/UC9HFs6AJm4qHnjcnogb3lVQ/videos) |
-[Remarks_on_CFSG_Part_1](https://www.youtube.com/watch?v=hkCxaXJ6A_Y) | [Remarks_on_CFSG_Part_2](https://www.youtube.com/watch?v=5FhV-x4KKkc) | []() |
+[Remarks_on_CFSG_Part_1](https://www.youtube.com/watch?v=hkCxaXJ6A_Y) | [Remarks_on_CFSG_Part_2](https://www.youtube.com/watch?v=5FhV-x4KKkc) | [European Women in Mathematics](https://www.europeanwomeninmaths.org/) |
 
 
 
