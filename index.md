@@ -183,6 +183,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [不求上进的玉子](https://www.youtube.com/watch?v=-1-GTm5mo4g)
 
+[夏美的萤火虫](https://www.youtube.com/watch?v=zqIDhvlCCsQ&list=PLWxOqbSJOoIGFbIHkq18utnnJU0XXU1nV&index=2)
+
 
 ## 书法
 
