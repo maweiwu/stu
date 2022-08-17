@@ -91,7 +91,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [搜“导出范畴”](https://sx.cnu.edu.cn/portal) | [The finite simple groups-Lecture Notes](https://webspace.maths.qmul.ac.uk/r.a.wilson/fsgs.html) | [Robert A Wilson's Blog](https://robwilson1.wordpress.com/) |
 [HoTTEST Summer School 2022](https://www.youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx) | [Oral Interview I (Michael Aschbacher)](https://www.youtube.com/watch?v=9_ryS8IKf60) | [Oral Interview II (Michael Aschbacher)](https://www.youtube.com/results?search_query=michael+aschbacher) |
 [Robert Guralnick_Applications of the classification of finite simple groups](https://www.youtube.com/watch?v=2bDY6Nb0rvw&t=2034s) | [Cai Heng Li's Papers](https://dblp.org/pid/68/3711.html) | [Classical Groups and Representation Theory Seminar](https://www.youtube.com/channel/UC9HFs6AJm4qHnjcnogb3lVQ/videos) |
-[Remarks_on_CFSG_Part_1](https://www.youtube.com/watch?v=hkCxaXJ6A_Y) | [Remarks_on_CFSG_Part_2](https://www.youtube.com/watch?v=5FhV-x4KKkc) | [European Women in Mathematics](https://www.europeanwomeninmaths.org/) |
+[Remarks_on_CFSG_Part_1](https://www.youtube.com/watch?v=hkCxaXJ6A_Y) | [Remarks_on_CFSG_Part_2](https://www.youtube.com/watch?v=5FhV-x4KKkc) | [European Women in Mathematics](https://www.europeanwomeninmaths.org/) | [The Rising Sea_Daniel Murfet](http://therisingsea.org/) |
 
 
 
@@ -140,7 +140,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Atsushi Yamaguchi](http://www.las.osakafu-u.ac.jp/~yamaguti/archives/archives_en.html) | [Fritz Hörmann](http://fhoermann.org/) | [Lee DeVille](https://faculty.math.illinois.edu/~rdeville/) | [Richard Wong](https://web.ma.utexas.edu/users/richard.wong/Notes.html) | [Robert Michael Pawloski](https://dl.acm.org/profile/81319499316) | [Klaus M Lux](https://dl.acm.org/profile/81100377683) | [Gábor Ivanyos](http://math.bme.hu/~ig/) | [Benjamin Sambale](https://www.iazd.uni-hannover.de/de/sambale/) | [Charles Eaton](https://personalpages.manchester.ac.uk/staff/Charles.Eaton/) | [Cesare G. Ardito](https://www.cesaregardito.eu/personal-website/) |
 [Brian Conrad](http://math.stanford.edu/~conrad/) | [Li Liang](https://sites.google.com/site/lliangnju/publications) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Christopher Parker](https://web.mat.bham.ac.uk/C.W.Parker/?_ga=2.209845077.1995074698.1556376734-1617118950.1527411860) | [Inna Capdeboscq](https://warwick.ac.uk/fac/sci/maths/people/staff/inna_capdeboscq/) | [Ronald Solomon](https://math.osu.edu/people/solomon.1) | [Derek Holt](https://homepages.warwick.ac.uk/~mareg/) | [John Shareshian](https://www.math.wustl.edu/~shareshi/) | [Gareth Tracey](https://www.birmingham.ac.uk/staff/profiles/maths/tracey-gareth.aspx) | [Jan Saxl(读硕士时最喜欢数学家)](https://cameroncounts.wordpress.com/2020/05/04/jan-saxl/) |
 [Claire Amiot](https://www-fourier.ujf-grenoble.fr/~amiot/indexfr.html) | [Vipul Kakkar](http://www.curaj.ac.in/faculty/vipul-kakkar) | [Robert A Wilson](https://webspace.maths.qmul.ac.uk/r.a.wilson/homepage.html) | [Stephen Glasby](https://arxiv.org/a/glasby_s_1.html) | [Michael Giudici](https://www.researchgate.net/scientific-contributions/Michael-Giudici-14081523) | [李才恒](https://www.researchgate.net/profile/Cai-Li-12) | [Lei Wang](https://www.researchgate.net/scientific-contributions/Lei-Wang-2186305697) | [Maneesh Thakur](https://www.hri.res.in/~anlweb/academic_reports_maths/m_thakur_m/m_thakur_m.html) | [Rachel Skipper](https://sites.google.com/view/skippermath/about-me) | [Richard Lyons](https://sites.math.rutgers.edu/~lyons/) |
-[Gary Seitz](https://pages.uoregon.edu/seitz/) | [Ramji Lal](https://www.researchgate.net/profile/Ramji-Lal) | [Paul Seidel](https://math.mit.edu/~seidel/) | [Pablo Spiga](https://en.unimib.it/pablo-spiga) | [Elisa Lorenzo Garcia](https://www.europeanwomeninmaths.org/profile/elisa-lorenzo-garcia/) | [N. S. Narasimha Sastry](https://www.researchgate.net/profile/Narasimha-Sastry) |
+[Gary Seitz](https://pages.uoregon.edu/seitz/) | [Ramji Lal](https://www.researchgate.net/profile/Ramji-Lal) | [Paul Seidel](https://math.mit.edu/~seidel/) | [Pablo Spiga](https://en.unimib.it/pablo-spiga) | [Elisa Lorenzo Garcia](https://www.europeanwomeninmaths.org/profile/elisa-lorenzo-garcia/) | [N. S. Narasimha Sastry](https://www.researchgate.net/profile/Narasimha-Sastry) | [Daniel Murfet](http://therisingsea.org/) |
 
 
 ## Math-life balance
@@ -1088,19 +1088,21 @@ _____________________________________________________________________________
 
 347. 该如何去研究某个对象：用比较容易构造、比较容易了解的对象去和它建立联系。如要了解某个模范畴，总是要从各种子范畴去刻画它，所选的子范畴显然需要是比较容易理解且比较容易构造的，比如投射模范畴就是通过R可以构造出来。所以，做研究时需要时刻问自己哪些对象/结构是可以比较容易得到的，从而将待研究对象/结构与之建立联系。
 
-348. 考虑复形范畴，同伦范畴，导出范畴等有趣的地方在于：弄清楚原来范畴上比较复杂的信息(如同调信息)如何在这些高阶范畴中表达和对应转化(如何用高阶范畴中的结构去表示原来范畴中的信息)。好处在于在高阶范畴中用比较简单的运算(如Hom，shift等)足以替代原来范畴比较复杂的运算。研究这些范畴关键在于厘清这些转化机制(如何用高阶范畴的信息: 态射信息和shift运算等去表达原范畴计算出的复杂不变量: 同调群)。【导出范畴的大部分内容也是在阐述如何构建这部分对应】。
+348. 考虑复形范畴，同伦范畴，导出范畴等有趣的地方在于：弄清楚原来范畴上比较复杂的信息(如同调信息)如何在这些高阶范畴中表达和对应转化(如何用高阶范畴中的结构去表示原来范畴中的信息)。好处在于在高阶范畴中用比较简单的运算(如Hom，shift等)足以替代原来范畴比较复杂的运算。研究这些范畴关键在于厘清这些转化机制(如何用高阶范畴的信息: 态射信息和shift运算等去表达原范畴计算出的复杂不变量: 同调群)。【导出范畴的大部分内容也是在阐述如何构建这部分对应】。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
 
-349. 【可表函子的重要意义就在于它将原来复杂的信息(可能很复杂，不易看清和计算)实现为纯范畴的信息(比较简单，就只是范畴中的态射信息)】。如同调信息常常实现为导出范畴或同伦范畴中的态射信息。
+349. 【可表函子的重要意义就在于它将原来复杂的信息(可能很复杂，不易看清和计算)实现为纯范畴的信息(比较简单，就只是范畴中的态射信息)】。如同调信息常常实现为导出范畴或同伦范畴中的态射信息。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
 
-350. 将同调信息等复杂信息实现为态射信息等较简单的信息是复形范畴，同伦范畴和导出范畴等高阶范畴的主要目的。因此在阅读中抓住这两部分信息的转化机制是最关键的。
+350. 将同调信息等复杂信息实现为态射信息等较简单的信息是复形范畴，同伦范畴和导出范畴等高阶范畴的主要目的。因此在阅读中抓住这两部分信息的转化机制是最关键的。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
 
-351. 将原来范畴中的信息都试图转化到复形范畴，同伦范畴和导出范畴等一些高阶范畴中去的理念在于：我们总认为原来的信息转化到高阶范畴后处理会变得简单，如比较同调信息转化后就只是比较平移而已。
+351. 将原来范畴中的信息都试图转化到复形范畴，同伦范畴和导出范畴等一些高阶范畴中去的理念在于：我们总认为原来的信息转化到高阶范畴后处理会变得简单，如比较同调信息转化后就只是比较平移而已。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
 
-352. 处理导出函子和同调函子时常用的手段：导出函子通过拟等价转化为正常函子；同调函子转化为Hom和平移函子；截断函子Gamma实现为Hom函子形式；复形进行比较和分析时直接约化到每个分次上去。
+352. 处理导出函子和同调函子时常用的手段：导出函子通过拟等价转化为正常函子；同调函子转化为Hom和平移函子；截断函子Gamma实现为Hom函子形式；复形进行比较和分析时直接约化到每个分次上去。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
 
-353. 建立导出函子和非导出函子之间的各种交换图也是导出范畴核心内容之一，因为通过这些交换图，关于导出函子的结论和关系就可以约化到非导出函子上去，这有助于验证，因为在非导出函子层面上，往往各种态射的定义是比较具体可操作的。这也是常用的技巧和套路。
+353. 建立导出函子和非导出函子之间的各种交换图也是导出范畴核心内容之一，因为通过这些交换图，关于导出函子的结论和关系就可以约化到非导出函子上去，这有助于验证，因为在非导出函子层面上，往往各种态射的定义是比较具体可操作的。这也是常用的技巧和套路。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
 
-354. 实际处理中我们往往希望范畴对于各种运算都是封闭的，比如完备和余完备的范畴，因为我们总不希望有超出我们的控制的因素出现。但从某种程度上，我们应该为某个范畴对某种运算不封闭感到高兴，因为这意味着我们利用该范畴中的对象和该运算就可以构造出范畴之外的新对象。
+354. Daniel Murfet [The Rising Sea](http://therisingsea.org/) 主页里有许多很好的关于具有代数结构的层的Notes，这对理解层和掌握层的各种技巧和套路很有帮助。
+
+355. 实际处理中我们往往希望范畴对于各种运算都是封闭的，比如完备和余完备的范畴，因为我们总不希望有超出我们的控制的因素出现。但从某种程度上，我们应该为某个范畴对某种运算不封闭感到高兴，因为这意味着我们利用该范畴中的对象和该运算就可以构造出范畴之外的新对象。
 
 
 
