@@ -185,6 +185,14 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [夏美的萤火虫](https://www.youtube.com/watch?v=zqIDhvlCCsQ&list=PLWxOqbSJOoIGFbIHkq18utnnJU0XXU1nV&index=2)
 
+## 音乐
+
+[半杯清茶社](https://www.youtube.com/channel/UCzYJ6f4wUfZ_PyXaOm_iEZA/videos)
+
+[音乐鉴赏-周海宏老师](https://www.youtube.com/playlist?list=PLKo9vo9CCy1w3YZ4md_pB7p2Bh85QvjU5)
+
+[音乐心理学](https://www.youtube.com/results?search_query=%E9%9F%B3%E4%B9%90%E5%BF%83%E7%90%86%E5%AD%A6)
+
 
 ## 书法
 
