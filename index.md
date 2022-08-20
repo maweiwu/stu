@@ -195,6 +195,14 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [键盘 —— 坐标 ——> 数学 & 音乐 = 钢琴键盘上的数学](https://www.youtube.com/playlist?list=PLt6xeHPISLq6DlI7LkEnq9kzu9YGik8s4)
 
+[焦元溥〈古典音樂史：中古到文藝復興：很重要，但為何我們不常聽？〉](https://www.youtube.com/watch?v=0dBqyxryhHc)
+
+[焦元溥〈古典音樂史：文藝復興時期的音樂：威尼斯樂派、蒙台威爾第與歌劇誕生〉](https://www.youtube.com/watch?v=GQ08X68we9U)
+
+[焦元溥〈古典音樂史：發刊詞：古典音樂：一種清醒、恆久的藝術〉](https://www.youtube.com/watch?v=unAOJWo4ZPs)
+
+[焦元溥 〔一聽就懂的古典音樂史〕第21集 _貝多芬：掐住命運咽喉的那雙手](https://www.youtube.com/watch?v=L7I9Sr3Xskg)
+
 
 
 ## 书法
