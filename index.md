@@ -193,6 +193,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [音乐心理学](https://www.youtube.com/results?search_query=%E9%9F%B3%E4%B9%90%E5%BF%83%E7%90%86%E5%AD%A6)
 
+[键盘 —— 坐标 ——> 数学 & 音乐 = 钢琴键盘上的数学](https://www.youtube.com/playlist?list=PLt6xeHPISLq6DlI7LkEnq9kzu9YGik8s4)
+
+
 
 ## 书法
 
@@ -1112,6 +1115,11 @@ _____________________________________________________________________________
 
 355. 实际处理中我们往往希望范畴对于各种运算都是封闭的，比如完备和余完备的范畴，因为我们总不希望有超出我们的控制的因素出现。但从某种程度上，我们应该为某个范畴对某种运算不封闭感到高兴，因为这意味着我们利用该范畴中的对象和该运算就可以构造出范畴之外的新对象。
 
+356. 1. 钢琴的键盘赋予一个“坐标系”后，每个音都有唯一的一个坐标：如C，E#(升E)，Fb(降F)等；
+     2. 乐理里的每个概念和定义本质上都是在阐释某种数学模式/结构；
+     3. 音乐通过赋予坐标系后就是可以转化为数学语言来描述和研究；
+     4. 音乐 = 钢琴键盘上的数学(模式和结构)。
+     5. [键盘 —— 坐标 ——> 数学](https://www.youtube.com/playlist?list=PLt6xeHPISLq6DlI7LkEnq9kzu9YGik8s4)，2022-8-20 于汕头大学图书馆三楼。
 
 
 
