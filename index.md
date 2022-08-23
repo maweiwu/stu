@@ -204,6 +204,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [焦元溥 〔一聽就懂的古典音樂史〕第21集 _貝多芬：掐住命運咽喉的那雙手](https://www.youtube.com/watch?v=L7I9Sr3Xskg)
 
+[宋大叔教音樂 songdashu](https://www.youtube.com/c/%E5%AE%8B%E5%A4%A7%E5%8F%94%E6%95%99%E9%9F%B3%E6%A8%82songdashu/playlists)
+
 
 
 ## 书法
