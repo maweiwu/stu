@@ -1151,6 +1151,8 @@ _____________________________________________________________________________
 
 365. 做研究=抓住源数据(所有构造的源材料)+对源数据的进行提取和演化。比如考察拓扑斯的包络，(找出源数据)可表函子(Good Objects)，然后考虑这些好对象能生成哪些对象（源数据的演化）。[Mathieu Anel-The enveloping ∞-topos of a presheaf 1-topos](https://www.youtube.com/watch?v=PpfacHtBX8U)
 
+366. 拓扑斯有代数版和几何版，好比Frame版和Locale版。将拓扑斯与交换环作比较，其实比较的是代数版，而不是几何版。[Mathieu ANEL-Toposes are commutative rings](https://www.youtube.com/watch?v=wG5MZqj_JK8)
+
 
 
 
