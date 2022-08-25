@@ -1149,6 +1149,8 @@ _____________________________________________________________________________
 
 364. 由环/模出发，可以构造一个特殊的分解，Koszul分解。对于Koszul复形，有许多好的性质：如它是DG-代数(复形+代数)；从Koszul复形中可以提取各种不变量，如贝蒂数，希尔伯特多项式，庞加莱多项式等；对Koszul复形还可以进行不断调整(Tate构造)以使得某些上同调为零。利用Koszul复形和它的调整(Tate构造)可以用来刻画环的性质：如正则环，完全交环等。[Aldo Conca (University of Genova) / Koszul homology, Koszul algebras, and their syzygies II](https://www.youtube.com/watch?v=OyovNWoHozY)
 
+365. 做研究=抓住源数据+对源数据的进行提取和演化。比如考察拓扑斯的包络，(找出源数据)可表函子(Good Objects)，然后考虑这些好对象能生成哪些对象（源数据的演化）。[Mathieu Anel-The enveloping ∞-topos of a presheaf 1-topos](https://www.youtube.com/watch?v=PpfacHtBX8U)
+
 
 
 
