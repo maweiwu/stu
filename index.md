@@ -1147,7 +1147,7 @@ _____________________________________________________________________________
 
 363. 做研究就好比进行细胞分裂，找到一个原始细胞(源数据)，对原始细胞不断分裂变化(对源数据做各种变化，提取各种子数据)。所以，一要识别哪个是源数据，二要学会对源数据进行恰当的提取。如何从某个源数据出发？读文献时需要理清的问题。
 
-364. 由环/模出发，可以构造一个特殊的分解，Koszul分解。对于Koszul复形，有许多好的性质：如它是DG-代数(复形+代数)；从Koszul复形中可以提取各种不变量，如贝蒂数等；对Koszul复形还可以进行不断调整(Tate构造)以使得某些上同调为零。利用Koszul复形和它的调整(Tate构造)可以用来刻画环的性质：如正则环，完全交环等。[Aldo Conca (University of Genova) / Koszul homology, Koszul algebras, and their syzygies II](https://www.youtube.com/watch?v=OyovNWoHozY)
+364. 由环/模出发，可以构造一个特殊的分解，Koszul分解。对于Koszul复形，有许多好的性质：如它是DG-代数(复形+代数)；从Koszul复形中可以提取各种不变量，如贝蒂数，希尔伯特多项式，庞加莱多项式等；对Koszul复形还可以进行不断调整(Tate构造)以使得某些上同调为零。利用Koszul复形和它的调整(Tate构造)可以用来刻画环的性质：如正则环，完全交环等。[Aldo Conca (University of Genova) / Koszul homology, Koszul algebras, and their syzygies II](https://www.youtube.com/watch?v=OyovNWoHozY)
 
 
 
