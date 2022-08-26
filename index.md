@@ -1155,7 +1155,7 @@ _____________________________________________________________________________
 
 367. 在研究环/代数等的同调性质时，往往平凡单模是最重要的，它往往起着决定性的作用。原因在于通过张量积，可以得到任何其他模。在导出范畴中也常常考虑它的投射分解，考虑的它的分解复形的各种性质，如复形的自同态代数等。在考虑函子范畴的同调性质时，也同样考虑平凡单模。各种环的性质的同调刻画：如正则性，Koszul性等等，平凡模都起着决定性作用。
 
-368. 环+谱=环谱/E1-环，这类似于：代数+复形=DG-代数。前者经常考虑同伦群，后者通常考虑同调群。[Irakli Patchkoria-Classification of module spectra and Franke's algebraicity conjecture](https://www.youtube.com/watch?v=-YiHupBVzKE)
+368. 环+谱=环谱/E1-环（这类似于：代数+复形=DG-代数）。谱——>同伦群，复形——>同调群。[Irakli Patchkoria-Classification of module spectra and Franke's algebraicity conjecture](https://www.youtube.com/watch?v=-YiHupBVzKE)
 
 
 
