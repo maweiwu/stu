@@ -1157,6 +1157,8 @@ _____________________________________________________________________________
 
 368. 环+谱=环谱/E1-环（这类似于：代数+复形=DG-代数）。谱——>同伦群，复形——>同调群。[Irakli Patchkoria-Classification of module spectra and Franke's algebraicity conjecture](https://www.youtube.com/watch?v=-YiHupBVzKE)
 
+369. 谱上具有环结构(=环谱/E1环)好比复形上具有代数结构(=DG-代数)，所以类似于DG-代数，我们可以考虑环谱/E1环的模范畴，导出范畴，张量积等等。[An introduction to spectra](https://www.youtube.com/watch?v=x7nZ9XOqHI0&t=1204s)
+
 
 
 
