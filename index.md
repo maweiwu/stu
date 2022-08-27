@@ -1163,7 +1163,7 @@ _____________________________________________________________________________
 
 370. 谱很重要，根据Brown可表性定理，任意上同调理论(符合某些条件的到Ab的函子，如H*(-)等)都可以由一个谱表出。
 
-371. 张量三角谱/Support理论是由三角范畴的某些子理想/范畴构成的拓扑空间，子范畴的生成方式与范畴的Size有关系，所以不同的范畴大小需要不同的支撑理论。[Stratification in tt geometry with applications to spectral Mackey functors - Beren Sanders (UCSC)](https://www.youtube.com/watch?v=oNmHk6TJdjA)
+371. 张量三角谱/Support理论是由三角范畴的某些子理想/范畴构成的拓扑空间，子范畴的生成方式与范畴的Size有关系，所以不同Size的范畴需要发展不同的支撑理论。[Stratification in tt geometry with applications to spectral Mackey functors - Beren Sanders (UCSC)](https://www.youtube.com/watch?v=oNmHk6TJdjA)
 
 
 
