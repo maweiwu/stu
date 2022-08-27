@@ -143,6 +143,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Brian Conrad](http://math.stanford.edu/~conrad/) | [Li Liang](https://sites.google.com/site/lliangnju/publications) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Christopher Parker](https://web.mat.bham.ac.uk/C.W.Parker/?_ga=2.209845077.1995074698.1556376734-1617118950.1527411860) | [Inna Capdeboscq](https://warwick.ac.uk/fac/sci/maths/people/staff/inna_capdeboscq/) | [Ronald Solomon](https://math.osu.edu/people/solomon.1) | [Derek Holt](https://homepages.warwick.ac.uk/~mareg/) | [John Shareshian](https://www.math.wustl.edu/~shareshi/) | [Gareth Tracey](https://www.birmingham.ac.uk/staff/profiles/maths/tracey-gareth.aspx) | [Jan Saxl(读硕士时最喜欢数学家)](https://cameroncounts.wordpress.com/2020/05/04/jan-saxl/) |
 [Claire Amiot](https://www-fourier.ujf-grenoble.fr/~amiot/indexfr.html) | [Vipul Kakkar](http://www.curaj.ac.in/faculty/vipul-kakkar) | [Robert A Wilson](https://webspace.maths.qmul.ac.uk/r.a.wilson/homepage.html) | [Stephen Glasby](https://arxiv.org/a/glasby_s_1.html) | [Michael Giudici](https://www.researchgate.net/scientific-contributions/Michael-Giudici-14081523) | [李才恒](https://www.researchgate.net/profile/Cai-Li-12) | [Lei Wang](https://www.researchgate.net/scientific-contributions/Lei-Wang-2186305697) | [Maneesh Thakur](https://www.hri.res.in/~anlweb/academic_reports_maths/m_thakur_m/m_thakur_m.html) | [Rachel Skipper](https://sites.google.com/view/skippermath/about-me) | [Richard Lyons](https://sites.math.rutgers.edu/~lyons/) |
 [Gary Seitz](https://pages.uoregon.edu/seitz/) | [Ramji Lal](https://www.researchgate.net/profile/Ramji-Lal) | [Paul Seidel](https://math.mit.edu/~seidel/) | [Pablo Spiga](https://en.unimib.it/pablo-spiga) | [Elisa Lorenzo Garcia](https://www.europeanwomeninmaths.org/profile/elisa-lorenzo-garcia/) | [N. S. Narasimha Sastry](https://www.researchgate.net/profile/Narasimha-Sastry) | [Daniel Murfet](http://therisingsea.org/) | [Alex Lubotzky](http://www.ma.huji.ac.il/~alexlub/) | [Aldo Conca](https://www.dima.unige.it/~conca/) | [Matt Booth](http://mattbooth.info/) |
+[Beren Sanders](https://people.ucsc.edu/~beren/) |
 
 
 ## Math-life balance
@@ -1161,6 +1162,8 @@ _____________________________________________________________________________
 369. 谱上具有环结构(=环谱/E1环)好比复形上具有代数结构(=DG-代数)，所以类似于DG-代数，我们可以考虑环谱/E1环的模范畴，导出范畴，张量积等等。[An introduction to spectra](https://www.youtube.com/watch?v=x7nZ9XOqHI0&t=1204s)
 
 370. 谱很重要，根据Brown可表性定理，任意上同调理论(符合某些条件的到Ab的函子，如H*(-)等)都可以由一个谱表出。
+
+371. 张量三角谱/Support理论是由三角范畴的某些子理想/范畴构成的拓扑空间，子范畴的生成方式与范畴的Size有关系，所以不同的范畴大小需要不同的支撑理论。[Stratification in tt geometry with applications to spectral Mackey functors - Beren Sanders (UCSC)](https://www.youtube.com/watch?v=oNmHk6TJdjA)
 
 
 
