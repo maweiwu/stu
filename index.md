@@ -1165,6 +1165,8 @@ _____________________________________________________________________________
 
 371. 张量三角谱/Support理论是由三角范畴的某些子理想/范畴构成的拓扑空间，子范畴的生成方式与范畴的Size有关系，所以不同Size的范畴需要发展不同的支撑理论。[Stratification in tt geometry with applications to spectral Mackey functors - Beren Sanders (UCSC)](https://www.youtube.com/watch?v=oNmHk6TJdjA)
 
+372. 平坦函子是可表函子(终极构造材料)通过滤过余极限(构成方式)生成的。各种范畴的条件也是说明它是怎样生成的？如Accesible条件。[Tendas - Flat vs. filtered colimits](https://www.youtube.com/watch?v=hzdCWxXTnvY)
+
 
 
 
