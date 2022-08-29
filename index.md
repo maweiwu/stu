@@ -7,6 +7,8 @@ Email: mawaywoo(at)126(dot)com
 
 源数据(一切理论根植于此，发展于此！)
 
+研究纯范畴论的乐趣在于：Seeing how to things built out step by step.
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
@@ -1173,6 +1175,11 @@ _____________________________________________________________________________
 373. 读论文时，一定要落实到终极源数据上去，如看到某个范畴等价时，一定要弄清楚该等价是怎么来的：它一定是源数据经过某种方式产生的，所以找到源数据和产生方式！
 
 374. 考虑Hopf代数的原因之一是可以考虑表示的张量积。[Ken Brown | What is a Hopf algebra, and why should we care?](https://www.youtube.com/watch?v=_jLBI63DFlA)
+
+375. '''diff
+     + 研究纯粹范畴论的乐趣在于：Seeing how to things built out step by step (via all kinds of limimts and colimits). [Karol Szumilo, Infinity-groupoids in lextensive categories](https://www.youtube.com/watch?v=JjC_yNoKtHA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=25)，[Masaryk University Algebra Seminar](https://www.youtube.com/channel/UCNfIKMe4pAhlq8bLb4Z8rQQ/videos)，2022-8-29 15:14 星期一 汕头大学图书馆三楼北区4排9列3层。I LOVE PURE CATEGORIES THEORIES!
+     '''diff
+
 
 
 
