@@ -1176,7 +1176,7 @@ _____________________________________________________________________________
 
 374. 考虑Hopf代数的原因之一是可以考虑表示的张量积。[Ken Brown | What is a Hopf algebra, and why should we care?](https://www.youtube.com/watch?v=_jLBI63DFlA)
 
-375. **研究纯粹范畴论的乐趣在于：Seeing how to things built out step by step (via all kinds of limits and colimits). [Karol Szumilo, Infinity-groupoids in lextensive categories](https://www.youtube.com/watch?v=JjC_yNoKtHA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=25)，[Masaryk University Algebra Seminar](https://www.youtube.com/channel/UCNfIKMe4pAhlq8bLb4Z8rQQ/videos)，2022-8-29 15:14 星期一 汕头大学图书馆三楼北区4排9列3层。I LOVE PURE CATEGORIES THEORIES!**
+375. **研究纯粹范畴论的乐趣在于：Seeing how to things built out step by step (via all kinds of limits and colimits). [Karol Szumilo, Infinity-groupoids in lextensive categories](https://www.youtube.com/watch?v=JjC_yNoKtHA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=25)，[Masaryk University Algebra Seminar](https://www.youtube.com/channel/UCNfIKMe4pAhlq8bLb4Z8rQQ/videos)，[Ivan Di Liberti, Enriched Locally Generated Categories](https://www.youtube.com/watch?v=Lqt8skj9HmU&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=12)，2022-8-29 15:14 星期一 汕头大学图书馆三楼北区4排9列3层。I LOVE PURE CATEGORIES THEORIES!**
 
 
 
