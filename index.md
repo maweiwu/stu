@@ -148,7 +148,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Brian Conrad](http://math.stanford.edu/~conrad/) | [Li Liang](https://sites.google.com/site/lliangnju/publications) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Christopher Parker](https://web.mat.bham.ac.uk/C.W.Parker/?_ga=2.209845077.1995074698.1556376734-1617118950.1527411860) | [Inna Capdeboscq](https://warwick.ac.uk/fac/sci/maths/people/staff/inna_capdeboscq/) | [Ronald Solomon](https://math.osu.edu/people/solomon.1) | [Derek Holt](https://homepages.warwick.ac.uk/~mareg/) | [John Shareshian](https://www.math.wustl.edu/~shareshi/) | [Gareth Tracey](https://www.birmingham.ac.uk/staff/profiles/maths/tracey-gareth.aspx) | [Jan Saxl(读硕士时最喜欢数学家)](https://cameroncounts.wordpress.com/2020/05/04/jan-saxl/) |
 [Claire Amiot](https://www-fourier.ujf-grenoble.fr/~amiot/indexfr.html) | [Vipul Kakkar](http://www.curaj.ac.in/faculty/vipul-kakkar) | [Robert A Wilson](https://webspace.maths.qmul.ac.uk/r.a.wilson/homepage.html) | [Stephen Glasby](https://arxiv.org/a/glasby_s_1.html) | [Michael Giudici](https://www.researchgate.net/scientific-contributions/Michael-Giudici-14081523) | [李才恒](https://www.researchgate.net/profile/Cai-Li-12) | [Lei Wang](https://www.researchgate.net/scientific-contributions/Lei-Wang-2186305697) | [Maneesh Thakur](https://www.hri.res.in/~anlweb/academic_reports_maths/m_thakur_m/m_thakur_m.html) | [Rachel Skipper](https://sites.google.com/view/skippermath/about-me) | [Richard Lyons](https://sites.math.rutgers.edu/~lyons/) |
 [Gary Seitz](https://pages.uoregon.edu/seitz/) | [Ramji Lal](https://www.researchgate.net/profile/Ramji-Lal) | [Paul Seidel](https://math.mit.edu/~seidel/) | [Pablo Spiga](https://en.unimib.it/pablo-spiga) | [Elisa Lorenzo Garcia](https://www.europeanwomeninmaths.org/profile/elisa-lorenzo-garcia/) | [N. S. Narasimha Sastry](https://www.researchgate.net/profile/Narasimha-Sastry) | [Daniel Murfet](http://therisingsea.org/) | [Alex Lubotzky](http://www.ma.huji.ac.il/~alexlub/) | [Aldo Conca](https://www.dima.unige.it/~conca/) | [Matt Booth](http://mattbooth.info/) |
-[Beren Sanders](https://people.ucsc.edu/~beren/) | [Colva M. Roney-Dougal](http://www-groups.mcs.st-and.ac.uk/~colva/) | [Graham Manuell](https://www.researchgate.net/scientific-contributions/Graham-Manuell-2159843195) | [Peter Patzt](https://math.ou.edu/~ppatzt/) |
+[Beren Sanders](https://people.ucsc.edu/~beren/) | [Colva M. Roney-Dougal](http://www-groups.mcs.st-and.ac.uk/~colva/) | [Graham Manuell](https://www.researchgate.net/scientific-contributions/Graham-Manuell-2159843195) | [Peter Patzt](https://math.ou.edu/~ppatzt/) | [Jiří Rosický](https://www.muni.cz/en/people/2634-jiri-rosicky/publications) |
 
 
 ## Math-life balance
@@ -1183,6 +1183,8 @@ _____________________________________________________________________________
 377. 各种极限余极限都是范畴的生成方式，所以考虑函子的极限余极限保持性就是在比较范畴的生成方式。此外，函子的极限余极限保持性还意味着计算的约化。
 
 378. 高阶结构意味着增加源数据。[Christina Vasilakopoulou, Oplax Hopf Algebras](https://www.youtube.com/watch?v=64t8tfFLDFA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=10)
+
+379. Slogan: Accessible categories are usually large but always "small generated". [Jiří Rosický: Accessible Categories 16:32](https://www.youtube.com/watch?v=ATS2dTdzG0g)
 
 
 
