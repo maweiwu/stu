@@ -1182,6 +1182,8 @@ _____________________________________________________________________________
 
 377. 各种极限余极限都是范畴的生成方式，所以考虑函子的极限余极限保持性就是在比较范畴的生成方式。此外，函子的极限余极限保持性还意味着计算的约化。
 
+378. 高阶结构意味着增加源数据。[Christina Vasilakopoulou, Oplax Hopf Algebras](https://www.youtube.com/watch?v=64t8tfFLDFA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=10)
+
 
 
 
