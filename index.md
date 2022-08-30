@@ -1180,6 +1180,8 @@ _____________________________________________________________________________
 
 376. 范畴论的美就在于：它可以**构建**各种理论，理论可能很复杂，涉及代数、拓扑、几何等，但它的构建源材料却很简单，**只是对象和箭头**。[Michael Ching, Tangent infinity-categories and Goodwille calculus](https://www.youtube.com/watch?v=ggtTAlrbYZo&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=28)
 
+377. 各种极限余极限都是范畴的生成方式，所以考虑函子的极限余极限保持性就是在比较范畴的生成方式。此外，函子的极限余极限保持性还意味着计算的约化。
+
 
 
 
