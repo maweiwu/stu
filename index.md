@@ -1184,7 +1184,7 @@ _____________________________________________________________________________
 
 378. 高阶结构意味着增加源数据。[Christina Vasilakopoulou, Oplax Hopf Algebras](https://www.youtube.com/watch?v=64t8tfFLDFA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=10)
 
-379. Slogan: Accessible categories are usually large but always "small generated". [Jiří Rosický: Accessible Categories 16:32](https://www.youtube.com/watch?v=ATS2dTdzG0g)
+379. Slogan: Accessible categories are usually large but always "small generated". [Jiří Rosický: Accessible Categories 16:32](https://www.youtube.com/watch?v=ATS2dTdzG0g)，（说的还是范畴的生成方式）。
 
 
 
