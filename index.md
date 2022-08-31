@@ -1192,6 +1192,8 @@ _____________________________________________________________________________
 
 381. 看乐谱对理解音乐很有帮助，能更形象地感受到各种细微的变化。[音樂家的無聊人生 Musician Seacow](https://www.youtube.com/c/%E9%9F%B3%E6%A8%82%E5%AE%B6%E7%9A%84%E7%84%A1%E8%81%8A%E4%BA%BA%E7%94%9F) 2022-8-31 13:45
 
+382. 高阶代数和通常的代数的理论大体类似，只是高阶代数的“源数据”比较大，多了一些同伦数据。[Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=9)
+
 
 
 
