@@ -1194,6 +1194,8 @@ _____________________________________________________________________________
 
 382. 高阶代数和通常的代数的理论大体类似，只是高阶代数的“源数据”比较大，多了一些同伦数据。[Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=9)
 
+383. 借助单纯对象范畴和链复形范畴的等价(Dold-Kan correspondance)，可以比较两边范畴的“代数结构”，如左边环谱、单纯环和右边的DG-环等。[Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=13)
+
 
 
 
