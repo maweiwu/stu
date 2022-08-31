@@ -1197,6 +1197,8 @@ _____________________________________________________________________________
 383. 1. 借助单纯对象范畴和链复形范畴的等价(D-K correspondance)，可以比较两边范畴的“代数结构”，如左边环谱、单纯环和右边的DG-环等(左边是建立在单纯集范畴，是无穷范畴，所有考虑的代数高阶代数/同伦代数，右边是复形范畴，考虑的是DG-代数)。
      
      2. 高阶范畴与通常范畴的差别还在于：前者用于生成范畴的方式多了一些，如各种同伦极限和余极限。[Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=13)
+ 
+ 384. 纯范畴地去构建表示理论。[Frobenius exact symmetric tensor categories - Pavel Etingof](https://www.youtube.com/watch?v=7L06K7SL5qw&t=3290s)
 
 
 
