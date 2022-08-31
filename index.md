@@ -213,6 +213,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [宋大叔教音樂 songdashu](https://www.youtube.com/c/%E5%AE%8B%E5%A4%A7%E5%8F%94%E6%95%99%E9%9F%B3%E6%A8%82songdashu/playlists)
 
+[音樂家的無聊人生 Musician Seacow](https://www.youtube.com/c/%E9%9F%B3%E6%A8%82%E5%AE%B6%E7%9A%84%E7%84%A1%E8%81%8A%E4%BA%BA%E7%94%9F)
+
 
 
 ## 书法
