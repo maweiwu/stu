@@ -1190,7 +1190,7 @@ _____________________________________________________________________________
 
 380. 研究范畴关键和乐趣在于从简单的对象去一步步构建出范畴来。[Dualities in Local Algebra (Lecture-1) by Srikanth Iyengar](https://www.youtube.com/watch?v=hIt3Eq2bpJk&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=21)，[Thick And Localising Subcategories Of Derived Categories (Lecture-2) by Srikanth Iyengar](https://www.youtube.com/watch?v=22S6330-Ipg&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=22)，[M-Cellular Approximations (Lecture-3) by Srikanth Iyengar](https://www.youtube.com/watch?v=D8hv1NPlCxQ&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=23)，[Gorenstein Rings In Local Algebra by Srikanth Iyengar](https://www.youtube.com/watch?v=jC2RPDMdVDA&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=18)
 
-381. 看乐谱对理解音乐很有帮助，能更形象地感受到各种细微的变化。[音樂家的無聊人生 Musician Seacow](https://www.youtube.com/c/%E9%9F%B3%E6%A8%82%E5%AE%B6%E7%9A%84%E7%84%A1%E8%81%8A%E4%BA%BA%E7%94%9F)
+381. 看乐谱对理解音乐很有帮助，能更形象地感受到各种细微的变化。[音樂家的無聊人生 Musician Seacow](https://www.youtube.com/c/%E9%9F%B3%E6%A8%82%E5%AE%B6%E7%9A%84%E7%84%A1%E8%81%8A%E4%BA%BA%E7%94%9F) 2022-8-31 13:45
 
 
 
