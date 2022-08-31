@@ -7,7 +7,7 @@ Email: mawaywoo(at)126(dot)com
 
 源数据(一切理论根植于此，发展于此！)
 
-研究纯范畴论的乐趣在于：Seeing how to things built out step by step (via all kinds of limits and colimits).
+研究纯范畴论的乐趣在于：Seeing how to things build out step by step (via all kinds of limits and colimits).
 
 ## Personal information
 
@@ -1178,7 +1178,7 @@ _____________________________________________________________________________
 
 374. 考虑Hopf代数的原因之一是可以考虑表示的张量积。[Ken Brown | What is a Hopf algebra, and why should we care?](https://www.youtube.com/watch?v=_jLBI63DFlA)
 
-375. **研究纯粹范畴论的乐趣在于：Seeing how to things built out step by step (via all kinds of limits and colimits). [Karol Szumilo, Infinity-groupoids in lextensive categories](https://www.youtube.com/watch?v=JjC_yNoKtHA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=25)，[Masaryk University Algebra Seminar](https://www.youtube.com/channel/UCNfIKMe4pAhlq8bLb4Z8rQQ/videos)，[Ivan Di Liberti, Enriched Locally Generated Categories](https://www.youtube.com/watch?v=Lqt8skj9HmU&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=12)，2022-8-29 15:14 星期一 汕头大学图书馆三楼北区4排9列3层。I LOVE PURE CATEGORIES THEORIES!**
+375. **研究纯粹范畴论的乐趣在于：Seeing how to things build out step by step (via all kinds of limits and colimits). [Karol Szumilo, Infinity-groupoids in lextensive categories](https://www.youtube.com/watch?v=JjC_yNoKtHA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=25)，[Masaryk University Algebra Seminar](https://www.youtube.com/channel/UCNfIKMe4pAhlq8bLb4Z8rQQ/videos)，[Ivan Di Liberti, Enriched Locally Generated Categories](https://www.youtube.com/watch?v=Lqt8skj9HmU&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=12)，2022-8-29 15:14 星期一 汕头大学图书馆三楼北区4排9列3层。I LOVE PURE CATEGORIES THEORIES!**
 
 376. 范畴论的美就在于：它可以**构建**各种理论，理论可能很复杂，涉及代数、拓扑、几何等，但它的构建源材料却很简单，**只是对象和箭头**。[Michael Ching, Tangent infinity-categories and Goodwille calculus](https://www.youtube.com/watch?v=ggtTAlrbYZo&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=28)
 
@@ -1188,7 +1188,7 @@ _____________________________________________________________________________
 
 379. Slogan: Accessible categories are usually large but always "small generated". [Jiří Rosický: Accessible Categories 16:32](https://www.youtube.com/watch?v=ATS2dTdzG0g)，（说的还是范畴的生成方式）。更多视频：[Jiří Rosický - Combinatorial and accessible model categories](https://www.youtube.com/watch?v=mtV2jZQW-N4)，[Jiří Rosický, Towards a point free model theory](https://www.youtube.com/watch?v=Lcs9fl61pvk)，[Jiri Rosicky, Injectivity in metric enriched categories](https://www.youtube.com/watch?v=AZiJffeV3-s)，[Jiří Rosický, Metric monads](https://www.youtube.com/watch?v=otOLCik1Er0)，[Logic Webinar: Prof. Jiri Rosicky](https://www.youtube.com/watch?v=lfC_TViXcqQ)
 
-380. 研究范畴关键和乐趣在于从简单的对象去一步步构建出范畴来。[Dualities in Local Algebra (Lecture-1) by Srikanth Iyengar](https://www.youtube.com/watch?v=hIt3Eq2bpJk&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=21)，[Thick And Localising Subcategories Of Derived Categories (Lecture-2) by Srikanth Iyengar](https://www.youtube.com/watch?v=22S6330-Ipg&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=22)，[]()，[]()
+380. 研究范畴关键和乐趣在于从简单的对象去一步步构建出范畴来。[Dualities in Local Algebra (Lecture-1) by Srikanth Iyengar](https://www.youtube.com/watch?v=hIt3Eq2bpJk&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=21)，[Thick And Localising Subcategories Of Derived Categories (Lecture-2) by Srikanth Iyengar](https://www.youtube.com/watch?v=22S6330-Ipg&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=22)，[M-Cellular Approximations (Lecture-3) by Srikanth Iyengar](https://www.youtube.com/watch?v=D8hv1NPlCxQ&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=23)，[]()
 
 
 
