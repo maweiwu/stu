@@ -1205,6 +1205,8 @@ _____________________________________________________________________________
  386. 范畴的挠理论和半正交分解等本质上也是在分析范畴的构建方式。[A. Bodzenta -- Exact categories and abelian envelopes](https://www.youtube.com/watch?v=CBZ9SfZ0ngE)
  
  387. 同调维数本质上也是在分析范畴中各对象的构建方式，如整体维数有限意味着可以通过投射模经过有限步的“同调算子”构建出相关对象。[The singularity category of an exact category. Applications - Sergio Estrada](https://www.youtube.com/watch?v=wYQSfWAzy-Y)
+ 
+ 388. 利用不同的极限、余极限和导出函子(如Img, Ker, Cok, Ext等)可以构建各种不同的子范畴。[Computing various objects of an algebra from the poset of torsion classes Part I](https://www.youtube.com/watch?v=xH-ZlbSuhb0)
 
 
 
