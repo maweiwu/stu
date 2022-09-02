@@ -99,7 +99,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Philosophy](https://www.youtube.com/channel/UC4Ub4r8h7auWF7Hud4z_C0w/videos) | [quantum symmetry_Sarah Witherspoon](https://www.youtube.com/playlist?list=PLanmN44VwT5sJhKa_xlVkBglXkBGiHS8M) | [Koszul algebras_Aldo Conca](https://www.youtube.com/results?search_query=Aldo+Conca) |
 [IWoAT 2022-Infinity Category](https://www.youtube.com/playlist?list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy) | [Category Theory CT20->21](https://www.youtube.com/channel/UClruKBrlCOYmrzImohpE8kg/videos) | [AfMS aims at a weekly seminar for the whole of Africa](https://www.youtube.com/playlist?list=PLfXuF43MZZInpSmJubrafbWbLXfFVTPjN) |
 [TAPIRS(Rep. Stab.)](https://www.youtube.com/channel/UC8r1uLCt41RlIf05RQFdJJA/videos) | [Masaryk University Algebra Seminar](https://www.youtube.com/playlist?list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F) | [The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA) |
-[String Applet(An interactive tool for computations with special biserial algebras, string algebras, and gentle algebras)](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/) |
+[String Applet (An interactive tool for computations with special biserial algebras, string algebras, and gentle algebras)](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/) |
 
 
 
@@ -1208,6 +1208,9 @@ _____________________________________________________________________________
  387. 同调维数本质上也是在分析范畴中各对象的构建方式，如整体维数有限意味着可以通过投射模经过有限步的“同调算子”构建出相关对象。[The singularity category of an exact category. Applications - Sergio Estrada](https://www.youtube.com/watch?v=wYQSfWAzy-Y)
  
  388. 利用不同的极限、余极限和导出函子(如Img, Ker, Cok, Ext等)可以构建各种不同的子范畴，即按不同方式生成的子范畴。[Computing various objects of an algebra from the poset of torsion classes Part I](https://www.youtube.com/watch?v=xH-ZlbSuhb0)
+ 
+ 389. 模范畴的计算软件：[String Applet (An interactive tool for computations with special biserial algebras, string algebras, and gentle algebras)](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/), [The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA&t=914s)。【哥哥和二姐闹矛盾了，一地鸡毛的一天，2022-9-2 11:41】 
+
 
 
 
