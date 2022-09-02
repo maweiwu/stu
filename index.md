@@ -1210,6 +1210,8 @@ _____________________________________________________________________________
  388. 利用不同的极限、余极限和导出函子(如Img, Ker, Cok, Ext等)可以构建各种不同的子范畴，即按不同方式生成的子范畴。[Computing various objects of an algebra from the poset of torsion classes Part I](https://www.youtube.com/watch?v=xH-ZlbSuhb0)
  
  389. 模范畴的计算软件：[String Applet (An interactive tool for computations with special biserial algebras, string algebras, and gentle algebras)](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/), [The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA&t=914s)。【哥哥和二姐闹矛盾了，一地鸡毛的一天，2022-9-2 11:41】 
+ 
+ 390. 有限表现范畴的大量例子。[An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo)
 
 
 
