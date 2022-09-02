@@ -1211,7 +1211,9 @@ _____________________________________________________________________________
  
  389. 模范畴的计算软件：[String Applet (An interactive tool for computations with special biserial algebras, string algebras, and gentle algebras)](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/), [The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA&t=914s)。【哥哥和二姐闹矛盾了，一地鸡毛的一天，2022-9-2 11:41】 
  
- 390. 局部表现范畴存在大量的例子，对于这类范畴，它的生成方式是：表现对象的余极限。表现范畴是指可以用某些对象表示出来的范畴(表示为某些对象的余极限)，这些表现对象的Cardinalty可以是有限，可以是其他Cardinality lamda等。表现对象好比是范畴的“生成元”，Carndinality好比是“生成元”的数量。[An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo)
+ 390. 局部表现范畴存在大量的例子，对于这类范畴，它的生成方式是：表现对象的余极限。表现范畴是指可以用某些对象表示出来的范畴(表示为某些对象的余极限)，这些表现对象的Cardinalty可以是有限，可以是其他Cardinality lamda等。表现对象好比是范畴的“生成元”，Carndinality好比是“生成元”的数量。局部表现范畴具有许多好的性质。[An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo)
+ 
+ 391. 对于极限和余极限的指标范畴的限制可以是结构上的和数量Cardinality上的，前者如滤过余极限，后者如Lammda余极限。
 
 
 
