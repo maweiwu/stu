@@ -1218,6 +1218,8 @@ _____________________________________________________________________________
  390. 局部表现范畴存在大量的例子，对于这类范畴，它的生成方式是：表现对象的余极限。表现范畴是指可以用某些对象表示出来的范畴(表示为某些对象的余极限)，这些表现对象的Cardinalty可以是有限，可以是其他Cardinality lamda等。表现对象好比是范畴的“生成元”，Carndinality好比是“生成元”的数量。局部表现范畴具有许多好的性质。[An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo)
  
  391. 对于极限和余极限的指标范畴的限制可以是结构上的和数量Cardinality上的，前者如滤过余极限，后者如Lammda余极限。
+ 
+ 392. 凝聚模和拟凝聚模本质上也是在说它的(通过正则模)生产方式(某种有限的方式)，而层则是将许多不同的环的模粘在一起，所以层的凝聚和拟凝聚性比较复杂，它需要局部地看用于粘接的各个环的模的凝聚性和拟凝聚性。[Schemes 31: Coherent sheaves](https://www.youtube.com/watch?v=_CQbjkDHLLI)
 
 
 
