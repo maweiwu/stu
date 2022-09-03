@@ -188,6 +188,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Toronto](https://tunein.com/radio/Stream-Toronto-r100597/)
 
+## 看论文时的古典音乐
+
+[Peaceful Classical Music | Bach, Mozart, Debussy...](https://www.youtube.com/watch?v=lA7TTnZhjdY)
+
 ## 电影
 
 [不求上进的玉子](https://www.youtube.com/watch?v=-1-GTm5mo4g)
