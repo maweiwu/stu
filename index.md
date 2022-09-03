@@ -220,6 +220,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [音樂家的無聊人生 Musician Seacow](https://www.youtube.com/c/%E9%9F%B3%E6%A8%82%E5%AE%B6%E7%9A%84%E7%84%A1%E8%81%8A%E4%BA%BA%E7%94%9F)
 
+[叨叨冯聊音乐](https://www.youtube.com/channel/UCyh_y1SIGj_cUqMeoewO5_w)
+
 
 
 ## 书法
