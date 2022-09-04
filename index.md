@@ -1234,6 +1234,8 @@ _____________________________________________________________________________
  397. 伴随函子的存在性定理的条件是为了保证我们可以构建出伴随函子来。[What is...the adjoint functor theorem?](https://www.youtube.com/watch?v=fB9VOxJMGKY)
  
  398. 关于极限和余极限的交换性问题的简单例子。[Rings 13 Colimits and exactness](https://www.youtube.com/watch?v=cDrQpDXCGI4)
+ 
+ 399. 研究范畴的关键和乐趣就在于弄清楚它的构建和生成方式。[VCAS: Getting a module from another and classifying resolving subcategories](https://www.youtube.com/watch?v=nAmfmgUy82E&list=PLR3C3NSCyhZQpbBojrPraMrunr6axdEDs&index=9)
 
 
 
