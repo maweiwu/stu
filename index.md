@@ -1238,6 +1238,8 @@ _____________________________________________________________________________
  399. 研究范畴的关键和乐趣就在于弄清楚它的构建和生成方式。[VCAS: Getting a module from another and classifying resolving subcategories](https://www.youtube.com/watch?v=nAmfmgUy82E&list=PLR3C3NSCyhZQpbBojrPraMrunr6axdEDs&index=9)
  
  400. 箭图表示的例子，箭图的表示的数据 = 一堆向量空间 + 匹配性条件(这点很容易被忽略，往往也是考虑的关键)。[Quiver Representations, Gabriel's Theorem, and Morita Equivalence (Zoom for Thought 03/09/21)](https://www.youtube.com/watch?v=JhLeAf_AlLA&t=157s)
+ 
+ 401. 几乎可裂序列等本质上也是在分析范畴中的对象的某种生成方式。[肖杰-学习代数表示论的一点心得体会](https://www.bilibili.com/video/BV1yv411b7dD?from=search&seid=16184737301564000848)
 
 
 
