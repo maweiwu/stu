@@ -1236,6 +1236,8 @@ _____________________________________________________________________________
  398. 关于极限和余极限的交换性问题的简单例子。[Rings 13 Colimits and exactness](https://www.youtube.com/watch?v=cDrQpDXCGI4)
  
  399. 研究范畴的关键和乐趣就在于弄清楚它的构建和生成方式。[VCAS: Getting a module from another and classifying resolving subcategories](https://www.youtube.com/watch?v=nAmfmgUy82E&list=PLR3C3NSCyhZQpbBojrPraMrunr6axdEDs&index=9)
+ 
+ 400. 箭图表示的例子，箭图的表示的数据 = 一堆向量空间 + 匹配性条件(这点很容易被忽略，往往也是考虑的关键)。[Quiver Representations, Gabriel's Theorem, and Morita Equivalence (Zoom for Thought 03/09/21)](https://www.youtube.com/watch?v=JhLeAf_AlLA&t=157s)
 
 
 
