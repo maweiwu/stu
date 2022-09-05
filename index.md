@@ -266,6 +266,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [国画教学](https://www.youtube.com/channel/UC6_nh3dpQG5V9MhOFd2Srvg)
 
+## 手机维修
+
+[NorthridgeFix](https://www.youtube.com/c/NorthridgeFix/videos)
+
 
 ## French learning (math SGA)
 
