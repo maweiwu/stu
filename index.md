@@ -1257,6 +1257,8 @@ _____________________________________________________________________________
 
 405. **拓扑斯(范畴)还可以去构建(我觉得用构建比用模拟这个词更能体现拓扑斯/范畴的强大，Model Theory中经常会说某Theory在某拓扑斯/范畴中的Model，用拓扑斯/范畴可以构建Theory的模型)语言、数字、逻辑。FUN！一步步构建出新事物来是一件很有趣的事。**[Jean BÉNABOU - Very, almost, and so on, ...](https://www.youtube.com/watch?v=_7uONqXQvp8&t=1374s)
 
+406. Type Theory和拓扑斯一样，美妙之处在于它的构建功能，如构建宇宙。所有Homotopy Type Theory和拓扑斯、范畴一样，乐趣在于使用它的构建能力。[Andrew Pitts - Models of Univalence in Toposes](https://www.youtube.com/watch?v=kfS_RSBP8u4&list=PLh_3Q6ZRqWs0LBptMGClJ8OArR0fBT6Pp&index=17&t=541s)
+
 
 
 
