@@ -1255,7 +1255,7 @@ _____________________________________________________________________________
 
 404. 范畴论的图追踪是另一个体现范畴乐趣的例子，因为它实际上也是在构建，只是此时构建的不是对象，而是态射。
 
-405. **拓扑斯(范畴)还可以去构建语言、数字。FUN！一步步构建出新事物来是一件很有趣的事。**[Jean BÉNABOU - Very, almost, and so on, ...](https://www.youtube.com/watch?v=_7uONqXQvp8&t=1374s)
+405. **拓扑斯(范畴)还可以去构建(我觉得用构建比用模拟这个词更能体现拓扑斯/范畴的强大，Model Theory中经常会说某Theory在某拓扑斯/范畴中的Model，用拓扑斯/范畴可以构建Theory的模型)语言、数字、逻辑。FUN！一步步构建出新事物来是一件很有趣的事。**[Jean BÉNABOU - Very, almost, and so on, ...](https://www.youtube.com/watch?v=_7uONqXQvp8&t=1374s)
 
 
 
