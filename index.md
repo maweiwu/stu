@@ -1259,6 +1259,8 @@ _____________________________________________________________________________
 
 406. Type Theory和拓扑斯一样，美妙之处在于它的构建功能，如构建宇宙。所有Homotopy Type Theory和拓扑斯、范畴一样，乐趣在于使用它的构建能力。[Andrew Pitts - Models of Univalence in Toposes](https://www.youtube.com/watch?v=kfS_RSBP8u4&list=PLh_3Q6ZRqWs0LBptMGClJ8OArR0fBT6Pp&index=17&t=541s)
 
+407. 模的各种有限性条件：有限维、有限长、有限表现、有限生成、凝聚、拟凝聚等，其本质上也是描述模是如何生成、构建的。Artinian，Noetheian条件也是如此，比有限维更一般的概念。
+
 
 
 
