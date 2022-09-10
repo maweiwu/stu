@@ -1261,6 +1261,8 @@ _____________________________________________________________________________
 
 407. 模的各种有限性条件：有限维、有限长、有限表现、有限生成、凝聚、拟凝聚等，其本质上也是描述模是如何生成、构建的。Artinian，Noetheian条件也是如此，比有限维更一般的概念。
 
+408. 各种态射的复杂定义其实本质上也是在阐释对象间的生成关系：如 Recall that a morphism f : Y → X is called an effective epimorphism provided Y ×X Y exists, f is an epimorphism and c : Coeq (Y ×X Y −→−→ Y ) → X is an isomorphism. 说的就是X可以由Y通过积和余等化子来生成。所以范畴论中的核心想法就是：怎样构建所有的东西。
+
 
 
 
