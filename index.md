@@ -1261,7 +1261,7 @@ _____________________________________________________________________________
 
 407. 模的各种有限性条件：有限维、有限长、有限表现、有限生成、凝聚、拟凝聚等，其本质上也是描述模是如何生成、构建的。Artinian，Noetheian条件也是如此，比有限维更一般的概念。
 
-408. 各种态射的复杂定义其实本质上也是在阐释对象间的生成关系：如[Covers in the Canonical Grothendieck Topology](https://github.com/mawaywoo/stu/blob/mawaywoo/Covers%20in%20the%20Canonical%20Grothendieck%20Topology.pdf) Recall that a morphism f : Y → X is called an effective epimorphism provided Y ×X Y exists, f is an epimorphism and c : Coeq (Y ×X Y −→−→ Y ) → X is an isomorphism。说的就是X可以由Y通过拉回和余等化子来构建。所以范畴论中的核心想法就是：怎样构建所有的东西。
+408. 各种态射的复杂定义其实本质上也是在阐释对象间的生成关系：如[Covers in the Canonical Grothendieck Topology](https://github.com/mawaywoo/stu/blob/mawaywoo/Covers%20in%20the%20Canonical%20Grothendieck%20Topology.pdf) Recall that a morphism f : Y → X is called an effective epimorphism provided Y ×X Y exists, f is an epimorphism and c : Coeq (Y ×X Y −→−→ Y ) → X is an isomorphism。说的就是X可以由Y通过拉回和余等化子来构建。此外，X的Colim筛S也是说X可以由S通过Colimit构建出来。所以范畴论中的核心想法就是：怎样构建所有的东西。
 
 409. **范畴论目的之一就是：Build Things。** 带着这个想法去读文献会轻松许多。
 
