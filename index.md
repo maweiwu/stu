@@ -224,6 +224,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [叨叨冯聊音乐](https://www.youtube.com/channel/UCyh_y1SIGj_cUqMeoewO5_w)
 
+[HappyKeroMusic](https://www.youtube.com/channel/UCXwExSLMSpQUiFijSujdZiA/videos)
+
 
 
 ## 书法
