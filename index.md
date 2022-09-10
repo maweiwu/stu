@@ -1263,6 +1263,8 @@ _____________________________________________________________________________
 
 408. 各种态射的复杂定义其实本质上也是在阐释对象间的生成关系：如 Recall that a morphism f : Y → X is called an effective epimorphism provided Y ×X Y exists, f is an epimorphism and c : Coeq (Y ×X Y −→−→ Y ) → X is an isomorphism。说的就是X可以由Y通过积和余等化子来构建。所以范畴论中的核心想法就是：怎样构建所有的东西。
 
+409. **范畴论目的之一就是：Build Things。** 带着这个想法去读文献会轻松许多。
+
 
 
 
