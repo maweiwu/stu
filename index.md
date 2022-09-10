@@ -1275,6 +1275,8 @@ _____________________________________________________________________________
 
 410. Giraud定理本质上就是在阐释Grothendieck拓扑斯里所具有的各种构建对象的方式以及构建方式间的关系。[Covers in the Canonical Grothendieck Topology](https://github.com/mawaywoo/stu/blob/mawaywoo/Covers%20in%20the%20Canonical%20Grothendieck%20Topology.pdf) 
 
+411. 代数K-理论将正合列和可裂正合列等同起来，都被模掉。所以代数K-理论=把(不可裂的)正合列可裂化。[Introduction to Algebraic K-Theory (Lecture 1)](https://www.youtube.com/watch?v=Kagy_cX4hDs)
+
 
 
 
