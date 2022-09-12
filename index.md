@@ -1279,6 +1279,8 @@ _____________________________________________________________________________
 
 411. 代数K-理论将正合列和可裂正合列等同起来，都被模掉。所以代数K-理论=把(不可裂的)正合列可裂化。[Introduction to Algebraic K-Theory (Lecture 1)](https://www.youtube.com/watch?v=Kagy_cX4hDs)
 
+412. 如何看Type Theory和范畴论：看它如何一步步Build Things的。[On Voevodsky's univalence principle - André Joyal](https://www.youtube.com/watch?v=HRBShaxIblI&t=45s)
+
 
 
 
