@@ -1281,6 +1281,8 @@ _____________________________________________________________________________
 
 412. 如何看Type Theory和范畴论：看它如何一步步Build Things的。[On Voevodsky's univalence principle - André Joyal](https://www.youtube.com/watch?v=HRBShaxIblI&t=45s), [A cartesian closed category of algebraic theories André Joyal](https://www.youtube.com/watch?v=BO6jh2VC_mE)
 
+413. 粗略地说，一般的Galois对应就是建立作用对象(的某些子对象)与被作用对象(的扩张)之间的某种对应。这里的Galois理论不局限于经典的域的情形，可以是其他的更一般的Galois理论，如Hopf Galois Theory等。此时Hopf作用在代数上平行于群作用在域上，代数扩张平行于域的扩张。见SUSAN MONTGOMERY的工作。
+
 
 
 
