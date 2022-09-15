@@ -1283,6 +1283,8 @@ _____________________________________________________________________________
 
 413. 粗略地说，一般的Galois对应就是建立作用对象(的某些子对象)与被作用对象(的扩张)之间的某种对应。这里的Galois理论不局限于经典的域的情形，可以是其他的更一般的Galois理论，如Hopf Galois Theory等。此时Hopf作用在代数上平行于群作用在域上，代数扩张平行于域的扩张。见SUSAN MONTGOMERY的工作。
 
+414. 逻辑的乐趣在于用字符构建字符。[Axiomatic Set Theory. Lecture 2](https://www.youtube.com/watch?v=qWDz1WmsSBo&list=PLt9lM2M6C7wMIgEU9tqsejAnVKwtzSLJO&index=45)
+
 
 
 
