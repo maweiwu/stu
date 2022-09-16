@@ -1285,7 +1285,9 @@ _____________________________________________________________________________
 
 414. 逻辑的乐趣在于用字符去定义字符、用字符去构建字符。[Axiomatic Set Theory. Lecture 2](https://www.youtube.com/watch?v=qWDz1WmsSBo&list=PLt9lM2M6C7wMIgEU9tqsejAnVKwtzSLJO&index=45)
 
-415. one and first, cardinal and orsinal, 数量和位置，在无穷的情形下，**总数加一和位置加一效果是不一样的。** 位置比总数更敏感。对于ordinal，构建它的方式有加法、乘法、幂运算(增加位置的方式)。[Cardinals and ordinals, part 1](https://www.youtube.com/watch?v=CKNLZroBpsM), [Cardinals and ordinals, part 2](https://www.youtube.com/watch?v=nsE5uwOg1ck)
+415. One and first, cardinal and orsinal, 数量和位置，在无穷的情形下，**总数加一和位置加一效果是不一样的。** 位置比总数更敏感。对于ordinal，构建它的方式有加法、乘法、幂运算(增加位置的方式)。[Cardinals and ordinals, part 1](https://www.youtube.com/watch?v=CKNLZroBpsM), [Cardinals and ordinals, part 2](https://www.youtube.com/watch?v=nsE5uwOg1ck)
+
+416. Grothendieck Universe之所以称为Universe，是因为它可以让我们**构建**许多东西。[Grothendieck Conference - Mike Shulman](https://www.youtube.com/watch?v=9MLQDOpy190)
 
 
 
