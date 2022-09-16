@@ -1289,6 +1289,9 @@ _____________________________________________________________________________
 
 416. Grothendieck Universe之所以称为Universe，是因为它可以让我们**构建**许多东西。[Grothendieck Conference - Mike Shulman](https://www.youtube.com/watch?v=9MLQDOpy190)
 
+417. Type Theory的乐趣在于：用某些Type去一步步**定义和构建**其他Type。[Towards elementary infinity-toposes - Michael Shulman](https://www.youtube.com/watch?v=ld4YL787dAk&t=1804s)
+
+
 
 
 
