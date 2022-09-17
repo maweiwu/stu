@@ -1291,7 +1291,7 @@ _____________________________________________________________________________
 
 417. Type Theory的乐趣在于：用某些Type去一步步**定义和构建**其他Type。[Towards elementary infinity-toposes - Michael Shulman](https://www.youtube.com/watch?v=ld4YL787dAk&t=1804s)
 
-418. Pure对象以及Brown可表性定理等都是为了使得函子范畴的某些性质或对象基本上可以由定义域范畴中的对象决定，即完全可以约化到定义域范畴，所考虑的函子范畴中信息不会多于定义域范畴中的信息。相当于对函子范畴的某种限制条件，希望在比较好的(能被定义域范畴“控制”)函子范畴中去考虑问题。[cohenrent functors](https://github.com/mawaywoo/stu/blob/mawaywoo/COHERENT%20FUNCTORS%20IN%20STABLE%20HOMOTOPY%20THEORY.pdf)
+418. Pure对象以及Brown可表性定理等都是为了使得函子范畴的某些性质或对象基本上可以由定义域范畴中的对象决定，即完全可以约化到定义域范畴，所考虑的函子范畴中信息不会多于定义域范畴中的信息。相当于对函子范畴的某种限制条件，希望在比较好的(**能被定义域范畴“控制”**)函子范畴中去考虑问题。[cohenrent functors](https://github.com/mawaywoo/stu/blob/mawaywoo/COHERENT%20FUNCTORS%20IN%20STABLE%20HOMOTOPY%20THEORY.pdf)
 
 
 
