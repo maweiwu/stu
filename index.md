@@ -1302,6 +1302,9 @@ _____________________________________________________________________________
 
 421. 凝聚函子。结合418,419,420中对函子范畴的理解。[Alex Martsinkovsky --- A Reflector in Search of a Category](https://www.youtube.com/watch?v=CaQO3H3iHy8&t=255s)，[Alex Martsinkovsky](https://www.youtube.com/results?search_query=Alex+Martsinkovsky)
 
+422. 一般的加法函子可以考虑它与0次导出函子的核和余核(也可以通过定义域范畴的对象产生的函子，如Tr(-), D(-), Ext^1(-,-)的组合。[Alex Martsinkovsky](https://www.youtube.com/results?search_query=Alex+Martsinkovsky)
+
+
 
 
 
