@@ -1297,6 +1297,9 @@ _____________________________________________________________________________
 
 419. 如何利用定义域范畴去研究函子范畴：用定义域范畴中的对象可以**构建**许多函子范畴中的对象，如用对象C可以构建函子Hom(-,C), C tensor -, Ext^i(-,C), Tor_i(-,C)等，再利用这些函子去刻画函子范畴中的其他更一般的函子。这些函子是函子范畴和定义域范畴的沟通桥梁，函子范畴的各种性质一般要**约化**到定义域范畴中的对象去考察,一般的函子要考虑将其约化到由定义域范畴中的对象产生的函子上去。[Coherent Functors_auslander1966](https://github.com/mawaywoo/stu/blob/mawaywoo/Coherent%20Functors_auslander1966.pdf)
 
+420. 给定一个短正合列，通常会考虑它所诱导的长正合列。这其实可以看成是给定一个短正合列，我们考虑由短正合列的各对象C所产生的函子Hom(-,C), Ext^i(-,C)等之间的关系。**将定义域范畴中的对象的正合列提升到函子范畴中去看。** [Coherent Functors_auslander1966](https://github.com/mawaywoo/stu/blob/mawaywoo/Coherent%20Functors_auslander1966.pdf)
+
+
 
 
 
