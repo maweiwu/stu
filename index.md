@@ -1300,7 +1300,7 @@ _____________________________________________________________________________
 
 420. 给定一个短正合列，通常会考虑它所诱导的长正合列。这其实可以看成是给定一个短正合列，我们考虑由短正合列的各对象C所产生的函子Hom(-,C), Ext^i(-,C)等之间的关系。**将定义域范畴中的对象的正合列提升到函子范畴中去看。** [Coherent Functors_auslander1966](https://github.com/mawaywoo/stu/blob/mawaywoo/Coherent%20Functors_auslander1966.pdf)
 
-421. 凝聚函子。[Alex Martsinkovsky --- A Reflector in Search of a Category](https://www.youtube.com/watch?v=CaQO3H3iHy8&t=255s)，[Alex Martsinkovsky](https://www.youtube.com/results?search_query=Alex+Martsinkovsky)
+421. 凝聚函子。结合418,419,420中对函子范畴的理解。[Alex Martsinkovsky --- A Reflector in Search of a Category](https://www.youtube.com/watch?v=CaQO3H3iHy8&t=255s)，[Alex Martsinkovsky](https://www.youtube.com/results?search_query=Alex+Martsinkovsky)
 
 
 
