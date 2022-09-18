@@ -100,7 +100,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [IWoAT 2022-Infinity Category](https://www.youtube.com/playlist?list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy) | [Category Theory CT20->21](https://www.youtube.com/channel/UClruKBrlCOYmrzImohpE8kg/videos) | [AfMS aims at a weekly seminar for the whole of Africa](https://www.youtube.com/playlist?list=PLfXuF43MZZInpSmJubrafbWbLXfFVTPjN) |
 [TAPIRS(Rep. Stab.)](https://www.youtube.com/channel/UC8r1uLCt41RlIf05RQFdJJA/videos) | [Masaryk University Algebra Seminar](https://www.youtube.com/playlist?list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F) | [The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA) |
 [String Applet (An interactive tool for computations with special biserial algebras, string algebras, and gentle algebras)](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/) | [An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo) | [Leavitt path algebra](https://www.youtube.com/playlist?list=PLi3i2WCOoL7uFRI7rktpqQZ-1EDTXtVt-) |
-[Scholar Mate 科研之友](https://www.scholarmate.com/psnweb/outside/homepage?des3PsnId=kcqLkl7bTghgpI57QFs3NA%3D%3D&module=pub) |
+[Scholar Mate 科研之友](https://www.scholarmate.com/psnweb/outside/homepage?des3PsnId=kcqLkl7bTghgpI57QFs3NA%3D%3D&module=pub) | [Kyiv Algebra 60](https://www.youtube.com/playlist?list=PLTqo_vr6Gq0HuJB9TV_bkLWsp80roSmEy) |
 
 
 
