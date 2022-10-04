@@ -1322,6 +1322,8 @@ _____________________________________________________________________________
 
 430. syntactic category中的对象{x | \phi(x)}可以理解为满足性质\phi的集合X，各种态射可以理解为满足不同性质的集合间的映射。从集合的角度可以更好地理解语法范畴的**构建**。[Classifying topoi and finite forcing](https://github.com/mawaywoo/stu/blob/mawaywoo/Classifying%20topoi%20and%20finite%20forcing.pdf)
 
+431. DG-范畴和一般范畴的区别在于：前者的态射空间不是杂乱无序的，而是有结构的，即可以整齐地进行分层，而且层与层之间有微分作联结；一般范畴的态射空间则是杂乱无序的，并非**结构工整的**。
+
 
 
 
