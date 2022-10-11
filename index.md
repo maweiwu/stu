@@ -1326,7 +1326,7 @@ _____________________________________________________________________________
 
 432. 范畴论的魅力在于它的**构建**功能。[Colin McLarty : « Grothendieck’s two intuitions of topos : with reference to Serre and Deligne ».](https://www.youtube.com/watch?v=XZXeSfaozXI)
 
-433. MB语言(密文，无意义的符号) ————> Interpretation(解码，**按照一定的规则(集合的观点去看，拓扑斯的对象看成是集合，密文描述的是集合所满足的性质)**) ————> 拓扑斯中的箭头和对象(译文，有意义)。这基本上就是一个间谍的工作，最重要的是**掌握解码规则**。项、公式等是构建语言(密文)的部分。公式中的Context表示在哪个集合中取满足性质(公式所描述的性质)的子集，所以Context很重要。[Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=1430s)。解码工作是很有趣的。2022-10-11 10:18 星期二 汕头大学图书馆三楼北区。
+433. MB语言(密文，无意义的符号) ————> Interpretation(解码，**按照一定的规则(集合的观点去看，拓扑斯的对象看成是集合，密文描述的是集合所满足的性质)**) ————> 拓扑斯中的箭头和对象(译文，有意义)。这基本上就是一个间谍的工作，最重要的是**掌握解码规则**。项、公式等是构建语言(密文)的部分。公式中的Context表示在哪个集合中取满足性质(公式所描述的性质)的子集，所以Context很重要。公式的蕴含关系 ———— 通过解码 ————> 对象(Extention)的包含关系。[Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=1430s)。解码工作是很有趣的。2022-10-11 10:18 星期二 汕头大学图书馆三楼北区。
 
 
 
