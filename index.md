@@ -1326,7 +1326,7 @@ _____________________________________________________________________________
 
 432. 范畴论的魅力在于它的**构建**功能。[Colin McLarty : « Grothendieck’s two intuitions of topos : with reference to Serre and Deligne ».](https://www.youtube.com/watch?v=XZXeSfaozXI)
 
-433. MB语言(密文，无意义的符号) ————> Interpretation(解码，按照一定的规则) ————> 拓扑斯中的箭头和对象(译文，有意义)。[Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=1430s)
+433. MB语言(密文，无意义的符号) ————> Interpretation(解码，**按照一定的规则(集合的观点去看，拓扑斯的对象看成是集合，密文描述的是集合所满足的性质)**) ————> 拓扑斯中的箭头和对象(译文，有意义)。[Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=1430s)
 
 
 
