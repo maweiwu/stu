@@ -1328,7 +1328,7 @@ _____________________________________________________________________________
 
 433. MB语言(密文，无意义的符号) ————> Interpretation(解码，**按照一定的规则(集合的观点去看，拓扑斯的对象看成是集合，密文描述的是集合所满足的性质)**) ————> 拓扑斯中的箭头和对象(译文，有意义)。这基本上就是一个间谍的工作，最重要的是**掌握解码规则**。项、公式等是构建语言(密文)的部分。公式中的Context表示在哪个集合中取满足性质(公式所描述的性质)的子集，所以Context很重要。公式的蕴含关系 ———— 通过解码 ————> 对象(Extention)的包含关系(**这在验证公式的演绎推理的准确性中起着重要作用**)。[Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=1430s)。解码工作是很有趣的。2022-10-11 10:18 星期二 汕头大学图书馆三楼北区。
 
-434. Type Theory(和MB语言等)看起来很抽象，实际上**每一句(Gamma |- A)写下的都是一个类似于“设Gamma则A”的数学结论**(只是没有解码的密文看起来比较丑陋而已)，构建各种Type实际上就是在建立这些数学结论之间的关系了。[Emily Riehl: On the ∞-topos semantics of homotopy type theory: categorial semantics... - Lecture 1](https://www.youtube.com/watch?v=PejZfl5kOlU&t=1467s)
+434. Type Theory(和MB语言等)看起来很抽象，实际上**每一句(Gamma |- A)写下的都是一个类似于“设Gamma则A”的数学结论**(只是没有解码的密文看起来比较丑陋而已)，构建各种Type实际上就是在建立这些数学结论之间的关系了。所以**每一个Type Theory的句子不是毫无意义的符号，事实上它已经编码了一个数学结论，认识到这点，才能感受到Type Theory的每个句子的重要性**。[Emily Riehl: On the ∞-topos semantics of homotopy type theory: categorial semantics... - Lecture 1](https://www.youtube.com/watch?v=PejZfl5kOlU&t=1467s)
 
 
 
