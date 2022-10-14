@@ -1330,7 +1330,7 @@ _____________________________________________________________________________
 
 434. Type Theory(和MB语言等)看起来很抽象，实际上**每一句(Gamma |- A)写下的都是一个类似于“设Gamma则A”的数学结论**(只是没有解码的密文看起来比较丑陋而已)，构建各种Type实际上就是在建立这些数学结论之间的关系了。所以**每一个Type Theory的句子不是毫无意义的符号，事实上它已经编码了一个数学结论，认识到这点，才能感受到Type Theory的每个句子的重要性**。[Emily Riehl: On the ∞-topos semantics of homotopy type theory: categorial semantics... - Lecture 1](https://www.youtube.com/watch?v=PejZfl5kOlU&t=1467s)
 
-435. Type Theory(或MB语言)的作用就是**把“设...则...”的数学结论转译为抽象的符号语言“Gamma |- A”(由此可见每一句Type Theory的句子是多么重要！)**，所有都转化之后，**数学结论的推导就变成了符号语言的“逻辑计算”**。2022-10-14 14:54
+435. Type Theory(或MB语言)的作用就是**把“设...则...”的数学结论转译为抽象的符号语言“Gamma |- A”(由此可见每一句Type Theory的句子是多么重要！)**，所有都转化之后，**数学结论的推导就变成了符号语言的“逻辑计算”**。Type Theory的句子“Gamma |- A”**前面的Context就是条件，后面的A就是结论(平时就需要这样去理解和阅读Type Theory的每个句子)**。整个句子就是数学结论“如果/设...则...”。[Emily Riehl: On the ∞-topos semantics of homotopy type theory: categorial semantics... - Lecture 1](https://www.youtube.com/watch?v=PejZfl5kOlU&t=1467s)2022-10-14 14:54
 
 
 
