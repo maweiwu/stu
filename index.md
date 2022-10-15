@@ -102,6 +102,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [String Applet (An interactive tool for computations with special biserial algebras, string algebras, and gentle algebras)](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/) | [An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo) | [Leavitt path algebra](https://www.youtube.com/playlist?list=PLi3i2WCOoL7uFRI7rktpqQZ-1EDTXtVt-) |
 [Scholar Mate 科研之友](https://www.scholarmate.com/psnweb/outside/homepage?des3PsnId=kcqLkl7bTghgpI57QFs3NA%3D%3D&module=pub) | [Kyiv Algebra 60](https://www.youtube.com/playlist?list=PLTqo_vr6Gq0HuJB9TV_bkLWsp80roSmEy) | [历史录音: 函子代数几何简介, 亚历山大·格罗滕迪克, 纽约州立大学布法罗分校 (SUNY at Buffalo), 1973](https://www.bilibili.com/video/BV1SU4y1S784/?spm_id_from=333.337.search-card.all.click) |
 [Stable infinity categories and algebraic surgery](https://www.bilibili.com/video/BV1d5411Y75F/?spm_id_from=333.337.search-card.all.click) | [IWoAT](https://space.bilibili.com/1888763963/video) | [【HSE】Derived Categories of Coherent Sheaves 凝聚层的导出范畴](https://www.bilibili.com/video/BV1uu411S7kt/?spm_id_from=333.337.search-card.all.click) |
+[The duality of Grothendieck toposes and their presentations](https://www.bilibili.com/video/BV1St4y1U7z3/?p=2&spm_id_from=pageDriver) |
 
 
 
