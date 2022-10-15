@@ -1333,6 +1333,8 @@ _____________________________________________________________________________
 
 435. Type Theory(或MB语言)的作用就是**把“设...则...”的数学结论转译为抽象的符号语言“Gamma |- A”(由此可见每一句Type Theory的句子是多么重要！)**，所有都转化之后，**数学结论的推导就变成了符号语言的“逻辑计算”**。Type Theory的句子“Gamma |- A”**前面的Context就是条件，后面的A就是结论(平时就需要这样去理解和阅读Type Theory的每个句子)**。整个句子就是数学结论“如果/设...则...”。[Emily Riehl: On the ∞-topos semantics of homotopy type theory: categorial semantics... - Lecture 1](https://www.youtube.com/watch?v=PejZfl5kOlU&t=1467s)2022-10-14 14:54
 
+436. **Type Theory在数学证明中的作用**：数学结论(明文) ——加密——> 转化为Type Theory的句子(密文)。给明文加防伪标志 = 给出密文的Type的Term = 给出原明文的真实性 = 给出数学结论的证明。[Reasoning in an ∞-topos with homotopy type theory , Dan Christensen](https://www.bilibili.com/video/BV1Hi4y1N7xg/?spm_id_from=333.337.search-card.all.click) 2022-10-15 13:04 于汕大图书馆。
+
 
 
 
