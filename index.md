@@ -1338,6 +1338,9 @@ _____________________________________________________________________________
 
 437. Theory T = 群，则T在拓扑斯Set的所有模型T-Mod(Set) = 群范畴(T的所有模型构成一个范畴)。理论的分类拓扑斯编码了该理论的所有Model信息，T-Mod(E) = Geo(E,E_T)。 
 
+438. 预层拓扑斯的点与某Theory在Set拓扑斯中的Model范畴有关；有限表现对象又与预层范畴的底范畴的幂等完备化有关；故预层拓扑斯的点(由它分类的理论的Model范畴)的有限表现对象形成的范畴与预层范畴的底范畴的幂等完备化有关。[The duality of Grothendieck toposes and their presentations](https://www.bilibili.com/video/BV1St4y1U7z3?p=4&spm_id_from=pageDriver) 见45分钟左右。
+
+
 
 
 
