@@ -1336,6 +1336,7 @@ _____________________________________________________________________________
 
 436. **Type Theory在数学证明中的作用**：数学结论(明文) ——加密——> 转化为Type Theory的句子(密文)。给明文加防伪标志 = 给出密文的Type的Term = 给出原明文的真实性 = 给出数学结论的证明。[Reasoning in an ∞-topos with homotopy type theory , Dan Christensen](https://www.bilibili.com/video/BV1Hi4y1N7xg/?spm_id_from=333.337.search-card.all.click) 2022-10-15 13:04 于汕大图书馆。
 
+437. Theory T = 群，则T在拓扑斯Set的所有模型T-Mod(Set) = 群范畴(T的所有模型构成一个范畴)。理论的分类拓扑斯编码了该理论的所有Model信息，T-Mod(E) = Geo(E,E_T)。 
 
 
 
