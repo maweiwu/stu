@@ -1340,6 +1340,8 @@ _____________________________________________________________________________
 
 438. 预层拓扑斯的点与某Theory在Set拓扑斯中的Model范畴有关；有限表现对象又与预层范畴的底范畴的幂等完备化有关；故预层拓扑斯的点(由它分类的理论的Model范畴)的有限表现对象形成的范畴与预层范畴的底范畴的幂等完备化有关。[The duality of Grothendieck toposes and their presentations](https://www.bilibili.com/video/BV1St4y1U7z3?p=4&spm_id_from=pageDriver) 见45分钟左右。
 
+439. Functor --> Function; Profunctor --> Relation。前者可以看成是后者的范畴化。
+
 
 
 
