@@ -1345,7 +1345,7 @@ _____________________________________________________________________________
 
 439. Functor --> Function; Profunctor --> Relation。前者可以看成是后者的范畴化。
 
-440. Voevodski的两大贡献：1. “同构/等价看成相同”这个非正式的数学思想用**精确的逻辑公式**写出来；2. **对Types进行分层**，h-level。[Anders Mortberg: "Cubical Methods in Homotopy Type Theory and Univalent Foundations"](https://www.youtube.com/watch?v=p9ANNglWMvc&t=382s)
+440. Voevodsky在Type Theory的两大贡献：1. “同构/等价看成相同”这个非正式的数学思想用**精确的逻辑公式**写出来；2. **对Types进行分层**，h-level。[Anders Mortberg: "Cubical Methods in Homotopy Type Theory and Univalent Foundations"](https://www.youtube.com/watch?v=p9ANNglWMvc&t=382s)
 
 
 
