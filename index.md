@@ -1349,6 +1349,8 @@ _____________________________________________________________________________
 
 441. 很棒的报告：图式理解复形。[From Hochschild to Gerstenhaber-Schack, as told through drawings](https://www.youtube.com/watch?v=yjwBCe1JitQ&t=62s)
 
+442. 范畴化：Categorification is the process of replacing sets, functions, and equations with categories, functors, and natural isomorphims such that when one decategorifies, usuallyby taking the Grothendieck group K0 , we get back the sets, functions, and equations.
+
 
 
 
