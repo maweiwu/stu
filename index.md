@@ -1351,6 +1351,18 @@ _____________________________________________________________________________
 
 442. 范畴化：Categorification is the process of replacing sets, functions, and equations with categories, functors, and natural isomorphims such that when one decategorifies, usuallyby taking the Grothendieck group K0 , we get back the sets, functions, and equations.
 
+443. 1.学习别人写文章时结构布局的连贯和流畅性。如行云流水，一环扣一环。先交代什么再交代什么。
+     
+     2.**学习他人写作的结构布局其实也是在锻炼向他人阐述自己工作的能力。都要想好先说什么再说什么。** 
+     
+     3.**可以通过看别人写的东西学习别人是如何阐述观点的，哪些该说？该怎样说？**
+     
+     4.如果是我，我会像他这么说吗？我自己能说得清楚吗？
+     
+     5.**自己你能说清楚都是自己掌握的，没掌握的是说不出来的。所以锻炼自己的写作能力就是在检测自己知道哪些？从而可以说出哪些东西来？** 
+     
+     6.终于明白徐老师叫我们写东西的路用心了。2022-10-27 21:32 汕大图书馆三楼。
+
 
 
 
