@@ -1369,7 +1369,7 @@ _____________________________________________________________________________
 
 445. Type Theory是一种形式语言，所以**它也有不同丰富程度的结构**。[Homotopy Type Theory and Internal Languages of Higher Categories](https://www.youtube.com/watch?v=r3D03ZqQkj0&t=4155s)
 
-446. Grothendieck拓扑的Sieve的作用就是：函子在覆盖筛里的态射的取值往往具有很好的“交互性”和“粘接性”(这就类似于在经典拓扑空间上的Grothendieck拓扑一样，开集的相交处粘在一起)。如子对象的闭算子，A和E在在覆盖筛的态射中沟通起来了：c_J (A)(c) = {x ∈ E(c) | {f : d → c | E(f)(x) ∈ A(d)} ∈ J(c)} 见第7页：![Denseness conditions, morphisms and equivalences of toposes](https://github.com/mawaywoo/stu/blob/mawaywoo/Denseness%20conditions%2C%20morphisms%20and%20equivalences%20of%20toposes.pdf)
+446. Grothendieck拓扑的Sieve的作用就是：**函子在覆盖筛里的态射的取值往往具有很好的“交互性”和“粘接性”**(这就类似于在经典拓扑空间上的Grothendieck拓扑一样，开集的相交处粘在一起)。如子对象的闭算子，A和E在在覆盖筛的态射中沟通起来了：c_J (A)(c) = {x ∈ E(c) | {f : d → c | E(f)(x) ∈ A(d)} ∈ J(c)} 见第7页：![Denseness conditions, morphisms and equivalences of toposes](https://github.com/mawaywoo/stu/blob/mawaywoo/Denseness%20conditions%2C%20morphisms%20and%20equivalences%20of%20toposes.pdf)
 
 447. 
 
