@@ -1388,7 +1388,7 @@ _____________________________________________________________________________
 
      (2). 在Kripke-Joyal语义中就涉及\alpha: U ——> X可以通过对象{x | \phi(x)}分解，表示\alpha(U)具有{x | \phi(x)}所具有的性质，即性质\phi。而\aplha表示X的广义元素，故\alpah \in {x | \phi(x)}，即\phi(\alpha)。
      
-454. A category C is filtered if it has cocones on all finite diagrams. Equivalently, if the following three conditions are satisfied.  There is at least one object c \in C.  For any two objects c1; c2 \in C, there is an object c' \in C and some arrows c1 ——> c', c2 ——> c''. For any two parallel arrows f; g : c ——> c', there is an object c'' \in C and an arrow h : c' ——> c'' such that h f = h g. [Matthias Hutzler, Internal language and classified theories of toposes in algebraic geometry] Def.22.
+454. **A category C is filtered if it has cocones on all finite diagrams.** Equivalently, if the following three conditions are satisfied. (1) There is at least one object c \in C. (2) For any two objects c1; c2 \in C, there is an object c' \in C and some arrows c1 ——> c', c2 ——> c''.(3) For any two parallel arrows f; g : c ——> c', there is an object c'' \in C and an arrow h : c' ——> c'' such that h f = h g. [Matthias Hutzler, Internal language and classified theories of toposes in algebraic geometry] Def.22.
 
 
 
