@@ -1402,6 +1402,8 @@ _____________________________________________________________________________
 
 460. if we have a geometric morphism E ——> S we will think of E as a topos in the universe S and for this reason we can refer to such a topos E as a S-topos. [Mauro Mantegazza_Compactness in Toposes_Algant Master Thesis]
 
+461. **内蕴构造严重依赖于背景范畴的内蕴逻辑/语言**，如内蕴范畴在不同的背景范畴是很不一样的。[D. PATARAIA-INTERNAL CATEGORIES IN A LEFT EXACT COSIMPLICIAL CATEGORY]
+
 
 
 
