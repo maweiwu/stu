@@ -1390,7 +1390,9 @@ _____________________________________________________________________________
      
 454. **A category C is filtered if it has cocones on all finite diagrams.** Equivalently, if the following three conditions are satisfied. (1) There is at least one object c \in C. (2) For any two objects c1; c2 \in C, there is an object c' \in C and some arrows c1 ——> c', c2 ——> c''.(3) For any two parallel arrows f; g : c ——> c', there is an object c'' \in C and an arrow h : c' ——> c'' such that h f = h g. [Matthias Hutzler, Internal language and classified theories of toposes in algebraic geometry] Def.22.
 
+455. 内蕴构造(internal categories/functors等)为什么好：它可以将构造**随便移植**于不同的背景(ambient)范畴，通常的构造只是背景范畴为Set范畴的构造，所以**内蕴构造是通常构造的推广**。
 
+456. 
 
 
 
