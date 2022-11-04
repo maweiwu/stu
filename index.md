@@ -1400,6 +1400,8 @@ _____________________________________________________________________________
 
 459. 在比较通常构造和内蕴构造时，一定要注意到**背景范畴的内蕴逻辑/语言的局限性(有些集合范畴能表达的构造在所考虑的背景范畴的内蕴语言中却无法表达)**。
 
+460. if we have a geometric morphism E ——> S we will think of E as a topos in the universe S and for this reason we can refer to such a topos E as a S-topos. [Mauro Mantegazza_Compactness in Toposes_Algant Master Thesis]
+
 
 
 
