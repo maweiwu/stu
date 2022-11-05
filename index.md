@@ -1406,6 +1406,8 @@ _____________________________________________________________________________
 
 462. 这本书对各种余极限的比较解释得比较好。[J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra]
 
+463. A functor A: T → Set preserves finite limits iff ElA is filtered. (上面那本书Part I Sec. 4) 函子与极限的交换性 <——> 元素范畴的filtered、sifted性质 <——> 函子的左Kan扩张的指标范畴。(从而与某些极限交换的函子范畴实现为filtered、sifted余极限的完备化) 
+
 
 
 
