@@ -1404,6 +1404,8 @@ _____________________________________________________________________________
 
 461. **内蕴构造严重依赖于背景范畴的内蕴逻辑/语言**，如内蕴范畴在不同的背景范畴是很不一样的。[D. PATARAIA-INTERNAL CATEGORIES IN A LEFT EXACT COSIMPLICIAL CATEGORY]
 
+462. 这本书对各种余极限的比较解释得比较好。[J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra]
+
 
 
 
