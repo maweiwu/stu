@@ -1406,7 +1406,10 @@ _____________________________________________________________________________
 
 462. 这本书对各种余极限的比较解释得比较好。[J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra]
 
-463. A functor A: T → Set preserves finite limits iff ElA is filtered. (上面那本书Part I Sec. 4) 函子与极限的交换性 <——> 元素范畴的filtered、sifted性质 <——> 函子的左Kan扩张的指标范畴。(从而与某些极限交换的函子范畴实现为filtered、sifted余极限的完备化) 
+463. A functor A: T → Set preserves finite limits iff ElA is filtered. (上面那本书Part I Sec. 4) 函子与极限的交换性 <——> 元素范畴的filtered、sifted性质 <——> 函子的左Kan扩张的指标范畴。(从而与某些极限交换的函子范畴实现为filtered、sifted余极限的完备化)
+
+464. 从某种程度上来说，**Logic比普通的数学理论(如代数、几何、拓扑、分析等)具有更高的观点，站在逻辑的高度，代数、几何、分析、拓扑等的界限就不再那么明显**。如J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra中的Remark 6.20的逻辑中的Algebraic Categories比普通数学中的局部有限表现范畴要更一般些。
+ 
 
 
 
