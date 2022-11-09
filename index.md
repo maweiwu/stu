@@ -9,6 +9,8 @@ Email: mawaywoo(at)126(dot)com
 
 研究纯范畴论的乐趣在于：Seeing how to build things out step by step (via all kinds of limits and colimits).
 
+对已有的结果进行推广 —> 对原有的条件进行弱化 —> 对条件增加或放大“误差项”。放大或增加一个“误差项”之后可能可以统一和推广很多概念。
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
@@ -1415,6 +1417,8 @@ _____________________________________________________________________________
 466. J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra是一本很好的书(**值得反复拜读**)，其中的观点站得比较高，如书中的Algebraic Categories的许多理论就很广，表示论中的模范畴只是它的特例。2022-11-6 11:35 于汕头大学图书馆三楼北区4排9列2层 PS 近来汕头疫情紧张，已是核酸第三天了。
 
 467.  Algebraic theories/varieties站得观点挺高的。[Algebraic theories](https://www.youtube.com/watch?v=lp1wh9ZxcmE)，J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra。
+
+468. **对已有的结果进行推广 —> 对原有的条件进行弱化 —> 对条件增加或放大“误差项”。放大或增加一个“误差项”之后可能可以统一和推广很多概念**。2022-11-9 15:56 
 
  
 
