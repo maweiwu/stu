@@ -1424,6 +1424,8 @@ _____________________________________________________________________________
 
 470. 一个句子 = 一个定理，一个Theory = 所有定理的全体。可见Model Theory有多强大。
 
+471. 各种余极限之间的关系、约化。见：J. Adamek, J. Rosicky - Locally presentable and accessible categories-Cambridge University Press (1994)
+
  
 
 
