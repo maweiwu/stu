@@ -1426,7 +1426,7 @@ _____________________________________________________________________________
 
 471. 各种余极限之间的关系、约化。见(good book)：J. Adamek, J. Rosicky - Locally presentable and accessible categories-Cambridge University Press (1994)
 
-472. 内射对象类可以看成是正交对象类的某种弱化，可见正交对象类是更一般的概念。见(Page 174)：J. Adamek, J. Rosicky - Locally presentable and accessible categories-Cambridge University Press (1994)
+472. 内射对象类可以看成是正交对象类的某种弱化，可见“正交”是更一般的理解角度。见(Page 174)：J. Adamek, J. Rosicky - Locally presentable and accessible categories-Cambridge University Press (1994)
 
 
  
