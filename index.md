@@ -1424,7 +1424,7 @@ _____________________________________________________________________________
 
 470. 一个句子 = 一个定理，一个Theory = 所有定理的全体。可见Model Theory有多强大。
 
-471. 各种余极限之间的关系、约化。见(good book)：J. Adamek, J. Rosicky - Locally presentable and accessible categories-Cambridge University Press (1994)
+471. 各种余极限之间的关系、约化。见(good book**值得反复拜读**)：J. Adamek, J. Rosicky - Locally presentable and accessible categories-Cambridge University Press (1994)
 
 472. 内射对象类可以看成是正交对象类的某种弱化，**可见“正交”是更一般的理解角度(范畴论中常常需要这种更一般的理解方式，它可以统一许多概念)**。见(Page 174)：J. Adamek, J. Rosicky - Locally presentable and accessible categories-Cambridge University Press (1994)
 
