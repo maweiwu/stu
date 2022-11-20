@@ -300,6 +300,16 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [NorthridgeFix](https://www.youtube.com/c/NorthridgeFix/videos)
 
+## NET(2022-11-20 16:18)
+
+[Bandwagon Host](https://bwh81.net/) [49.99/year, mawaywoo at 126 dot com, 95.169.24.113, 97882^(-1), JLtTmINna6wq^(-1)]
+
+[Download PuTTY: latest release (0.78)](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
+[Windows下通过Putty建立SSH隧道代理上网](https://www.cmsoft.cn/resource/21.html) [root + password]
+
+[Firefox](https://www.mozilla.org/en-US/firefox/windows/)
+
 
 ## French learning (math SGA)
 
