@@ -311,6 +311,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Windows下通过Putty建立SSH隧道代理上网](https://www.cmsoft.cn/resource/21.html) [root + password]
 
+[putty保持连接/防止自动断开连接](https://www.jianshu.com/p/d605d7efb2d5)
+
 [Firefox](https://www.mozilla.org/en-US/firefox/windows/)
 
 [站长工具](https://tool.chinaz.com/port)
