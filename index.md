@@ -13,6 +13,8 @@ Email: mawaywoo(at)126(dot)com
 
 多积累各种范畴的性质(从完备性、正合性、小性去考察)，多积累判定这些性质的各种准则，以备做研究时可以灵活调用。
 
+范畴间的函子/比较 = 寻找moduli范畴。
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
