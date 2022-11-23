@@ -317,6 +317,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [站长工具](https://tool.chinaz.com/port)
 
+[搬瓦工VPS搭建V2Ray详细教程](https://www.bwgss.org/1419.html)
+
+[最新免费版 Xshell 和 Xftp 下载地址（中文版永久免费）](https://www.bwgss.org/13.html)
+
 
 ## French learning (math SGA)
 
