@@ -1469,6 +1469,8 @@ _____________________________________________________________________________
 
 481. Moduli范畴可以是**多个范畴**，如Complete Torsion Pair。
 
+482. 这篇文章[Martin Gallauer，An introduction to six-functor formalisms](https://guests.mpim-bonn.mpg.de/gallauer/docs/m6ff.pdf)很好地诠释了six-functor formalisms的强大之处，如通过函子编码了各种上同调理论，六函子是比上同调更丰富的不变量。我喜欢！2022-11-27 09:08 于汕大图书馆三楼
+
 
 
 
