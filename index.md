@@ -1475,6 +1475,8 @@ _____________________________________________________________________________
 
 484. **简单对象**(局部系数系统、可构造层)**借助函子**(Grohendoeck六函子)去**构建/计算信息**(层的复形、导出范畴)。[Geordie Williamson, Lecture II - 21 January 2015](https://www.youtube.com/watch?v=H0a2fSXBpJE&list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG&index=2)
 
+485. 三角范畴的粘合提供了许多函子，因此我们可以选一些简单对象，然后借助这些函子可以构造/计算出许多新对象。[Geordie Williamson, Lecture III - 23 January 2015](https://www.youtube.com/watch?v=P67uAD2SW4g&list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG&index=3)
+
 
 
 
