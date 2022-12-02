@@ -1479,6 +1479,8 @@ _____________________________________________________________________________
 
 485. 三角范畴的粘合提供了许多函子，因此我们可以选一些简单对象，然后借助这些函子可以构造/计算出许多新对象。[Geordie Williamson, Lecture III - 23 January 2015](https://www.youtube.com/watch?v=P67uAD2SW4g&list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG&index=3)
 
+486. 将不变量提升，如上同调提升为复形，复形提升为导出函子。**不变量等级：上同调 —> 复形 —> 导出函子**。
+
 
 
 
