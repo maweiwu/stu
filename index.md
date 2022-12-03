@@ -323,6 +323,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [最新免费版 Xshell 和 Xftp 下载地址（中文版永久免费）](https://www.bwgss.org/13.html)
 
+[2022_抛弃VPN，小白专属V2Ray搭建+客户端配置教程！搬瓦工如何搭建V2Ray完整教程！](https://www.youtube.com/watch?v=rPTzORHg5lQ)
+
 
 ## French learning (math SGA)
 
