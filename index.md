@@ -113,7 +113,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [The duality of Grothendieck toposes and their presentations](https://www.bilibili.com/video/BV1St4y1U7z3/?p=2&spm_id_from=pageDriver) | [模态逻辑 Modal Logic](https://space.bilibili.com/702260389/channel/seriesdetail?sid=545999) | [Differential graded categories and applications 微分分次范畴及其应用](https://www.bilibili.com/video/BV1wk4y1m7Wr/?spm_id_from=333.337.search-card.all.click) |
 [topos量子物理 Cecilia Flori](https://www.bilibili.com/video/BV1Sw411d7jv/?spm_id_from=333.337.search-card.all.click) | [Andreas Doering: "Topos mini-course 1"](https://www.youtube.com/watch?v=v1vtBYDWiB4&t=269s) | [Logic Association of Malaysia (PMM)](https://www.youtube.com/channel/UCcEsCKrLVV8RZ8V-RD4hzcg/playlists) |
 [PubMed Pro](https://www.pubmed.pro/home ) | [Marco Volpe - Six functor formalism for sheaves with non-presentable coefficients](https://mediathek2.uni-regensburg.de/playthis/617afcd486f0a0.07267824) | [Derived categories and perverse sheaves Pramod N Achar](https://www.youtube.com/playlist?list=PL6ud2X85OYNA4_sDq4TrLTm-Wtb_foDFj) |
-[The notion of singular support in DAG and its applications I (Sam Raskin)](https://www.youtube.com/watch?v=FGHJY0UOpTg&t=2041s) |
+[The notion of singular support in DAG and its applications I (Sam Raskin)](https://www.youtube.com/watch?v=FGHJY0UOpTg&t=2041s) | [derived algebraic geometry](https://www.youtube.com/playlist?list=PLCe-H2N8-ny6KgQqZ_xLv0ZUg_8fnNjad) |
 
 
 
