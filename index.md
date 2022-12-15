@@ -114,7 +114,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [topos量子物理 Cecilia Flori](https://www.bilibili.com/video/BV1Sw411d7jv/?spm_id_from=333.337.search-card.all.click) | [Andreas Doering: "Topos mini-course 1"](https://www.youtube.com/watch?v=v1vtBYDWiB4&t=269s) | [Logic Association of Malaysia (PMM)](https://www.youtube.com/channel/UCcEsCKrLVV8RZ8V-RD4hzcg/playlists) |
 [PubMed Pro](https://www.pubmed.pro/home ) | [Marco Volpe - Six functor formalism for sheaves with non-presentable coefficients](https://mediathek2.uni-regensburg.de/playthis/617afcd486f0a0.07267824) | [Derived categories and perverse sheaves Pramod N Achar](https://www.youtube.com/playlist?list=PL6ud2X85OYNA4_sDq4TrLTm-Wtb_foDFj) |
 [The notion of singular support in DAG and its applications I (Sam Raskin)](https://www.youtube.com/watch?v=FGHJY0UOpTg&t=2041s) | [derived algebraic geometry](https://www.youtube.com/playlist?list=PLCe-H2N8-ny6KgQqZ_xLv0ZUg_8fnNjad) | [Six functors formalism in motivic homotopy theory Frédéric Déglise](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUjf7zhqjehOeQFsPmmC3Hy) |
-[Free eBooks-Project Gutenberg](https://www.gutenberg.org/) |
+[Free eBooks-Project Gutenberg](https://www.gutenberg.org/) | [Derived categories](https://www.youtube.com/playlist?list=PLCe-H2N8-ny5nIYCQevWaJsO3PP44uz03) |
 
 
 
@@ -1501,6 +1501,8 @@ _____________________________________________________________________________
 493. 学了赋环座理论的人，应该很容易学会赋环空间、概型、代数簇的理论，因为后者只是前者的例子而已。
 
 494. 从赋环座的角度去理解概型理论(对概型的理解将更容易)。[Algebraic geometry II: Schemes](https://www.youtube.com/playlist?list=PL8yHsr3EFj50Un2NpfPySgXctRQK7CLG-)
+
+495. Grothendieck六函子和谱序列。[Derived categories](https://www.youtube.com/playlist?list=PLCe-H2N8-ny5nIYCQevWaJsO3PP44uz03)
 
 
 
