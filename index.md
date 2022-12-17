@@ -17,6 +17,8 @@ Email: mawaywoo(at)126(dot)com
 
 可以利用函子做什么：借助函子去获取/构建/追踪/计算信息，要善于利用函子辅助计算。可以取一些简单的对象看看函子可以把它带去哪？简单对象通过函子可以给我们带来许多新信息。简单对象和函子可以使得我们可利用的信息变多。函子是要拿来用(计算)的。(所以我们一看到函子时应该借助它和简单对象去做一些事情)。见483-485.
 
+数学的乐趣在于**通过简单的对象去获取复杂的信息**。
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
@@ -1503,6 +1505,9 @@ _____________________________________________________________________________
 494. 从赋环座的角度去理解概型理论(对概型的理解将更容易)。[Algebraic geometry II: Schemes](https://www.youtube.com/playlist?list=PL8yHsr3EFj50Un2NpfPySgXctRQK7CLG-)
 
 495. Grothendieck六函子和谱序列。[Derived categories](https://www.youtube.com/playlist?list=PLCe-H2N8-ny5nIYCQevWaJsO3PP44uz03)
+
+496. 数学的乐趣在于**通过简单的对象去获取复杂的信息**。2022-12-17 21:30 汕头大学图书馆三楼，疫情放开，不能留校，明天番禺。
+
 
 
 
