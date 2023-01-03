@@ -117,7 +117,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [PubMed Pro](https://www.pubmed.pro/home ) | [Marco Volpe - Six functor formalism for sheaves with non-presentable coefficients](https://mediathek2.uni-regensburg.de/playthis/617afcd486f0a0.07267824) | [Derived categories and perverse sheaves Pramod N Achar](https://www.youtube.com/playlist?list=PL6ud2X85OYNA4_sDq4TrLTm-Wtb_foDFj) |
 [The notion of singular support in DAG and its applications I (Sam Raskin)](https://www.youtube.com/watch?v=FGHJY0UOpTg&t=2041s) | [derived algebraic geometry](https://www.youtube.com/playlist?list=PLCe-H2N8-ny6KgQqZ_xLv0ZUg_8fnNjad) | [Six functors formalism in motivic homotopy theory Frédéric Déglise](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUjf7zhqjehOeQFsPmmC3Hy) |
 [Free eBooks-Project Gutenberg](https://www.gutenberg.org/) | [Derived categories](https://www.youtube.com/playlist?list=PLCe-H2N8-ny5nIYCQevWaJsO3PP44uz03) | [ Monoidal categories and their representations](https://www.youtube.com/watch?v=ON_jn04Ifl8&list=PLn6dA-hP_G8SMX1-iqobFA31ux76zKW6y) |
-[Set Theory and Logic Lectures](https://www.youtube.com/playlist?list=PLPgKBibhNh73rAqxIaltEHw-qwMJISwOL) | [Essence of Set Theory](https://www.youtube.com/playlist?list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb) |
+[Set Theory and Logic Lectures](https://www.youtube.com/playlist?list=PLPgKBibhNh73rAqxIaltEHw-qwMJISwOL) | [Essence of Set Theory](https://www.youtube.com/playlist?list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb) | [Regular Languages and Model Theory](https://www.youtube.com/playlist?list=PL8nlk4F6cN8Ycoxurjdpf8_TvOWVjIffo) |
 
 
 
