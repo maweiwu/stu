@@ -1512,6 +1512,8 @@ _____________________________________________________________________________
 
 497. 集合太复杂了，必须加上额外的结构(比如序结构)才能去分析它。[Ordinal Numbers, 5 Essence of Set Theory](https://www.youtube.com/watch?v=As8rTENUOy0&list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb&index=6)
 
+498. internal即对象内部的元素，external即与其他对象的关系。
+
 
 
 
