@@ -340,6 +340,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Théorie des catégories, séminaire CLE, etc...](https://www.youtube.com/playlist?list=PLGsF4lFaErIiLOuQDBJJ6VkMgLsW9O0fq) 
 
+[Stéphane Dugowson](https://www.youtube.com/@StephaneDugowson/playlists) 
+
 
 | French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
 |:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
