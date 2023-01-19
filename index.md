@@ -119,7 +119,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Free eBooks-Project Gutenberg](https://www.gutenberg.org/) | [Derived categories](https://www.youtube.com/playlist?list=PLCe-H2N8-ny5nIYCQevWaJsO3PP44uz03) | [ Monoidal categories and their representations](https://www.youtube.com/watch?v=ON_jn04Ifl8&list=PLn6dA-hP_G8SMX1-iqobFA31ux76zKW6y) |
 [Set Theory and Logic Lectures](https://www.youtube.com/playlist?list=PLPgKBibhNh73rAqxIaltEHw-qwMJISwOL) | [Essence of Set Theory](https://www.youtube.com/playlist?list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb) | [Regular Languages and Model Theory](https://www.youtube.com/playlist?list=PL8nlk4F6cN8Ycoxurjdpf8_TvOWVjIffo) |
 [Logical Perspectives 2022 Open Lectures](https://www.youtube.com/playlist?list=PLUbD59ZHv1GTDHJovZbi7ok6NQnNoh-7f) | [Recent Applications of the Theory of O-Minimal Structures to Various Questions in Hodge Theory (Fall Emphasis 2020)](https://www.youtube.com/playlist?list=PLZut3oE4FI0y1BXocVN0iF250kOAYtHIH) | [Map of the Universe](https://www.forkinganddividing.com/) |
-[Théorie des catégories, séminaire CLE, etc...](https://www.youtube.com/playlist?list=PLGsF4lFaErIiLOuQDBJJ6VkMgLsW9O0fq) | [Jonathan Weinberger](https://www.youtube.com/results?search_query=+Jonathan+Weinberger) |
+[Théorie des catégories, séminaire CLE, etc...](https://www.youtube.com/playlist?list=PLGsF4lFaErIiLOuQDBJJ6VkMgLsW9O0fq) | [Jonathan Weinberger](https://www.youtube.com/results?search_query=+Jonathan+Weinberger) | [Jonathan Weinberger_synthetic higher category theory](https://sites.google.com/view/jonathanweinberger?pli=1) |
 
 
 
