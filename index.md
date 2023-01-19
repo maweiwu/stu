@@ -1514,7 +1514,7 @@ _____________________________________________________________________________
 
 498. internal即对象内部的元素，external即与其他对象的关系。
 
-499. 自然性指的是不但仅对某个对象成立，而且对所有对象成立(要求变更多了)。[Olivia Caramello - 4/4 ntroduction to categorical logic, classifying toposes...(第54分钟的例子) ](https://www.youtube.com/watch?v=aWDbXKmk1Io&t=484s)
+499. 自然性指的是不但仅对某个对象成立，而且对所有对象成立(要求变更多了)。[Olivia Caramello - 4/4 ntroduction to categorical logic, classifying toposes...(第54分钟的例子) ](https://www.youtube.com/watch?v=aWDbXKmk1Io&t=484s) (广州番禺旧水坑 2023-1-20 0:30)
 
 
 
