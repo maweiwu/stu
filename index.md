@@ -180,6 +180,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Math Life Balance](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
 
+[Richard Borcherds (Fields Medalist) on the Monster Group, String Theory, Self Studying and Moonshine](https://www.youtube.com/watch?v=xu15ZbxxnUQ)
+
 [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 
 [TeXstudio User manual](http://transit.iut2.upmf-grenoble.fr/doc/texstudio/html/usermanual_en.html)
