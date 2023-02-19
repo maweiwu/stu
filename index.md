@@ -19,6 +19,8 @@ Email: mawaywoo(at)126(dot)com
 
 数学的乐趣在于**通过简单的对象去获取复杂的信息**。
 
+读论文的顺序=布局论文的顺序：主要结论 ——> 主要结论出现的概念放在预备知识部分 ——> 概念中又出现的概念再次往前放......
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
