@@ -1,7 +1,7 @@
 
 # Maway Woo's Home Page
 
-![ME](https://github.com/mawaywoo/stu/blob/main/psb.jpg =400 *300)
+![ME](https://github.com/mawaywoo/stu/blob/main/psb.jpg =400×300)
 
 Email: mawaywoo(at)126(dot)com
 
