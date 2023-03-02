@@ -1,0 +1,875 @@
+# a:=(1,2); b:=(1,2,3); a*b from left to right
+# right cosets and right modules
+# a: Hg |---> Kag, 
+# in TG, {a:H\G ---> K\G | a in G, aHa^(-1) in K}, in OG, a in TG and a=b iff ab^(-1) in K
+# Read("grotop.txt");
+
+###############################################################################
+# 1. TG中的两个对象之间的态射集(f:H ---> K)
+###############################################################################
+MorTG:=function(G,H,K)
+  local A,a;
+  A:=[];
+     for a in Elements(G) do
+	   if IsSubgroup(K, ConjugateSubgroup(H,a^-1)) then
+	     Add(A,[H,a,K]);
+	   fi; 
+	 od;
+  return A; 
+end;  
+
+###############################################################################
+# 2. OG中的两个对象之间的态射集(f:H ---> K)
+###############################################################################
+MorO:=function(G,H,K)
+  local A,B,a,b;
+  A:=MorTG(G,H,K);
+  B:=A;
+    for a in A do
+	   for b in A do
+	       if a[2]*b[2]^-1 in K then
+		       B[Position(A,b)]:=a;
+		   fi;
+	   od;
+	od; 	
+  return B; 
+end;  
+
+MorOG:=function(G,H,K)
+  local C;
+  C:=AsSet(MorO(G,H,K));	
+  return C; 
+end;  
+
+###############################################################################
+# 3. OG中的态射的复合(f:H ---> L and g:L ---> K)
+#    f和g的输入形式为(H,f,L)和(L,g,K)
+###############################################################################
+ComO:=function(f,g) 
+     if f[3]=g[1] then
+       return [f[1],g[2]*f[2],g[3]]; 
+     fi;	   
+end;  
+
+ComOG:=function(G,f,g) # 将态射集标准化
+    local A,a,b;
+	A:=MorOG(G,f[1],g[3]);
+	b:=ComO(f,g);
+	   for a in A do
+	      if a[2]*b[2]^-1 in g[3] then
+		     return a;
+		  fi;
+	   od;   	
+end; 
+
+###############################################################################
+# 4. TG中的态射的复合(f:H ---> L and g:L ---> K)
+###############################################################################
+ComTG:=function(f,g)
+     if f[3]=g[1] then
+       return [f[1],g[2]*f[2],g[3]]; 
+     fi;	   
+end;  
+
+###############################################################################
+# 5. OG中对象K上的极大筛Hom(-,K);
+###############################################################################
+MaxSieve:=function(G,Obj,K)
+    local S,a;
+	S:=[];
+	for a in Obj do
+	   if Order(K) mod Order(a) = 0 and Length(MorOG(G,a,K)) <> 0 then
+	      Add(S,MorOG(G,a,K));
+	   fi;
+	od;
+	return AsSet(S);
+end;
+
+MaximalSieve:=function(G,Obj,K) # 简化输出形式
+    local A,a,i;
+	A:=[];
+	for a in MaxSieve(G,Obj,K) do
+	   for i in [1..Length(a)] do
+          Add(A,a[i]);
+	   od; 	   
+	od;
+	return AsSet(A);
+end;
+
+###############################################################################
+# 6. TG中对象K上的极大筛Hom(-,K);
+###############################################################################
+MaxSieveTG:=function(G,Obj,K)
+    local S,a;
+	S:=[];
+	for a in Obj do
+	   if Order(K) mod Order(a) = 0 and Length(MorTG(G,a,K)) <> 0 then
+	      Add(S,MorTG(G,a,K));
+	   fi;
+	od;
+	return AsSet(S);
+end;
+
+MaximalSieveTG:=function(G,Obj,K) # 简化输出形式
+    local A,a,i;
+	A:=[];
+	for a in MaxSieveTG(G,Obj,K) do
+	   for i in [1..Length(a)] do
+          Add(A,a[i]);
+	   od; 	   
+	od;
+	return AsSet(A);
+end;
+
+###############################################################################
+# 7. 给出态射集里的态射的Domain和Codomain在Obj中的所在位置, 即把[C2,(2,3),D8]
+#    换成[4,(2,3),19]的形式, 便于区分两个不同的群C2, 其中A为态射集的List
+###############################################################################
+MorGraph:=function(Obj,A)
+    local S,a;
+	S:=[];
+	for a in A do
+	   Add(S,[Position(Obj,a[1]),a[2],Position(Obj,a[3])]);
+	od; 
+	return S;
+end;
+
+###############################################################################
+# 8. OG中由(f:H ---> K)生成的筛
+###############################################################################
+PObj:=function(G,Obj,H) # 取出Obj中所有到对象H上的态射集非空的对象
+   return Filtered(Obj, x -> (Order(H) mod Order(x)) = 0 
+          and Length(MorOG(G,x,H)) <> 0);
+end;
+
+NorMor:=function(G,f) #将f取成与之等价的MorOG中的元素(标准化)   
+	local A,a;
+	A:=MorOG(G,f[1],f[3]);
+	   for a in A do
+	      if a[2]*f[2]^-1 in f[3] then
+		     return a;
+		  fi;
+	   od;
+end;
+	  
+PSieve1:=function(G,Obj,f) # 由f的domain出发产生的态射集
+    local O,S,g,d,k;
+    g:=NorMor(G,f);
+  	S:=[g];
+	for k in PObj(G,Obj,f[1]) do
+	   for d in MorOG(G,k,f[1]) do
+           if ComOG(G,d,f) in MaximalSieve(G,Obj,f[3]) then
+		      Add(S,ComOG(G,d,f));
+		   fi;
+	   od;	  
+	od;	
+	return AsSet(S);
+end; 
+
+PSieve2:=function(G,Obj,A) # 由态射集A里的各个态射的domain出发产生的更多态射
+    local B,a; 
+	B:=[];
+	for a in A do 
+	   Add(B,PSieve1(G,Obj,a));
+	od;
+	return AsSet(B);
+end; 
+   
+PSieve2SimpleForm:=function(G,Obj,A)
+    local B,a,i;
+	B:=[];
+	for a in PSieve2(G,Obj,A) do
+	   for i in [1..Length(a)] do
+          Add(B,a[i]);  
+	   od; 	   
+	od;
+	return AsSet(B);
+end;
+
+PSieve:=function(G,Obj,f) # 由态射(f:H ---> K)生成的筛
+    local S,A,B;
+	S:=[];
+	if AsSet(PSieve1(G,Obj,f)) = AsSet(MaximalSieve(G,Obj,f[3])) then
+	   S:=PSieve1(G,Obj,f);
+	   elif AsSet(PSieve1(G,Obj,f)) <> AsSet(MaximalSieve(G,Obj,f[3])) then
+	      if AsSet(PSieve2SimpleForm(G,Obj,PSieve1(G,Obj,f))) = AsSet(PSieve1(G,Obj,f)) then
+		      S:=PSieve1(G,Obj,f);
+			  elif AsSet(PSieve2SimpleForm(G,Obj,PSieve1(G,Obj,f))) <> AsSet(PSieve1(G,Obj,f)) then
+			     A:=[];
+				 B:=PSieve2SimpleForm(G,Obj,PSieve1(G,Obj,f));
+				 repeat A:=B; B:=PSieve2SimpleForm(G,Obj,A);
+				 until AsSet(A)=AsSet(B);
+				 S:=A;
+		  fi;
+	fi;
+	return AsSet(S); 
+end;
+
+###############################################################################
+# 9. TG中由(f:H ---> K)生成的筛
+###############################################################################
+PObjTG:=function(G,Obj,H) # 取出Obj中所有到对象H上的态射集非空的对象
+   return Filtered(Obj, x -> (Order(H) mod Order(x)) = 0 and Length(MorTG(G,x,H)) <> 0);
+end;
+	  
+PSieve1TG:=function(G,Obj,f) # 由f的domain出发产生的态射集
+    local O,S,g,d,k;
+    g:=f;
+  	S:=[g];
+	for k in PObjTG(G,Obj,f[1]) do
+	   for d in MorTG(G,k,f[1]) do
+           if ComTG(d,f) in MaximalSieveTG(G,Obj,f[3]) then
+		      Add(S,ComTG(d,f));
+		   fi;
+	   od;	  
+	od;	
+	return AsSet(S);
+end; 
+
+PSieve2TG:=function(G,Obj,A) # 由态射集A里的各个态射的domain出发产生的更多态射
+    local B,a; 
+	B:=[];
+	for a in A do 
+	   Add(B,PSieve1TG(G,Obj,a));
+	od;
+	return AsSet(B);
+end; 
+   
+PSieve2TGSimpleForm:=function(G,Obj,A)
+    local B,a,i;
+	B:=[];
+	for a in PSieve2TG(G,Obj,A) do
+	   for i in [1..Length(a)] do
+          Add(B,a[i]);  
+	   od; 	   
+	od;
+	return AsSet(B);
+end;
+
+PSieveTG:=function(G,Obj,f) # 由态射(f:H ---> K)生成的筛
+    local S,A,B;
+	S:=[];
+	if AsSet(PSieve1TG(G,Obj,f)) = AsSet(MaximalSieveTG(G,Obj,f[3])) then
+	   S:=PSieve1TG(G,Obj,f);
+	   elif AsSet(PSieve1TG(G,Obj,f)) <> AsSet(MaximalSieveTG(G,Obj,f[3])) then
+	      if AsSet(PSieve2TGSimpleForm(G,Obj,PSieve1TG(G,Obj,f))) = AsSet(PSieve1TG(G,Obj,f)) then
+		      S:=PSieve1TG(G,Obj,f);
+			  elif AsSet(PSieve2TGSimpleForm(G,Obj,PSieve1TG(G,Obj,f))) <> AsSet(PSieve1TG(G,Obj,f)) then
+			     A:=[];
+				 B:=PSieve2TGSimpleForm(G,Obj,PSieve1TG(G,Obj,f));
+				 repeat A:=B; B:=PSieve2TGSimpleForm(G,Obj,A);
+				 until AsSet(A)=AsSet(B);
+				 S:=A;
+		  fi;
+	fi;
+	return AsSet(S); 
+end;
+
+###############################################################################
+# 10. OG中由态射集A生成的筛(这里态射集A是有共同Codomain的态射)
+###############################################################################
+SetGenSieve:=function(G,Obj,A)
+    local S,T,a;
+	S:=[];
+	T:=MaximalSieve(G,Obj,A[1][3]);
+	for a in A do
+	    if AsSet(S) = AsSet(T) or AsSet(PSieve(G,Obj,a)) = AsSet(T) then
+		    S:=AsSet(T);
+			elif AsSet(PSieve(G,Obj,a)) <> AsSet(T) then
+			    S:=Union(S,PSieve(G,Obj,a)); 
+		fi;
+	od;
+	return AsSet(S);
+end;
+
+###############################################################################
+# 11. TG中由态射集A生成的筛(这里态射集A是有共同Codomain的态射)
+###############################################################################
+SetGenSieveTG:=function(G,Obj,A)
+    local S,T,a;
+	S:=[];
+	T:=MaximalSieveTG(G,Obj,A[1][3]);
+	for a in A do
+	    if AsSet(S) = AsSet(T) or AsSet(PSieveTG(G,Obj,a)) = AsSet(T) then
+		    S:=AsSet(T);
+			elif AsSet(PSieveTG(G,Obj,a)) <> AsSet(T) then
+			    S:=Union(S,PSieveTG(G,Obj,a)); 
+		fi;
+	od;
+	return AsSet(S);
+end;
+
+###############################################################################
+# 12. OG中筛(或态射集)S沿态射h的拉回h*(S)
+###############################################################################
+NorMorSet:=function(G,S) # 将态射集S标准化
+    local T,s;
+	T:=[];
+	for s in S do
+	   Add(T,NorMor(G,s));
+	od; 
+	return AsSet(T);
+end;
+
+PB:=function(G,Obj,S,h)
+    local A,T,k,g;
+	A:=[];
+	T:=NorMorSet(G,S);
+	for k in PObj(G,Obj,h[1]) do
+	  for g in MorOG(G,k,h[1]) do
+	       if ComOG(G,g,h) in T then
+		       Add(A,g);
+		   fi;
+	  od;
+	od;  
+	return AsSet(A);
+end;
+
+###############################################################################
+# 13. TG中筛(或态射集)S沿态射h的拉回h*(S)
+###############################################################################
+PBTG:=function(G,Obj,S,h)
+    local A,T,k,g;
+	A:=[];
+	T:=S;
+	for k in PObjTG(G,Obj,h[1]) do
+	  for g in MorTG(G,k,h[1]) do
+	       if ComTG(g,h) in T then
+		       Add(A,g);
+		   fi;
+	  od;
+	od;  
+	return AsSet(A);
+end;
+
+###############################################################################
+# 14. OG中判断筛S是否是稠密拓扑的覆盖筛
+###############################################################################
+CanFind:=function(G,Obj,S,f)
+    local g;
+	for g in MaximalSieve(G,Obj,f[1]) do
+	     if ComOG(G,g,f) in S then
+		       return true;
+			else return false;
+		 fi;
+	od;
+end;
+
+IsDenseCS:=function(G,Obj,S)
+	if ForAll(MaximalSieve(G,Obj,S[1][3]),x -> CanFind(G,Obj,S,x) = true) then
+	        return true;
+		 else return false;
+	fi;
+end;
+
+###############################################################################
+# 15. TG中判断筛S是否是稠密拓扑的覆盖筛
+###############################################################################
+CanFindTG:=function(G,Obj,S,f)
+    local g;
+	for g in MaximalSieveTG(G,Obj,f[1]) do
+	     if ComTG(g,f) in S then
+		       return true;
+			#else return false;
+		 fi;
+	od;
+end;
+
+IsDenseCSTG:=function(G,Obj,S)
+	if ForAll(MaximalSieveTG(G,Obj,S[1][3]),x -> CanFindTG(G,Obj,S,x) = true) then
+	        return true;
+		 else return false;
+	fi;
+end;
+
+###############################################################################
+# 16. OG中判断态射集S是否是筛
+###############################################################################
+IsClosedForOne:=function(G,Obj,S,f)
+    local T;
+    T:=NorMorSet(G,S);  
+    if ForAll(MaximalSieve(G,Obj,f[1]),x -> ComOG(G,x,f) in T) then
+	        return true;
+		 else return false;
+	fi;
+end;
+
+IsSieve:=function(G,Obj,S)
+    local T;
+    T:=NorMorSet(G,S); 	
+	if ForAll(T,x -> IsClosedForOne(G,Obj,S,x)) then
+	        return true;
+		 else return false;
+	fi;
+end;
+
+###############################################################################
+# 17. TG中判断态射集S是否是筛
+###############################################################################
+IsClosedForOneTG:=function(G,Obj,S,f)
+    local T;
+    T:=S; 
+    if ForAll(MaximalSieveTG(G,Obj,f[1]),x -> ComTG(x,f) in T) then
+	        return true;
+		 else return false;
+	fi;
+end;
+
+IsSieveTG:=function(G,Obj,S)
+    local T;
+    T:=S; 	
+	if ForAll(T,x -> IsClosedForOneTG(G,Obj,S,x)) then
+	        return true;
+		 else return false;
+	fi;
+end;
+
+###############################################################################
+# 18. OG中判断任意态射集S(不一定是筛)是否是稠密拓扑的覆盖筛
+###############################################################################
+IsDCS:=function(G,Obj,S)
+	if IsSieve(G,Obj,S) and IsDenseCS(G,Obj,S) then
+	        return true;
+		 else return false;
+	fi;
+end;
+
+###############################################################################
+# 19. TG中判断任意态射集S(不一定是筛)是否是稠密拓扑的覆盖筛
+###############################################################################
+IsDCSTG:=function(G,Obj,S)
+	if IsSieveTG(G,Obj,S) and IsDenseCSTG(G,Obj,S) then
+	        return true;
+		 else return false;
+	fi;
+end;
+
+###############################################################################
+# 20. 集合A的幂集
+###############################################################################
+PowerSet:=function(A) #包括了空集的幂集
+    local B,a;
+	B:=[];
+    for a in IteratorOfCombinations([1..Size(A)]) do
+	    Add(B,A{a});
+    od;
+	return B;
+end;	
+	
+DeleteFirst:=function(A) #去掉第一个元素
+    local B,i;
+	B:=[];
+    for i in [2..Size(A)] do
+	    Add(B,A[i]);
+    od;
+	return B;
+end;
+
+PowerSetNo:=function(A) #不包括空集的幂集
+    local B,a;
+	B:=[];
+    for a in IteratorOfCombinations([1..Size(A)]) do
+	    Add(B,A{a});
+    od;
+	return DeleteFirst(B);
+end;	
+
+###############################################################################
+# 21. 集合A的所有n元子集
+###############################################################################
+nSet:=function(A,n) 
+    local B,a;
+	B:=[];
+    for a in IteratorOfCombinations(A,n) do
+	    Add(B,a);
+    od;
+	return B;
+end;	
+		
+###############################################################################
+# 22. OG中对象K上的所有筛
+###############################################################################
+AllSieves:=function(G,Obj,K)
+    local A,B,a;
+	A:=PowerSetNo(MaximalSieve(G,Obj,K));
+	B:=[];
+	for a in A do
+        if IsSieve(G,Obj,a)	then 
+            Add(B,a);
+		fi;		
+	od;
+	return AsSet(B);
+end;
+
+###############################################################################
+# 23. TG中对象K上的所有筛
+###############################################################################
+AllSievesTG:=function(G,Obj,K)
+    local A,B,a;
+	A:=PowerSetNo(MaximalSieveTG(G,Obj,K));
+	B:=[];
+	for a in A do
+	    if IsSieveTG(G,Obj,a) then
+		   Add(B,a);
+		fi;
+	od;
+	return AsSet(B);
+end;
+
+###############################################################################
+# 24. OG中对象K上的所有n元筛
+###############################################################################
+nSieves:=function(G,Obj,K,n)
+    local A,B,a;
+	A:=nSet(MaximalSieve(G,Obj,K),n);
+	B:=[];
+	for a in A do
+        if IsSieve(G,Obj,a)	then 
+            Add(B,a);
+		fi;		
+	od;
+	return AsSet(B);
+end;
+
+###############################################################################
+# 25. TG中对象K上的所有n元筛
+###############################################################################
+nSievesTG:=function(G,Obj,K,n)
+    local A,B,a;
+	A:=nSet(MaximalSieveTG(G,Obj,K),n);
+    B:=[];
+	for a in A do
+	    if IsSieveTG(G,Obj,a) then
+		   Add(B,a);
+		fi;
+	od;
+	return AsSet(B);
+end;
+
+###############################################################################
+# 26. OG中筛集A中的所有稠密拓扑的覆盖筛
+###############################################################################
+AllCoSieves:=function(G,Obj,A)
+    local B,a;
+	B:=[];
+	for a in A do
+	    if IsDenseCS(G,Obj,a) then
+		    Add(B,a);  
+		fi;                             
+	od;
+	return AsSet(B);
+end;
+
+###############################################################################
+# 27. TG中筛集A中的所有稠密拓扑的覆盖筛
+###############################################################################
+AllCoSievesTG:=function(G,Obj,A)
+    local B,a;
+	B:=[];
+	for a in A do
+	    if IsDenseCSTG(G,Obj,a) then
+		    Add(B,a);  
+		fi;                             
+	od;
+	return AsSet(B);
+end;
+
+###############################################################################
+# 28. OG中任意态射集A(不一定是筛集, 但输入的形式应和筛集的输入形式一样)中的
+#     所有稠密拓扑的覆盖筛
+###############################################################################
+AllCoverSieves:=function(G,Obj,A)
+    local B,a;
+	B:=[];
+	for a in A do
+	    if IsDCS(G,Obj,a) then
+		   Add(B,a);
+		fi;
+	od;
+	return AsSet(B);
+end;
+
+###############################################################################
+# 29. TG中任意态射集A(不一定是筛集, 但输入的形式应和筛集的输入形式一样)中的
+#     所有稠密拓扑的覆盖筛
+###############################################################################
+AllCoverSievesTG:=function(G,Obj,A)
+    local B,a;
+	B:=[];
+	for a in A do
+	    if IsDCSTG(G,Obj,a) then
+		   Add(B,a);
+		fi;
+	od;
+	return AsSet(B);
+end;
+
+###############################################################################
+# 30. 去掉List里面各元素的[], 即[[a],[b,c]]变为[a,b,c]
+###############################################################################
+DeleteBracket:=function(A)
+    local L,a;
+	L:=[];
+	for a in A do
+	     Add(L,a[1]);
+	od;
+	return L;
+end;
+
+###############################################################################
+# 31. OG中范畴的骨架
+###############################################################################
+IsoMap:=function(G,P,Q) # 给出所有互逆映射
+    local A,L,R,c,d;
+	L:=MorOG(G,P,Q);
+	R:=MorOG(G,Q,P);
+	A:=[];
+    for c in L do 
+         for d in R do
+		     if ComOG(G,c,d)=[P,(),P] and ComOG(G,d,c)=[Q,(),Q] then
+			     Add(A,[c,d]);
+			 fi;
+		 od; 
+	od;	
+	return A;
+end;
+
+IsIso:=function(G,P,Q) # 判断对象P和Q是否同构
+    if Length(IsoMap(G,P,Q)) <> 0 then
+	    return true;
+		else return false;
+	fi;
+end;
+
+IsoClass:=function(G,Obj,c) # c的同构类
+    local A,d;
+    A:=[];
+	for d in Obj do
+	    if IsIso(G,c,d) then 
+		   Add(A,d);
+		fi;
+	od;
+	return AsSet(A);
+end;
+
+SkeletonOG:=function(G,Obj) # 骨架范畴的对象
+    local A,d;
+	A:=[];
+	for d in Obj do
+        Add(A,IsoClass(G,Obj,d)[1]);
+	od;	
+	return AsSet(A);
+end;
+
+###############################################################################
+# 32. TG中范畴的骨架
+###############################################################################
+IsoMapTG:=function(G,P,Q) # 给出所有互逆映射
+    local A,L,R,c,d;
+	L:=MorTG(G,P,Q);
+	R:=MorTG(G,Q,P);
+	A:=[];
+    for c in L do 
+         for d in R do
+		     if ComTG(c,d)=[P,(),P] and ComTG(d,c)=[Q,(),Q] then
+			     Add(A,[c,d]);
+			 fi;
+		 od; 
+	od;	
+	return A;
+end;
+
+IsIsoTG:=function(G,P,Q) # 判断对象P和Q是否同构
+    if Length(IsoMapTG(G,P,Q)) <> 0 then
+	    return true;
+		else return false;
+	fi;
+end;
+
+IsoClassTG:=function(G,Obj,c) # c的同构类
+    local A,d;
+    A:=[];
+	for d in Obj do
+	    if IsIsoTG(G,c,d) then 
+		   Add(A,d);
+		fi;
+	od;
+	return AsSet(A);
+end;
+
+SkeletonTG:=function(G,Obj) # 骨架范畴的对象
+    local A,d;
+	A:=[];
+	for d in Obj do
+        Add(A,IsoClassTG(G,Obj,d)[1]);
+	od;	
+	return AsSet(A);
+end;
+
+###############################################################################
+# 33. OG中计算骨架范畴的稠密拓扑
+###############################################################################
+DenseTopOG:=function(G,Obj)
+    local B,D,c;
+	B:=[];
+	D:=SkeletonOG(G,Obj);
+	for c in D do
+	    Add(B,AllCoSieves(G,D,AllSieves(G,D,c)));
+	od;
+	return B;
+end;
+
+###############################################################################
+# 34. 将稠密拓扑的态射集的Domain和Codomain换成[1,(1,2),5]的形式(OG和TG都可用)
+###############################################################################
+DenseTopGraph:=function(Obj,A) 
+    local B;
+	B:=[];
+	B:=List([1..Length(A)], i -> List([1..Length(A[i])], j -> MorGraph(Obj,A[i][j]))); 
+	return B;
+end;
+
+###############################################################################
+# 35. TG中计算骨架范畴的稠密拓扑
+###############################################################################
+DenseTopTG:=function(G,Obj)
+    local B,D,c;
+	B:=[];
+	D:=SkeletonTG(G,Obj);
+	for c in D do
+	    Add(B,AllCoSievesTG(G,D,AllSievesTG(G,D,c)));
+	od;
+	return B;
+end;
+
+###############################################################################
+# 36. OG中计算范畴本身(不是它的骨架范畴)的稠密拓扑
+###############################################################################
+DenseTopOGNS:=function(G,Obj)
+    local B,c;
+	B:=[];
+	for c in Obj do
+	    Add(B,AllCoSieves(G,Obj,AllSieves(G,Obj,c)));
+	od;
+	return B;
+end;
+
+###############################################################################
+# 37. TG中计算范畴本身(不是它的骨架范畴)的稠密拓扑
+###############################################################################
+DenseTopTGNS:=function(G,Obj)
+    local B,c;
+	B:=[];
+	for c in Obj do
+	    Add(B,AllCoSievesTG(G,Obj,AllSievesTG(G,Obj,c)));
+	od;
+	return B;
+end;
+
+###############################################################################
+# 38. 转化为置换群
+###############################################################################
+ToPermutationGroup:=function(G)
+    return Image(IsomorphismPermGroup(G),G);
+end;
+
+###############################################################################
+# 39. 对象K上的所有拓扑筛J(K)的包含关系
+###############################################################################
+AdjacencyMatrix:=function(D) # J(K)里的对象按包含关系形成的邻接矩阵
+    local A,c,d,h;           # A[i][j]=1表示J(K)里的第i个筛包含在第j个筛里  
+    c:=Length(D);            # 如果A的第i行全是1, 说明J(K)的第i个筛包含在其他所有筛里面, 即该筛是最小筛
+    A:=NullMat(c,c);
+    for d in D do
+       for h in D do
+	      if Length(h) >= Length(d) and IsSubset(h,d) then
+		     A[Position(D,d)][Position(D,h)]:=1; 
+		  fi;
+	   od;
+	od;
+    return A;   	
+end;
+
+###############################################################################
+# 40. 集合A是否关于G-共轭运算封闭
+###############################################################################
+Conj:=function(G,A) 
+    local B,a,g;                        
+    B:=[];
+    for a in A do
+       for g in Elements(G) do
+	      Add(B,ConjugateSubgroup(a,g));
+	   od;
+	od;
+    return AsSet(B);   	
+end;
+
+IsConjClosed:=function(G,A)
+    if Conj(G,A)=A then 
+	    return true;
+	fi;
+end;
+
+###############################################################################
+# 41. OG的骨架范畴(包括所有态射)
+###############################################################################
+OGSkeleton:=function(G,Obj)
+    local A,B,a;
+    A:=SkeletonOG(G,Obj);
+    B:=[];
+	for a in A do
+	    Add(B,MaximalSieve(G,A,a));
+	od;
+	return B;
+end;
+
+###############################################################################
+# 42. OG范畴(包括所有态射)
+###############################################################################
+OGCat:=function(G,Obj)
+    local B,a;
+    B:=[];
+	for a in Obj do
+	    Add(B,MaximalSieve(G,Obj,a));
+	od;
+	return B;
+end;
+
+
+###############################################################################
+# Example 例子S_4
+###############################################################################
+G:=SymmetricGroup(4); 
+# G:=ToPermutationGroup(DirectProduct(CyclicGroup(2),CyclicGroup(2)));
+# G:=AlternatingGroup(4);
+# G:=DihedralGroup(IsPermGroup,8);
+OrG:=Order(G);
+Fac:=AsSet(Factors(OrG));
+Sub:=AllSubgroups(G);
+SubStr:=List(Sub, x -> StructureDescription(x));
+p:=Fac[1];
+pSub:=Filtered(List(Sub),x -> IsPrimePowerInt(Order(x)) and (Order(x) mod p=0)); # without identity subgroup
+H:=pSub[1];
+K:=pSub[19];
+L:=pSub[16];
+f:=MorOG(G,H,L)[1];
+g:=MorOG(G,L,K)[1];
+Obj:=pSub;
+Skeletal:=SkeletonOG(G,Obj);
+SkeletalTG:=SkeletonTG(G,Obj);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
