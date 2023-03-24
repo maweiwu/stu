@@ -123,7 +123,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Logical Perspectives 2022 Open Lectures](https://www.youtube.com/playlist?list=PLUbD59ZHv1GTDHJovZbi7ok6NQnNoh-7f) | [Recent Applications of the Theory of O-Minimal Structures to Various Questions in Hodge Theory (Fall Emphasis 2020)](https://www.youtube.com/playlist?list=PLZut3oE4FI0y1BXocVN0iF250kOAYtHIH) | [Map of the Universe](https://www.forkinganddividing.com/) |
 [Théorie des catégories, séminaire CLE, etc...](https://www.youtube.com/playlist?list=PLGsF4lFaErIiLOuQDBJJ6VkMgLsW9O0fq) | [Jonathan Weinberger](https://www.youtube.com/results?search_query=+Jonathan+Weinberger) | [Jonathan Weinberger_synthetic higher category theory](https://sites.google.com/view/jonathanweinberger?pli=1) |
 [Logic](https://www.youtube.com/playlist?list=PL_vIhjXh1UToQY4_fgW4qrRnUMkc0-y0J) | [Representation Theory in Verona](http://profs.sci.univr.it/~angeleri/RT%20Verona.html) | [PGF/TikZ Manual](https://tikz.dev/) |
-[Grothendieck Institute](Grothendieck Institute) |
+[Grothendieck Institute](https://igrothendieck.org/) |
 
 
 
