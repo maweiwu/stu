@@ -148,7 +148,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## Other stuff
 
-[最新SCI期刊查询及投稿分析系统](http://www.letpub.com.cn/index.php?page=journalapp&view=search) | [中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Core/CategoryList.aspx) | [教育网联邦认证与资源共享基础设施](https://www.carsi.edu.cn/experience.html) | [CARSI校外访问电子资源](https://www.lib.stu.edu.cn/article-1470.html) | [科睿唯安](http://archive.sciencewatch.com/about/met/classpapmultijour/) | [Antikillerfarm Hacking](https://antkillerfarm.github.io/) |
+[最新SCI期刊查询及投稿分析系统](http://www.letpub.com.cn/index.php?page=journalapp&view=search) | [中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Core/CategoryList.aspx) | [教育网联邦认证与资源共享基础设施](https://www.carsi.edu.cn/experience.html) | [CARSI校外访问电子资源](https://www.lib.stu.edu.cn/article-1470.html) | [科睿唯安](http://archive.sciencewatch.com/about/met/classpapmultijour/) | [Antikillerfarm Hacking](https://antkillerfarm.github.io/) | [MSC Classification Codes](https://cran.r-project.org/web/classifications/MSC.html) | [MSC2020-Mathematics Subject Classification System](https://zbmath.org/static/msc2020.pdf) | [1991 Mathematics Subject Classification](http://www.math.muni.cz/~bulik/math/mathematics_subject_classification.html) |
 
 ## CTeX and TeXstudio
 
