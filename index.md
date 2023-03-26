@@ -1563,7 +1563,7 @@ _____________________________________________________________________________
      
      e. 学拓扑斯理论回避拓扑空间就是最大的损失和错误。
 
-511. a. 对Type专家来说，**找到Type的Homotopy模型**是一件了不起的创举，因为它解决了Type唯一而同构不唯一的问题。Introduction to Homotopy Type Theory by Egbert Rijke. 
+511. a. 对Type专家来说，**找到Type的Homotopy模型**是一件了不起的创举，因为它解决了Type唯一而同构不唯一的问题。[Introduction to Homotopy Type Theory by Egbert Rijke.](https://arxiv.org/abs/2212.11082) 
 
      b. **Type Theory是一种语言，Homotopy解释是它其中一种模型**。
  
