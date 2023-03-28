@@ -156,7 +156,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## Talks
 
-[研究生学术论坛](http://oa.stu.edu.cn/page/maint/template/news/newstemplateprotal.jsp?templatetype=1&templateid=3&docid=31765)
+[研究生学术论坛](http://math.stu.edu.cn/info/1053/2702.htm)
 
 ## Favorite mathematicians and students
 
