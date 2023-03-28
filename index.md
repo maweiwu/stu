@@ -154,6 +154,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [ctx: 清华TUNA开源镜像(full.exe)](https://ctex.org/ctex/download/) | [TeXstudio](https://www.texstudio.org/) |
 
+## Talks
+
+[研究生学术论坛](http://oa.stu.edu.cn/page/maint/template/news/newstemplateprotal.jsp?templatetype=1&templateid=3&docid=31765)
+
 ## Favorite mathematicians and students
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
