@@ -126,6 +126,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Théorie des catégories, séminaire CLE, etc...](https://www.youtube.com/playlist?list=PLGsF4lFaErIiLOuQDBJJ6VkMgLsW9O0fq) | [Jonathan Weinberger](https://www.youtube.com/results?search_query=+Jonathan+Weinberger) | [Jonathan Weinberger_synthetic higher category theory](https://sites.google.com/view/jonathanweinberger?pli=1) |
 [Logic](https://www.youtube.com/playlist?list=PL_vIhjXh1UToQY4_fgW4qrRnUMkc0-y0J) | [Representation Theory in Verona](http://profs.sci.univr.it/~angeleri/RT%20Verona.html) | [PGF/TikZ Manual](https://tikz.dev/) |
 [Grothendieck Institute](https://igrothendieck.org/) | [Catégories, Logique, Etc...](https://sites.google.com/site/logiquecategorique/accueil) | [群与图讨论班](https://www.gtseminar.xyz/index.html) |
+[PPGMPA-UFSC](https://www.youtube.com/@ppgmpa-ufsc553/playlists) |
 
 
 
