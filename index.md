@@ -1592,6 +1592,8 @@ _____________________________________________________________________________
      k. 看Type文献：**1. 用了什么模型去解释Type语言，该模型构造了怎样的Type语言，Type语言能解决模型的哪些问题**。    
 
 512. 融合系中的正规化子、中心化子等本质上是融合系范畴中的态射，在群中看很复杂，但在范畴中看就是很**具体可算的态射**。把正规化子、中心化子从态射的角度看，而不要当群的结构看。各种子群看成是态射的不同组成部分。各种特殊的p-子群看成是具有各种不同态射的对象。
+
+513. 可以通过软件感受复杂理论。[packages provided with Macaulay2](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.17/share/doc/Macaulay2/Macaulay2Doc/html/_packages_spprovided_spwith_sp__Macaulay2.html)
  
 
 
