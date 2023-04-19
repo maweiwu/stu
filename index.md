@@ -154,7 +154,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ## CTeX and TeXstudio
 
-[ctx: 清华TUNA开源镜像(full.exe)](https://ctex.org/ctex/download/) | [TeXstudio](https://www.texstudio.org/) |
+[ctx: 清华TUNA开源镜像(full.exe)](https://ctex.org/ctex/download/) | [TeXstudio](https://www.texstudio.org/) | [latex 模板](https://www.overleaf.com/latex/templates/tagged/math/) |
 
 ## Talks
 
