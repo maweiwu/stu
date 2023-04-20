@@ -127,7 +127,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Logic](https://www.youtube.com/playlist?list=PL_vIhjXh1UToQY4_fgW4qrRnUMkc0-y0J) | [Representation Theory in Verona](http://profs.sci.univr.it/~angeleri/RT%20Verona.html) | [PGF/TikZ Manual](https://tikz.dev/) |
 [Grothendieck Institute](https://igrothendieck.org/) | [Catégories, Logique, Etc...](https://sites.google.com/site/logiquecategorique/accueil) | [群与图讨论班](https://www.gtseminar.xyz/index.html) |
 [PPGMPA-UFSC](https://www.youtube.com/@ppgmpa-ufsc553/playlists) | [Macaulay2Doc :: CoherentSheaf](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.17/share/doc/Macaulay2/Macaulay2Doc/html/___Coherent__Sheaf.html) | [Macaulay2Doc -- Macaulay2 documentation](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.17/share/doc/Macaulay2/Macaulay2Doc/html/index.html) |
-[packages provided with Macaulay2](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.17/share/doc/Macaulay2/Macaulay2Doc/html/_packages_spprovided_spwith_sp__Macaulay2.html) | [Theory and Applications of Categories](http://www.tac.mta.ca/tac/) |
+[packages provided with Macaulay2](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.17/share/doc/Macaulay2/Macaulay2Doc/html/_packages_spprovided_spwith_sp__Macaulay2.html) | [Theory and Applications of Categories](http://www.tac.mta.ca/tac/) | [Higher Symplectic Stacks](https://www.bilibili.com/video/BV1he4y167ut/?spm_id_from=333.337.search-card.all.click) |
 
 
 
