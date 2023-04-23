@@ -1598,6 +1598,8 @@ _____________________________________________________________________________
 513. 可以通过软件感受复杂理论。[packages provided with Macaulay2](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.17/share/doc/Macaulay2/Macaulay2Doc/html/_packages_spprovided_spwith_sp__Macaulay2.html)
 
 514. 唯一分解系统解释得很好。[Grothendieck topologies from unique factorisation systems](https://arxiv.org/abs/0902.1130)
+
+515. 高阶范畴的好处（美妙之处）之一是可以**将低阶范畴中的复杂结构（数据）转移（摊开）过来看**。如Monad可以转移为Lax Functor。[Generalization of formal monad theory to lax functors](https://arxiv.org/pdf/2301.06420.pdf)
  
 
 
