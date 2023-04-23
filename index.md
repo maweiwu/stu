@@ -1599,7 +1599,7 @@ _____________________________________________________________________________
 
 514. 唯一分解系统解释得很好。[Grothendieck topologies from unique factorisation systems](https://arxiv.org/abs/0902.1130)
 
-515. 高阶范畴的好处（美妙之处）之一是可以**将低阶范畴中的复杂结构（数据）转移（摊开）过来看**。如Monad可以转移为Lax Functor。[Generalization of formal monad theory to lax functors](https://arxiv.org/pdf/2301.06420.pdf)
+515. 高阶范畴的好处（美妙之处）之一是可以**将低阶范畴中的复杂结构（数据）转移（摊开）过来看**。如Monad可以转移为Lax Functor。[Generalization of formal monad theory to lax functors](https://arxiv.org/pdf/2301.06420.pdf) **美妙之处：数据转移**
  
 
 
