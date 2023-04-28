@@ -1603,7 +1603,7 @@ _____________________________________________________________________________
 
 515. 高阶范畴的好处（美妙之处）之一是可以**将低阶范畴中的复杂结构（数据）转移（摊开）过来看**。如Monad可以转移为Lax Functor。[Generalization of formal monad theory to lax functors](https://arxiv.org/pdf/2301.06420.pdf) **美妙之处：数据转移**
 
-516. （怎样看待和理解拓扑斯中的内蕴语言？）拓扑斯Sh(X)中的**某些内蕴语言“=”一个层**，好比Set中的某些集合语言句子定义了一个集合。C. Mulvey. "Intuitionistic algebra and representations of rings". In: Recent Advances in the Representation Theory of Rings and C*-algebras by Continuous Sections. Ed. by K. H. Hofmann and J. R. Liukkonen. Vol. 148. Mem. Amer. Math. Soc. American Mathematical Society, 1974.
+516. （怎样看待和理解拓扑斯中的内蕴语言？）拓扑斯Sh(X)中的**某些内蕴语言“=（解释为interpret）”一个层**，好比Set中的某些集合语言句子定义了一个集合。C. Mulvey. "Intuitionistic algebra and representations of rings". In: Recent Advances in the Representation Theory of Rings and C*-algebras by Continuous Sections. Ed. by K. H. Hofmann and J. R. Liukkonen. Vol. 148. Mem. Amer. Math. Soc. American Mathematical Society, 1974.
  
 
 
