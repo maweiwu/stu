@@ -130,6 +130,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [packages provided with Macaulay2](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.17/share/doc/Macaulay2/Macaulay2Doc/html/_packages_spprovided_spwith_sp__Macaulay2.html) | [Theory and Applications of Categories](http://www.tac.mta.ca/tac/) | [Higher Symplectic Stacks](https://www.bilibili.com/video/BV1he4y167ut/?spm_id_from=333.337.search-card.all.click) |
 [Computational aspects of finite p-groups](https://users.monash.edu/~heikod/cpg2020/) | [Beijing Logic Meeting July 24-28, 2023](https://lcs.ios.ac.cn/blm/) | [Online Worldwide Seminars in Logic and Semantics](https://www.youtube.com/@onlineworldwideseminarsinl97/videos) |
 [sheaf representation_Chris Heunen](https://www.youtube.com/@ChrisHeunen/featured) | [MacTutor History of Mathematics Archive](https://mathshistory.st-andrews.ac.uk/) | [Model Theory](https://plato.stanford.edu/entries/model-theory/) |
+[Christopher J. Mulvey(topos)](https://www.researchgate.net/scientific-contributions/Christopher-J-Mulvey-72429722) |
 
 
 
