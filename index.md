@@ -1606,6 +1606,8 @@ _____________________________________________________________________________
 516. （怎样看待和理解拓扑斯中的内蕴语言？）拓扑斯Sh(X)中的**某些内蕴语言“=”或“解释(interpret)为”一个层**，好比Set中的某些集合语言句子定义了一个集合。C. Mulvey. "Intuitionistic algebra and representations of rings". In: Recent Advances in the Representation Theory of Rings and C*-algebras by Continuous Sections. Ed. by K. H. Hofmann and J. R. Liukkonen. Vol. 148. Mem. Amer. Math. Soc. American Mathematical Society, 1974.
 
 517. 读拓扑斯的内蕴语言时就采用形式语言的读法，**不要代入任何解释**，完全按照机器的模式识别方式来读。比如某点推到某点是基于哪条规则/公理，**而不用思考它是什么意思，只需抓住推导形式**。
+
+518. 读Type Theory和拓扑斯的内蕴语言时，不要掺入任何解释，不用做任何合理的思考，唯一需要做的就是抓取模式，形式推导。不问含义，这样才能体现形式化的好处。不问含义，也才能让推导不被语义干扰。不问含义，只问“**这点是由哪条准则、公理推出来？**”。
  
 
 
