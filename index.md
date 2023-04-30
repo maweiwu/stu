@@ -131,6 +131,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Computational aspects of finite p-groups](https://users.monash.edu/~heikod/cpg2020/) | [Beijing Logic Meeting July 24-28, 2023](https://lcs.ios.ac.cn/blm/) | [Online Worldwide Seminars in Logic and Semantics](https://www.youtube.com/@onlineworldwideseminarsinl97/videos) |
 [sheaf representation_Chris Heunen](https://www.youtube.com/@ChrisHeunen/featured) | [MacTutor History of Mathematics Archive](https://mathshistory.st-andrews.ac.uk/) | [Model Theory](https://plato.stanford.edu/entries/model-theory/) |
 [Christopher J. Mulvey (topos)](https://www.researchgate.net/scientific-contributions/Christopher-J-Mulvey-72429722) | [Christopher J. Mulvey: "Constructive aspects of Gelfand duality"](https://www.youtube.com/watch?v=jPyVX4IreC4) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) |
+[Things to watch-Mathieu ANEL](http://mathieu.anel.free.fr/index.html) |
 
 
 
