@@ -132,7 +132,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [sheaf representation_Chris Heunen](https://www.youtube.com/@ChrisHeunen/featured) | [MacTutor History of Mathematics Archive](https://mathshistory.st-andrews.ac.uk/) | [Model Theory](https://plato.stanford.edu/entries/model-theory/) |
 [Christopher J. Mulvey (topos)](https://www.researchgate.net/scientific-contributions/Christopher-J-Mulvey-72429722) | [Christopher J. Mulvey: "Constructive aspects of Gelfand duality"](https://www.youtube.com/watch?v=jPyVX4IreC4) | [Posts to the Category Theory Mailing List](https://www.mta.ca/~cat-dist/catlist/1999/) |
 [Things to watch-Mathieu ANEL](http://mathieu.anel.free.fr/index.html) | [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) | [Volodymyr Mazorchuk's Papers on arxiv](https://arxiv.org/find/math/1/au:+Mazorchuk_V/0/1/0/all/0/1) |
-[天元表示论讨论班](https://space.bilibili.com/7037545/channel/series) | [sheaves and logic](https://sites.google.com/view/pssl-107-athens/schedule) |
+[天元表示论讨论班](https://space.bilibili.com/7037545/channel/series) | [sheaves and logic](https://sites.google.com/view/pssl-107-athens/schedule) | [Virtual Double Categories Workshop](https://www.youtube.com/@DoubleCategoriesWorkshop/featured) |
 
 
 
