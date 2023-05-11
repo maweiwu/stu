@@ -1646,6 +1646,8 @@ _____________________________________________________________________________
 534. 内蕴语言的**存在**和**任意**量词在拓扑斯（范畴）中的解释理解为限制函子的**左、右 Kan 扩张**。
 
 535. 内蕴语言中的存在、任意、限制符号可以左、右 Kan 扩张、限制去读，**Beck–Chevalley 条件也可以用左、右 Kan 扩张、限制去读**。如 Michael Makkai, Gonzalo E. Reyes,  First Order Categorical Logic-Model-Theoretical Methods in the Theory of Topoi and Related Categories 第 102 页。
+
+536. **逻辑真的很强大**，处理左、右Kan扩张函子就只是在处理存在和任意量词。BC条件、左右kan扩张与积和余积的关系就只是量词与且和或算子的关系。见以上书籍的第 105-106 页。 
  
 
 
