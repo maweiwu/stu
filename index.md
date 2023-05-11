@@ -1634,6 +1634,10 @@ _____________________________________________________________________________
 528. 如何给出高阶结构所满足的匹配条件：找出它与**邻阶**结构之间的关系。如 2-范畴、伪函子等定义中的数据所满足的匹配性条件。只需追踪**邻阶**的情形，这样不至于迷失自己。
 
 529. 内蕴构造要满足的各种匹配性条件也是考虑所有**可能的关系**，然后**拼接**成交换图（定义域、值域拼接游戏）。见第 7-8 页内蕴范畴和内蕴预层定义中的各种交换图。[Internal presheaves toposes](http://www.numdam.org/item/CTGDC_1977__18_3_291_0/)
+
+530. If asked what is the most immediate point of eontact between the Grothendieck theory and logic, we would point to the notion of a **site**, a category with a Grothendieek topology. It seems to us that it is most natural to identify a site with a theory, in the context of continuous functors from the site. The point is that **the notion of a covering has the same arbitrary nature as an axiom**; and in fact, **each covering is considered an axiom** in the precise identification we will consider below, explicitly first in Chapter 6, Section i. 见 Michael Makkai, Gonzalo E. Reyes,  First Order Categorical Logic-Model-Theoretical Methods in the Theory of Topoi and Related Categories 第 3 页。  
+
+531. Grothendieck theory vs logic: sites = theories, topologies = axioms.
  
 
 
