@@ -1638,6 +1638,11 @@ _____________________________________________________________________________
 530. If asked what is the most immediate point of eontact between the Grothendieck theory and logic, we would point to the notion of a **site**, a category with a Grothendieek topology. It seems to us that it is most natural to identify a site with a theory, in the context of continuous functors from the site. The point is that **the notion of a covering has the same arbitrary nature as an axiom**; and in fact, **each covering is considered an axiom** in the precise identification we will consider below, explicitly first in Chapter 6, Section i. 见 [Michael Makkai, Gonzalo E. Reyes,  First Order Categorical Logic-Model-Theoretical Methods in the Theory of Topoi and Related Categories](https://link.springer.com/book/10.1007/BFb0066201) 第 3 页。  
 
 531. Grothendieck theory vs logic: sites = theories, topologies = axioms.
+
+532. 逻辑在拓扑斯（范畴）中的解释也是用“**机械脑**”读。
+
+533. **自立门户**，不做与国内其他人做的课题相近的东西。不拾人牙慧。
+534. 
  
 
 
