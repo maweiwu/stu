@@ -1649,7 +1649,7 @@ _____________________________________________________________________________
 
 536. **逻辑真的很强大**，处理左、右Kan扩张函子就只是在处理存在和任意量词。BC条件、左右kan扩张与积和余积的关系就只是量词与且和或算子的关系。见以上书籍的第 105-106 页。 2023-5-11 19:58 于汕大图书馆阅览室。
 
-537. 理解怎么在模范畴或预加法范畴中定义一种形式语言（Sorts 是什么，这些形式语言表达的含义：如像、核等） 见 Mike Prest 的文章[Categories of imaginaries for definable additive categories](https://arxiv.org/abs/1202.0427)
+537. 理解怎么在模范畴或预加法范畴中定义一种形式语言（Sorts 是什么，这些形式语言表达的含义：如像、核等，如何用形式语言来表达函子的一些性质，预加法范畴的凝聚性等） 见 Mike Prest 的文章[Categories of imaginaries for definable additive categories](https://arxiv.org/abs/1202.0427)
  
 
 
