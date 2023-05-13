@@ -1648,6 +1648,8 @@ _____________________________________________________________________________
 535. 内蕴语言中的存在、任意、限制符号可以左、右 Kan 扩张、限制去读，**Beck–Chevalley 条件也可以用左、右 Kan 扩张、限制去读**。如 Michael Makkai, Gonzalo E. Reyes,  First Order Categorical Logic-Model-Theoretical Methods in the Theory of Topoi and Related Categories 第 102 页。
 
 536. **逻辑真的很强大**，处理左、右Kan扩张函子就只是在处理存在和任意量词。BC条件、左右kan扩张与积和余积的关系就只是量词与且和或算子的关系。见以上书籍的第 105-106 页。 2023-5-11 19:58 于汕大图书馆阅览室。
+
+537. 理解怎么在模范畴或预加法范畴中定义一种形式语言（Sorts 是什么，这些形式语言表达的含义：如像、核等） 见 Mike Prest 的文章[Categories of imaginaries for definable additive categories](https://arxiv.org/abs/1202.0427)
  
 
 
