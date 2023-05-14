@@ -1651,6 +1651,8 @@ _____________________________________________________________________________
 537. 理解怎么在模范畴或预加法范畴中定义一种形式语言（Sorts 是什么，这些形式语言表达的含义：如像、核等，如何用形式语言来表达函子的一些性质，预加法范畴的凝聚性等） 见 Mike Prest 的文章 [Categories of imaginaries for definable additive categories](https://arxiv.org/abs/1202.0427)
 
 538. Notice that the category (R-mod,Ab) is just the category of “modules” over the “ring with many objects” R-mod (better, over a small version of this). Concepts for modules over a ring generally make good sense in this context and largely can be understood in this way (that is, as having the same content that they have for modules). There is a full embedding of Mod-R into (R-mod,Ab). 可以理解为模范畴之间的嵌入。后者是多个对象的环的模范畴。pure "=" 能由大的回到小的。（pure submodule）
+
+539. 一个集合是非空的和一个集合是 inhabited 的是不一样的，前者程度更低，后者不仅说明了非空，而且还给出存在的对象。
  
 
 
