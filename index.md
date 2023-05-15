@@ -1654,7 +1654,7 @@ _____________________________________________________________________________
 
 539. 一个集合是非空的和一个集合是 inhabited 的是不一样的，前者程度更低，后者不仅说明了非空，而且还给出存在的对象。
 
-540. [Model Theory and Modules](http://library.lol/main/427419F3AE4FC5D0EA4220FF24B2B25F) 
+540. 模范畴中的模型论解释得比较易懂。[Model Theory and Modules](http://library.lol/main/427419F3AE4FC5D0EA4220FF24B2B25F) 
  
 
 
