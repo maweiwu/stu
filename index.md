@@ -134,7 +134,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Things to watch-Mathieu ANEL](http://mathieu.anel.free.fr/index.html) | [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) | [Volodymyr Mazorchuk's Papers on arxiv](https://arxiv.org/find/math/1/au:+Mazorchuk_V/0/1/0/all/0/1) |
 [天元表示论讨论班](https://space.bilibili.com/7037545/channel/series) | [sheaves and logic](https://sites.google.com/view/pssl-107-athens/schedule) | [Virtual Double Categories Workshop](https://www.youtube.com/@DoubleCategoriesWorkshop/featured) |
 [Francis Borceux - 拓扑斯理论的非正式概述 1-5](https://www.bilibili.com/video/BV1CV4y1k7EA/?spm_id_from=333.788.recommend_more_video.-1) | [The Topos Institute Colloquium](https://topos.site/topos-colloquium/) | [Categories and Companions Symposium - 2022](https://www.youtube.com/@CaCS2022) |
-[FMF Foundations seminar](https://www.youtube.com/@fmffoundationsseminar6878/videos) |
+[FMF Foundations seminar](https://www.youtube.com/@fmffoundationsseminar6878/videos) | [An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo) |
 
 
 
@@ -1660,6 +1660,8 @@ _____________________________________________________________________________
 541. 读文章不仅需要细细地抠每个证明过程，而且需要**粗粗地品背后可行的原因**。后者我往往忽略，粗粗地品不至于让自己迷失在细节里，从而**在粗视觉下找到推广的可能性**。2023-5-19 21:35 于汕大图书馆 
 
 542. 我总是太焦虑、太仓促，不给自己从粗视觉去品文章的时间。我需要慢下来品文献中结论成立背后的原因（粗视觉下）。
+
+543. 很精彩的报告，有许多类比和例子。[An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo)
  
 
 
