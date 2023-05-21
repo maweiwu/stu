@@ -1662,6 +1662,8 @@ _____________________________________________________________________________
 542. 我总是太焦虑、太仓促，不给自己从粗视觉去品文章的时间。我需要慢下来品文献中结论成立背后的原因（粗视觉下）。
 
 543. 很精彩的报告，有许多类比和例子。[An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo)
+
+544. 图表读法（由上至下）：“去根、根再去根...”。M/Rad(M)=图表第一行，Rad(M)/Rad(Rad(M))=图表第二行，... 见 [Predicting syzygies over monomial relations algebras](https://link.springer.com/article/10.1007/BF02568368) 的第 171 页，或者 [Diagrams for modules](https://www.sciencedirect.com/science/article/pii/0022404980900109) 第 118 页。
  
 
 
