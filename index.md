@@ -198,6 +198,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Frédéric Déglise](https://www.frias.uni-freiburg.de/en/people/fellows/current-fellows/deglise) | [Edward Poon](https://faculty.erau.edu/edward.poon) | [Qiaochu Yuan](https://math.berkeley.edu/~qchu/) | [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger?pli=1) | [Mamuka Jibladze‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=2pl3Im4AAAAJ&hl=en) | [Mamuka Jibladze](https://rmi.tsu.ge/~jib/) | [Peter Johnstone](https://www.dpmms.cam.ac.uk/person/ptj1000) | [Gunter Malle](https://agag-malle.math.rptu.de/~malle/en/index.html) | [Hideto Asashiba](https://wwp.shizuoka.ac.jp/asashiba/hideto-asashibas-website/) | [Sanming Zhou](https://researchers.ms.unimelb.edu.au/~sanming@unimelb/) |
 [Chenchang Zhu](https://www.uni-math.gwdg.de/zhu/) | [Pavel Etingof](https://math.mit.edu/~etingof/) | [Orlov, Dmitri Olegovich](https://www.mathnet.ru/php/person.phtml?&personid=11896&option_lang=eng) | [Katrin Tent](https://ivv5hpp.uni-muenster.de/u/tent/) | [Gianluca Paolini](https://sites.google.com/view/gianlucapaolini/home) | [Junguk Lee](https://sites.google.com/site/leejunguk0323/home) | [Bakh M.Khoussainov](https://bakh-tcs.github.io/) | [Olga Kharlampovich](http://math.hunter.cuny.edu/olgak/) | [Michel Broué](https://webusers.imj-prg.fr/~michel.broue/) | [Steve Awodey](https://awodey.github.io/) |
 [Jaap van Oosten](https://webspace.science.uu.nl/~ooste110/index.html) | [CHAN Aaron Kay Yam](https://profs.provost.nagoya-u.ac.jp/html/100009327_en.html) | [Alexander Moretó](https://www.uv.es/jmedina/) | [Volodymyr Mazorchuk](http://www2.math.uu.se/~mazor/) | [Marino Gran](https://perso.uclouvain.be/marino.gran/) | [Robert Paré](https://www.mscs.dal.ca/~pare/) | [Amnon Yekutieli](https://www.math.bgu.ac.il/~amyekut/) | [Chris Heunen](https://www.research.ed.ac.uk/en/persons/chris-heunen) | [Severin Barmeier](https://sites.google.com/view/severin-barmeier) | [Sefi Ladkani](https://www.math.uni-bonn.de/people/sefil/) |
+[David Kazhdan](http://www.ma.huji.ac.il/~kazhdan/) |
+
+
+
 
 ## Math-life balance
 
