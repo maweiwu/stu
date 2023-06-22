@@ -25,6 +25,8 @@ Email: mawaywoo(at)126(dot)com
 
 ---
 
+博士毕业 2023-6-21 
+
 
 ## Personal information
 
