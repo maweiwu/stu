@@ -25,11 +25,6 @@ Email: mawaywoo(at)126(dot)com
 
 ---
 
-——————
-
-***
-
-###
 
 ## Personal information
 
