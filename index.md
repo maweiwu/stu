@@ -162,17 +162,33 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Conferences Related to Topology, Mirror Symmetry or Symplectic Geometry](https://www.hiroleetanaka.com/index.php?pageID=conferences) | [Categories List](https://www.mta.ca/~cat-dist/) | [Category Theory OctoberFest](https://ct-octoberfest.github.io/) | [Online Number Theory Seminar](http://www.mcm.ac.cn/events/seminars/202009/t20200901_599709.html) | [Toposes online](https://aroundtoposes.com/toposesonline/?contact-form-id=707&contact-form-sent=1256&contact-form-hash=bca8cd363af3e997281f9b02e80f12084c488124&_wpnonce=490d42af3e#contact-form-707) | [Gunter Malle](https://www.mathematik.uni-kl.de/agag/personen/leitung/malle/) |
 [Groups, representations and applications: new perspectives](https://www.newton.ac.uk/event/gra2/) | [Model Theory Conference](http://www.math.uni.wroc.pl/~pkowa/ln20.html) | [Differential Graded Algebra Techniques in Commutative Algebra on January 2-4, 2022](http://math.ipm.ac.ir/conferences/2022/18th_commalg/) | [MSRI Special Session on Combinatorial and Homological Methods in Commutative Algebra](https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_ss32.html#title) |
 
+博士毕业 2023-6-21 
+
+---
+
 ## Other stuff
 
 [最新SCI期刊查询及投稿分析系统](http://www.letpub.com.cn/index.php?page=journalapp&view=search) | [中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Core/CategoryList.aspx) | [教育网联邦认证与资源共享基础设施](https://www.carsi.edu.cn/experience.html) | [CARSI校外访问电子资源](https://www.lib.stu.edu.cn/article-1470.html) | [科睿唯安](http://archive.sciencewatch.com/about/met/classpapmultijour/) | [Antikillerfarm Hacking](https://antkillerfarm.github.io/) | [MSC Classification Codes](https://cran.r-project.org/web/classifications/MSC.html) | [MSC2020-Mathematics Subject Classification System](https://zbmath.org/static/msc2020.pdf) | [1991 Mathematics Subject Classification](http://www.math.muni.cz/~bulik/math/mathematics_subject_classification.html) | [MSC - Mathematical Subject Classification Scheme of the AMS 2000 - Reference Description](https://www.iwi-iuk.uni-osnabrueck.de/material/RDF/Schema/Class/Extern/MSC.html) | [Mathematics Subject Classification – Algebra](https://www.ub.uni-heidelberg.de/fachinfo/mathe/msc/algebra.html) | [Editage](https://www.editage.com/insights/what-is-the-time-taken-for-the-re-review-process-once-we-submit-a-revised-manuscript) |
+
+博士毕业 2023-6-21 
+
+---
 
 ## CTeX and TeXstudio
 
 [ctx: 清华TUNA开源镜像(full.exe)](https://ctex.org/ctex/download/) | [TeXstudio](https://www.texstudio.org/) | [latex 模板](https://www.overleaf.com/latex/templates/tagged/math/) |
 
+博士毕业 2023-6-21 
+
+---
+
 ## Talks
 
 [研究生学术论坛](http://math.stu.edu.cn/info/1053/2702.htm)
+
+博士毕业 2023-6-21 
+
+---
 
 ## Favorite mathematicians and students
 
@@ -206,7 +222,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Jaap van Oosten](https://webspace.science.uu.nl/~ooste110/index.html) | [CHAN Aaron Kay Yam](https://profs.provost.nagoya-u.ac.jp/html/100009327_en.html) | [Alexander Moretó](https://www.uv.es/jmedina/) | [Volodymyr Mazorchuk](http://www2.math.uu.se/~mazor/) | [Marino Gran](https://perso.uclouvain.be/marino.gran/) | [Robert Paré](https://www.mscs.dal.ca/~pare/) | [Amnon Yekutieli](https://www.math.bgu.ac.il/~amyekut/) | [Chris Heunen](https://www.research.ed.ac.uk/en/persons/chris-heunen) | [Severin Barmeier](https://sites.google.com/view/severin-barmeier) | [Sefi Ladkani](https://www.math.uni-bonn.de/people/sefil/) |
 [David Kazhdan](http://www.ma.huji.ac.il/~kazhdan/) | [Warren May](https://www.math.arizona.edu/~may/) | [Birge Huisgen-Zimmermann](https://web.math.ucsb.edu/~birge/) | [Gernot Stroth](https://www2.mathematik.uni-halle.de/stroth/) |
 
+博士毕业 2023-6-21 
 
+---
 
 
 ## Math-life balance
@@ -249,9 +267,17 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [zeelab](https://zeelab.xyz/)
 
+博士毕业 2023-6-21 
+
+---
+
 ## Radio
 
 [Toronto](https://tunein.com/radio/Stream-Toronto-r100597/)
+
+博士毕业 2023-6-21 
+
+---
 
 ## 看论文时的古典音乐
 
@@ -267,11 +293,19 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [The Best of Piano: The most beautiful classical piano pieces for relax & study](https://www.youtube.com/watch?v=cGYyOY4XaFs)
 
+博士毕业 2023-6-21 
+
+---
+
 ## 电影
 
 [不求上进的玉子](https://www.youtube.com/watch?v=-1-GTm5mo4g)
 
 [夏美的萤火虫](https://www.youtube.com/watch?v=zqIDhvlCCsQ&list=PLWxOqbSJOoIGFbIHkq18utnnJU0XXU1nV&index=2)
+
+博士毕业 2023-6-21 
+
+---
 
 ## 音乐
 
@@ -299,6 +333,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [HappyKeroMusic](https://www.youtube.com/channel/UCXwExSLMSpQUiFijSujdZiA/videos)
 
+博士毕业 2023-6-21 
+
+---
 
 
 ## 书法
@@ -339,17 +376,33 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [書法之家](https://www.youtube.com/channel/UCA6g-GV_pzfFI5GrrhcBZFQ)
 
+博士毕业 2023-6-21 
+
+---
+
 ## 美术
 
 [国画教学](https://www.youtube.com/channel/UC6_nh3dpQG5V9MhOFd2Srvg)
+
+博士毕业 2023-6-21 
+
+---
 
 ## 朗诵
 
 [閱讀經典](https://www.youtube.com/playlist?list=PLTA331gAcY6kgSeIlnnW2iUamt5woHUnl)
 
+博士毕业 2023-6-21 
+
+---
+
 ## 手机维修
 
 [NorthridgeFix](https://www.youtube.com/c/NorthridgeFix/videos)
+
+博士毕业 2023-6-21 
+
+---
 
 ## NET(2022-11-20 16:18)
 
@@ -371,6 +424,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [2022_抛弃VPN，小白专属V2Ray搭建+客户端配置教程！搬瓦工如何搭建V2Ray完整教程！](https://www.youtube.com/watch?v=rPTzORHg5lQ)
 
+博士毕业 2023-6-21 
+
+---
+
 
 ## French learning (math SGA)
 
@@ -379,6 +436,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Théorie des catégories, séminaire CLE, etc...](https://www.youtube.com/playlist?list=PLGsF4lFaErIiLOuQDBJJ6VkMgLsW9O0fq) 
 
 [Stéphane Dugowson](https://www.youtube.com/@StephaneDugowson/playlists) 
+
+博士毕业 2023-6-21 
+
+---
 
 
 | French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
@@ -408,6 +469,10 @@ My research interests are in representation theory, (higher) topos theory, homot
 | aide | 帮助 | maintenant | 现在, 目前 | pleinement | 完全, 充分 | près | 附近的 | fixer | 使固定 | 
 | fois | 次, 回, 倍, 一旦, 一...就 | nous | 我们 | toujours | 总是, 永远, 仍旧 | fidèle | 忠实的, 不变的 | pleine | 怀孕的(充满的, 富于想象的, 富于成果的) |
 | plein | 彻底的, 绝对地, 完全地 | SGA4-1 | page 6 | 
+
+博士毕业 2023-6-21 
+
+---
 
 ## 学习心得体会
 
@@ -1675,6 +1740,10 @@ _____________________________________________________________________________
 543. 很精彩的报告，有许多类比和例子。[An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo)
 
 544. 图表读法（由上至下）：“去根、根再去根...”。M/Rad(M)=图表第一行，Rad(M)/Rad(Rad(M))=图表第二行，... 见 [Predicting syzygies over monomial relations algebras](https://link.springer.com/article/10.1007/BF02568368) 的第 171 页，或者 [Diagrams for modules](https://www.sciencedirect.com/science/article/pii/0022404980900109) 第 118 页。画不可分解投射模 Ae_i 的 diagram 的方法，首先由决定不可分解模的顶点 e_i 出发，图表中向下线段为由 e_i 出发的道路，到达后再根据箭图关系继续往前寻找由新顶点为起点的道路... 见 [Predicting syzygies over monomial relations algebras](https://link.springer.com/article/10.1007/BF02568368) 的第 176 页中的例 6 。2023-5-21 15:27 于汕大图书馆
+
+博士毕业 2023-6-21 
+
+---
  
 
 
