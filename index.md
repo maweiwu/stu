@@ -23,6 +23,14 @@ Email: mawaywoo(at)126(dot)com
 
 我的兴趣在homotopy type theory，higher category theory，topos theory，internal category theory (internalization)。**坚持靠自己啃出来**。找到自己真正的兴趣，不唯文章。
 
+---
+
+——————
+
+***
+
+###
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
