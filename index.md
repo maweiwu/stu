@@ -31,12 +31,25 @@ Email: mawaywoo(at)126(dot)com
 
 Currently I'm doing my PhD in China. 
 
+博士毕业 2023-6-21 
+
+---
+
 ## Research
 
 My research interests are in representation theory, (higher) topos theory, homotopy type theory. 
 
+博士毕业 2023-6-21 
+
+---
+
 ## Publication
 
+[Skew category algebras and modules on ringed finite sites](https://www.sciencedirect.com/science/article/abs/pii/S0021869323002181)
+
+博士毕业 2023-6-21 
+
+---
 ## Useful links
 | A | B | C |
 |:---------|:---------------------|:---------------|
