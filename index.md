@@ -141,7 +141,9 @@ My research interests are in representation theory, (higher) topos theory, homot
 [FMF Foundations seminar](https://www.youtube.com/@fmffoundationsseminar6878/videos) | [An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo) | [EPDF](https://epdf.tips/) |
 [Flash Talks in Representation Theory 2023](https://www.youtube.com/playlist?list=PLcLpn3xOEb-nKh4woEQFKxMEOTbqWUTCl) | [Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) |
 
+博士毕业 2023-6-21 
 
+---
 
 
 
