@@ -25,6 +25,8 @@ Email: mawaywoo(at)126(dot)com
 
 **做研究就是想尽办法用尽各种手段去获取未知对象的各种局部信息**[Chromatic homotopy theory - Jacob Lurie](https://www.youtube.com/watch?v=HRsDJPzl_Hg) (见心得545条)
 
+**看论文 = 为了学习别人获取局部信息的手段，从而借用去获取自己感兴趣的未知对象的部分信息**。
+
 博士毕业 2023-6-21 
 
 ---
