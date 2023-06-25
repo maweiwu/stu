@@ -1754,6 +1754,8 @@ _____________________________________________________________________________
 
 544. 图表读法（由上至下）：“去根、根再去根...”。M/Rad(M)=图表第一行，Rad(M)/Rad(Rad(M))=图表第二行，... 见 [Predicting syzygies over monomial relations algebras](https://link.springer.com/article/10.1007/BF02568368) 的第 171 页，或者 [Diagrams for modules](https://www.sciencedirect.com/science/article/pii/0022404980900109) 第 118 页。画不可分解投射模 Ae_i 的 diagram 的方法，首先由决定不可分解模的顶点 e_i 出发，图表中向下线段为由 e_i 出发的道路，到达后再根据箭图关系继续往前寻找由新顶点为起点的道路... 见 [Predicting syzygies over monomial relations algebras](https://link.springer.com/article/10.1007/BF02568368) 的第 176 页中的例 6 。2023-5-21 15:27 于汕大图书馆
 
+545. 张量上有理数 Q = 去掉挠部分，只留下无挠部分。[Chromatic homotopy theory - Jacob Lurie](https://www.youtube.com/watch?v=HRsDJPzl_Hg) 2023-6-25 8:24 于汕大图书馆 （明天去拿学位证和毕业证然后离校）
+
 博士毕业 2023-6-21 
 
 ---
