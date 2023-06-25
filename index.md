@@ -23,6 +23,8 @@ Email: mawaywoo(at)126(dot)com
 
 我的兴趣在homotopy type theory，higher category theory，topos theory，internal category theory (internalization)。**坚持靠自己啃出来**。找到自己真正的兴趣，不唯文章。
 
+**做研究就是想尽办法用尽各种手段去获取未知对象的各种局部信息**[Chromatic homotopy theory - Jacob Lurie](https://www.youtube.com/watch?v=HRsDJPzl_Hg) (见心得545条)
+
 博士毕业 2023-6-21 
 
 ---
