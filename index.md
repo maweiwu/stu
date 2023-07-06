@@ -1764,7 +1764,9 @@ _____________________________________________________________________________
 
 ---
  
+546. Homotopy Type Theory 以及 Topos Theory 可以使得我们更直接地（**集合论地**）理解范畴论。这是 HoTT 和 TT 的好处之一。2023-7-6 9:42 于广州市番禺区旧水坑村
 
+547. 下降数据和（同伦）余极限的想法就是将局部数据“粘成”整体数据。[André JOYAL - 4/4 A crash course in topos theory : the big picture](https://www.youtube.com/watch?v=xzyxgJBNW8w&t=2548s)
 
 
 
