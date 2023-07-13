@@ -164,6 +164,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ---
 
+[Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) |
 
 
 
